@@ -1,0 +1,65 @@
+UniqueId,Name,Started,AcresBurned,PercentContained,Counties,CanonicalUrl
+25caa778-e38d-4fe6-a7a6-c1420667a4a3,Crown Fire,2010-07-29T14:22:00Z,13918,100,Los Angeles,/incidents/2010/7/29/crown-fire/
+38922559-80db-4066-88c9-25646c976af1,Canyon Fire,2010-09-12T13:54:00Z,9820,100,Kern,/incidents/2010/9/12/canyon-fire/
+5cc07962-5ffd-4a3e-8e4a-578fac2efa68,Cotton Fire,2010-05-15T09:19:00Z,2044,100,San Luis Obispo,/incidents/2010/5/15/cotton-fire/
+039e29c0-b365-4121-80bb-bb57c6d8a9a2,Robinson Fire,2010-06-11T21:15:00Z,2000,100,Merced,/incidents/2010/6/11/robinson-fire/
+5b9627ed-f7e0-41c9-9476-c82d3fae26ea,West Fire,2010-07-27T15:48:00Z,1658,100,Kern,/incidents/2010/7/27/west-fire/
+6153d30b-fea5-42b4-a10e-45d12969259f,Post Fire,2010-08-24T12:15:00Z,1312,100,Kern,/incidents/2010/8/24/post-fire/
+22de7782-12ef-4517-9217-9a1e4eb250b2,Bullard Fire,2010-08-27T16:05:00Z,1307,100,Yuba,/incidents/2010/8/27/bullard-fire/
+5d4954a7-d392-4e28-9da9-4bd2b847748f,Pozo Fire,2010-08-21T12:31:00Z,1263,100,San Luis Obispo,/incidents/2010/8/21/pozo-fire/
+d853e3a4-076b-4e1e-91fd-2480d30f57f5,Monte Fire,2010-08-21T13:02:00Z,1047,100,San Diego,/incidents/2010/8/21/monte-fire/
+096ccaa6-e030-489c-ae66-046f9f7bf937,McKinley Fire,2010-05-20T12:48:00Z,1028,100,Riverside,/incidents/2010/5/20/mckinley-fire/
+e75d8b41-d681-4504-b74b-612eb9595a3c,Monte Fire,2010-08-21T01:02:00Z,929,100,San Diego,/incidents/2010/8/21/monte-fire/
+744150ea-35e9-4de1-b3ae-69d228c719f7,Stokes Fire,2010-08-17T20:05:00Z,879,100,Tulare,/incidents/2010/8/17/stokes-fire/
+783535e5-4f8d-4a4b-9fe6-34dc4b4b3e81,Pedley Fire,2010-05-12T13:31:00Z,856,100,Riverside,/incidents/2010/5/12/pedley-fire/
+2d8892b3-0974-46a5-a892-042d74ca6ebd,Cowboy Fire,2010-09-02T13:11:00Z,827,100,San Diego,/incidents/2010/9/2/cowboy-fire/
+49b3f03d-3fef-4353-8542-c216691e7171,Cactus Fire,2010-07-15T14:59:00Z,706,100,Riverside,/incidents/2010/7/15/cactus-fire/
+485e2029-3c92-4021-bfe9-aa6ee0bfe5cc,Bodfish Fire,2010-07-15T20:30:00Z,552,100,Kern,/incidents/2010/7/15/bodfish-fire/
+694d86f7-f9b5-4a01-9c98-0e5bc05e2c60,Skinner Fire,2010-07-15T15:42:00Z,503,100,Riverside,/incidents/2010/7/15/skinner-fire/
+1ed7d65a-878f-46c4-baea-fd802817c0be,Diablo Fire,2010-06-18T16:35:00Z,475,100,Alameda,/incidents/2010/6/18/diablo-fire/
+09092c25-0d6d-4f39-aef5-6882f376b825,Baseline Fire,2010-08-20T15:45:00Z,434,100,Placer,/incidents/2010/8/20/baseline-fire/
+fa55cc8c-b332-466f-8e5d-f4ea2a86cc13,Curry Fire,2010-08-24T16:00:00Z,375,100,Contra Costa,/incidents/2010/8/24/curry-fire/
+429ae732-a702-46ac-a46b-d05e09885ce1,Dutch Fire,2010-07-31T16:20:00Z,371,100,Siskiyou,/incidents/2010/7/31/dutch-fire/
+d4bc3d9a-6468-42d9-b3bc-1566abd986c8,Indian Fire,2010-08-24T15:22:00Z,363,100,Lake,/incidents/2010/8/24/indian-fire/
+8f1f4ff6-8549-4c51-a178-4160a80b62ac,Cow Fire,2010-08-01T15:55:00Z,293,100,Mendocino,/incidents/2010/8/1/cow-fire/
+9d1b9801-06ca-407d-874a-7456b1819f1e,Sunnyside Fire,2010-08-08T16:26:00Z,285,100,Lassen,/incidents/2010/8/8/sunnyside-fire/
+f24ee5c4-9b78-40b2-b896-f292295f6730,Millerton (Fine) Fire ,2010-06-22T16:00:00Z,275,100,Fresno,/incidents/2010/6/22/millerton-fine-fire/
+4637eb1d-970d-4b0b-812a-ee6cdeabcc96,Potrero Fire,2010-08-10T16:44:00Z,256,100,Riverside,/incidents/2010/8/10/potrero-fire/
+4568f608-4ec0-41fc-888d-92bf52a3c7fa,Russel Complex,2010-07-25T13:25:00Z,250,100,Lassen,/incidents/2010/7/25/russel-complex/
+ab04dd27-3682-48c9-b244-060331c493d2,Buckeye Fire,2010-09-06T09:36:00Z,205,100,Humboldt,/incidents/2010/9/6/buckeye-fire/
+4eb83178-372e-47c3-8a6f-8236159c3793,Vista Fire,2010-06-11T16:10:00Z,186,100,Contra Costa,/incidents/2010/6/11/vista-fire/
+539e9ce0-1719-4ac2-8654-e45eba88854e,Antelope Fire,2010-10-26T15:04:00Z,185,100,San Luis Obispo,/incidents/2010/10/26/antelope-fire/
+d7a87a9e-744f-4a83-996d-c3a4dfca3c63,Wetsel Fire,2010-11-03T13:56:00Z,155,100,Sacramento,/incidents/2010/11/3/wetsel-fire/
+8a6a1b0a-b8f7-41f6-bd7e-e27c1483eb00,Ranch Fire,2010-06-22T14:33:00Z,127,100,Riverside,/incidents/2010/6/22/ranch-fire/
+a7b3760a-3edb-4fbf-92cf-870f1cbfc2b3,Scott Fire,2010-11-06T13:35:00Z,125,100,San Bernardino,/incidents/2010/11/6/scott-fire/
+be3ef19c-1aef-49d5-b06b-5579c79d2c01,Windy Fire,2010-09-06T12:00:00Z,125,100,Tehama,/incidents/2010/9/6/windy-fire/
+630fbf3a-ad72-4289-a0e8-a75f45f39f4b,Palmer Fire,2010-09-03T12:09:00Z,120,100,Riverside,/incidents/2010/9/3/palmer-fire/
+076d2173-af4e-496b-b0aa-b577461ba7cb,Lake Fire,2010-10-09T18:36:00Z,112,100,San Luis Obispo,/incidents/2010/10/9/lake-fire/
+58a42849-5ff7-4875-b337-634f0e5efe26,Scissors Fire,2010-07-31T09:10:00Z,110,100,San Diego,/incidents/2010/7/31/scissors-fire/
+f2918dcc-cbb7-4c20-955e-ffb916cdf8b9,Tenaja Fire,2010-01-14T12:07:00Z,107,100,Riverside,/incidents/2010/1/14/tenaja-fire/
+f970ad95-1e93-4ac9-8f87-370a2b304b8c,Pala Fire,2010-06-23T15:37:00Z,106,100,San Diego,/incidents/2010/6/23/pala-fire/
+fff0b844-0d28-4a58-9160-a38a50271a56,Narrows Fire,2010-06-16T17:00:00Z,100,100,San Diego,/incidents/2010/6/16/narrows-fire/
+467aa892-9d4e-4ccc-b87d-aec33f829609,Bodega Fire,2010-09-25T12:30:00Z,98,100,Sonoma,/incidents/2010/9/25/bodega-fire/
+ab4584df-a117-48bf-a24e-0eca7d476aa4,Minto Fire,2010-08-30T15:22:00Z,81,100,Riverside,/incidents/2010/8/30/minto-fire/
+20768cfd-a414-486d-807f-e07eec2d69fa,Gilman Fire,2010-09-05T15:55:00Z,75,100,Riverside,/incidents/2010/9/5/gilman-fire/
+57c64379-6823-43ad-a0c7-8545fa96754e,Fairview Fire,2010-05-26T14:35:00Z,75,100,Riverside,/incidents/2010/5/26/fairview-fire/
+0a09a277-8ca8-46a1-9af2-43bf5e2f8fb6,Saddle Fire,2010-07-15T15:47:00Z,70,100,Riverside,/incidents/2010/7/15/saddle-fire/
+4f9ee62d-d72d-41ba-8099-2d1583b058ec,Whitlock Fire,2010-09-18T16:43:00Z,69,100,Mariposa,/incidents/2010/9/18/whitlock-fire/
+586c44af-0e53-4689-a457-e71e573d4949,Miller Fire,2010-08-17T16:58:00Z,66,100,San Bernardino,/incidents/2010/8/17/miller-fire/
+d73dbf96-ded5-4deb-8daf-4828a75ea52b,Highway 71 Fire,2010-09-11T16:43:00Z,65,100,San Bernardino,/incidents/2010/9/11/highway-71-fire/
+8f94cf9c-2d8e-4330-8768-520912d1879d,Clinton Fire,2010-09-01T13:14:00Z,65,100,Riverside,/incidents/2010/9/1/clinton-fire/
+66092727-b309-47f2-a399-dccb53eda4b9,Hawk Complex,2010-08-25T13:18:00Z,62,100,Riverside,/incidents/2010/8/25/hawk-complex/
+8574e136-6e30-4e62-9181-1178f6660311,Bridge Fire,2010-10-11T15:50:00Z,56,100,Placer,/incidents/2010/10/11/bridge-fire/
+339f5d10-3888-40de-bfbd-a6cb1cb89ec8,Border Fire 12,2010-10-10T13:10:00Z,50,100,San Diego,/incidents/2010/10/10/border-fire-12/
+bf8bf739-952e-4a67-b3ad-8c63160ad110,India Fire,2010-05-19T17:27:00Z,50,100,San Diego,/incidents/2010/5/19/india-fire/
+960472c0-34b7-4f17-aa94-07da65dde15c,River Fire,2010-06-16T13:52:00Z,46,100,Riverside,/incidents/2010/6/16/river-fire/
+785949f5-a247-4fcf-9156-b5197920c63e,Pacific Fire,2010-11-14T12:20:00Z,45,100,Riverside,/incidents/2010/11/14/pacific-fire/
+aff24583-5c89-4e3e-9558-c87fc18e411f,Oregon Fire,2010-09-18T20:34:00Z,40,100,Butte,/incidents/2010/9/18/oregon-fire/
+238a9591-4b25-4112-b7f1-01889e59c933,Converse Fire,2010-08-18T09:39:00Z,38,100,Mariposa,/incidents/2010/8/18/converse-fire/
+ba16fad9-131a-4219-a749-35acbf2cce18,Green Fire,2010-08-03T16:00:00Z,35,100,Monterey,/incidents/2010/8/3/green-fire/
+3957a830-efe5-41e8-8316-71b2bcdac57b,Santa Fire,2010-08-22T16:00:00Z,30,100,San Diego,/incidents/2010/8/22/santa-fire/
+e01558dd-ab14-40c4-96a4-12cf0958db93,Rocky Fire,2010-10-29T12:33:00Z,25,100,San Luis Obispo,/incidents/2010/10/29/rocky-fire/
+be317fee-5380-4dae-acb6-0c0d5a53299b,Dobbins Fire,2010-08-20T15:55:00Z,25,100,Yuba,/incidents/2010/8/20/dobbins-fire/
+c0723066-e6b7-4790-a8ef-059bdacb20af,Rock Fire,2010-08-19T19:48:00Z,25,100,Riverside,/incidents/2010/8/19/rock-fire/
+11bf0d2b-000e-4902-9814-94d909848726,Buzzard Fire,2010-08-03T13:28:00Z,20,100,Shasta,/incidents/2010/8/3/buzzard-fire/
+cf8db473-39c4-4239-bd20-88a0a625f96a,Rainbow Fire,2010-09-24T15:52:00Z,10,100,Riverside,/incidents/2010/9/24/rainbow-fire/

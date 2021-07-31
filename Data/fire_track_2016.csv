@@ -1,0 +1,186 @@
+UniqueId,Name,Started,AcresBurned,PercentContained,Counties,CanonicalUrl
+977ac7ce-4204-4cd3-9f89-727142165261,Soberanes Fire,2016-07-22T08:48:00Z,132127,100,Monterey,/incidents/2016/7/22/soberanes-fire/
+91816ff6-d4ec-4f31-8d40-bf2538aca09b,Erskine Fire,2016-06-23T15:51:00Z,48019,100,Kern,/incidents/2016/6/23/erskine-fire/
+040d03d0-fbdd-438c-8174-f81e4a1bba57,Chimney Fire,2016-08-13T16:03:00Z,46344,100,San Luis Obispo,/incidents/2016/8/13/chimney-fire/
+ea5193a1-69bc-4684-bfcd-235c17d36756,Blue Cut Fire,2016-08-16T10:44:00Z,36274,100,San Bernardino,/incidents/2016/8/16/blue-cut-fire/
+85683fd7-b507-4ec7-8bbd-fb7033a42665,Gap Fire,2016-08-27T18:00:00Z,33867,100,Siskiyou,/incidents/2016/8/27/gap-fire/
+dc3f57ff-a935-4c25-bbe3-e00eeb5b5f42,Rey Fire ,2016-08-18T17:57:00Z,32606,100,Santa Barbara,/incidents/2016/8/18/rey-fire/
+e247e423-6171-4184-9dca-b373de703885,Cedar Fire,2016-08-16T16:35:00Z,29322,100,Kern,/incidents/2016/8/16/cedar-fire/
+f6afb8c4-32dc-4e6d-8d30-e6b7ccd4a62f,Canyon Fire,2016-09-17T17:20:00Z,12518,100,Santa Barbara,/incidents/2016/9/17/canyon-fire/
+69c7b8cc-061e-4ca6-b5e8-83c6ae9d8a25,Pilot Fire,2016-08-07T12:18:00Z,8110,100,San Bernardino,/incidents/2016/8/7/pilot-fire/
+33099cdd-ccfc-454e-b5a3-770a69a30bd3,Border Fire,2016-06-19T11:03:00Z,7609,100,San Diego,/incidents/2016/6/19/border-fire/
+ffb3293b-3349-49c5-a7cb-c488391e8a72,Sherpa Fire,2016-06-15T15:21:00Z,7474,100,Santa Barbara,/incidents/2016/6/15/sherpa-fire/
+346c59b1-375e-4d42-876a-d97b769c939f,Mineral Fire,2016-08-09T13:08:00Z,7050,100,Fresno,/incidents/2016/8/9/mineral-fire/
+057fd4e2-7400-4fc4-9b23-3daf67fc8610,Cold Fire,2016-08-02T16:36:00Z,5731,100,Yolo,/incidents/2016/8/2/cold-fire/
+b604ffa7-8cee-4724-bb82-f1f4553a192f,Trailhead Fire,2016-06-28T13:55:00Z,5646,100,El Dorado,/incidents/2016/6/28/trailhead-fire/
+b604ffa7-8cee-4724-bb82-f1f4553a192f,Trailhead Fire,2016-06-28T13:55:00Z,5646,100,Placer,/incidents/2016/6/28/trailhead-fire/
+821c040d-a17c-4934-990f-ca7d441a303a,Owens River Fire,2016-09-17T13:49:00Z,5443,100,Inyo,/incidents/2016/9/17/owens-river-fire/
+2b8f9fdc-f812-4d72-9163-c5356d8ae04b,San Gabriel Complex (Formerly Fish & Reservoir Fires),2016-06-20T13:59:00Z,5399,100,Los Angeles,/incidents/2016/6/20/san-gabriel-complex-formerly-fish-reservoir-fires/
+ca1227b3-1458-44c9-b32e-2994e309f940,Marek Fire,2016-11-14T05:45:00Z,4824,100,Los Angeles,/incidents/2016/11/14/marek-fire/
+2dfac408-d2ab-4ff9-94aa-91be9d07bb59,Loma Fire,2016-09-26T14:42:00Z,4474,100,Santa Clara,/incidents/2016/9/26/loma-fire/
+89c304db-e288-4582-90d4-884d57fd71f9,Meadow Fire,2016-10-29T11:15:00Z,4347,100,Tulare,/incidents/2016/10/29/meadow-fire/
+a0950d5e-6f35-4023-bb60-6737146ba7bd,Clayton Fire,2016-08-13T18:03:00Z,3929,100,Lake,/incidents/2016/8/13/clayton-fire/
+55fa95e6-f09e-42c4-889b-a4b5b63dccf2,Metz Fire,2016-05-22T15:27:00Z,3876,100,Monterey,/incidents/2016/5/22/metz-fire/
+50f908c4-841a-4125-8563-5c3e1866ff8a,Roberts Fire,2016-05-18T14:27:00Z,3712,100,San Luis Obispo,/incidents/2016/5/18/roberts-fire/
+423df2bd-4464-44e0-8b8a-74f953613287,Curry Fire,2016-07-01T17:16:00Z,2944,100,Fresno,/incidents/2016/7/1/curry-fire/
+103e1cb6-0a02-4ca8-8739-4cf77b5d1c98,Pony Fire,2016-06-07T02:45:00Z,2860,100,Siskiyou,/incidents/2016/6/7/pony-fire/
+afa76746-3e42-48ed-bff6-e65ef40c6037,Clark Fire,2016-08-04T14:09:00Z,2819,100,Mono,/incidents/2016/8/4/clark-fire/
+92c20948-6ff6-4a2c-b13f-32c75e71b16c,Soup Complex,2016-09-17T14:37:00Z,2652,100,Modoc,/incidents/2016/9/17/soup-complex/
+1243f711-c29f-4bc3-a7e7-c705a6fc40f2,Willard Fire,2016-09-11T11:33:00Z,2575,100,Lassen,/incidents/2016/9/11/willard-fire/
+b8cf80c7-b617-4fe4-91b0-43b40d38c7f6,Coleman Fire,2016-06-04T14:33:00Z,2520,100,Monterey,/incidents/2016/6/4/coleman-fire/
+8653f541-d3ca-44b4-9edd-5a4a57349f2f,Pine Fire,2016-06-30T16:55:00Z,2304,100,Ventura,/incidents/2016/6/30/pine-fire/
+bd2b7bdc-0f92-451a-a3a5-03569d27c952,Goose Fire,2016-07-30T16:40:00Z,2241,100,Fresno,/incidents/2016/7/30/goose-fire/
+59084c8f-904c-42cb-9aa8-cae4a1f8c6ef,Sacata Fire,2016-10-11T12:58:00Z,2100,100,Fresno,/incidents/2016/10/11/sacata-fire/
+140def53-175c-4f5d-b8e3-de0643781ff7,Deer Fire,2016-07-01T14:05:00Z,1785,100,Kern,/incidents/2016/7/1/deer-fire/
+8d9b87e4-6fdb-49e4-ba6d-be85ffd6b222,Sawmill Fire,2016-09-25T10:43:00Z,1547,100,Sonoma,/incidents/2016/9/25/sawmill-fire/
+944e953f-ed28-4b99-8d60-d352c702e6f9,Bogart Fire,2016-08-30T12:25:00Z,1470,100,Riverside,/incidents/2016/8/30/bogart-fire/
+ec90eb29-e776-43da-a814-0c41463ae3c9,Dinosaur Fire,2016-06-25T23:45:00Z,1246,100,Merced,/incidents/2016/6/25/dinosaur-fire/
+78eccd24-9fe2-4ccd-90fa-a1e0fdc19b41,Roblar Fire,2016-07-21T16:06:00Z,1245,100,San Diego,/incidents/2016/7/21/roblar-fire/
+79b446a4-d809-4aa2-9f30-091a05ed697d,Sage Fire,2016-07-09T12:04:00Z,1109,100,Los Angeles,/incidents/2016/7/9/sage-fire/
+3a4871dc-2299-4934-8a31-b92780fe31a3,Marshes Fire,2016-09-26T12:20:00Z,1080,100,Tuolumne,/incidents/2016/9/26/marshes-fire/
+c94fda40-ab7a-42d1-bfc9-ca5f39fb6e7d,Saddle Fire,2016-09-05T16:28:00Z,850,100,Butte,/incidents/2016/9/5/saddle-fire/
+a2a6199c-704a-4826-a51b-23e6ee123349,Grade Fire,2016-08-24T14:55:00Z,710,100,Siskiyou,/incidents/2016/8/24/grade-fire/
+1bc85249-0d96-42d7-a23f-db99bdce17a4,Marina Fire,2016-06-25T06:30:00Z,650,100,Mono,/incidents/2016/6/25/marina-fire/
+da72b0c2-835d-42a5-8fa8-4de5442610cc,Tully Fire,2016-08-22T16:03:00Z,599,100,Humboldt,/incidents/2016/8/22/tully-fire/
+fe112320-013f-434e-b66c-101234292711,Fort Fire,2016-07-08T11:15:00Z,554,100,Kern,/incidents/2016/7/8/fort-fire/
+e5122d1e-2bfc-4fa6-8152-da309e02c004,99 Fire,2016-08-02T14:35:00Z,550,100,Butte,/incidents/2016/8/2/99-fire/
+2656ad63-b3e1-467f-9982-0229fd31c0f5,Range Fire,2016-08-26T10:10:00Z,518,100,Kern,/incidents/2016/8/26/range-fire/
+69eaa890-889e-4be9-810d-3dcee8d55981,Colyear Fire,2016-06-30T13:32:00Z,464,100,Tehama,/incidents/2016/6/30/colyear-fire/
+db833182-22df-44cc-ba10-0901e74222bc,Willow Fire,2016-08-28T13:07:00Z,450,100,Calaveras,/incidents/2016/8/28/willow-fire/
+67c0a269-05bb-4b4f-af22-68a1c5ac3adf,Fiddler Fire,2016-07-08T22:45:00Z,441,100,Shasta,/incidents/2016/7/8/fiddler-fire/
+822c934f-11be-48a9-8e60-f3f6802ef24d,Beale Fire,2016-08-18T15:35:00Z,400,100,Yuba,/incidents/2016/8/18/beale-fire/
+954fb899-decb-461b-a0dd-76442e3370d3,Tule Fire,2016-08-22T22:00:00Z,395,100,Tulare,/incidents/2016/8/22/tule-fire/
+97772dc4-7fde-4412-982c-974b3316e22b,Howard Fire,2016-09-11T14:15:00Z,380,100,Modoc,/incidents/2016/9/11/howard-fire/
+5689b708-61e8-4451-8ad6-68d9684704c6,Rancho Fire,2016-06-28T19:02:00Z,372,100,Amador,/incidents/2016/6/28/rancho-fire/
+060ef833-2d3f-47d4-a1d4-146d1b9a5928,Hog Fire,2016-09-13T23:10:00Z,360,100,Tehama,/incidents/2016/9/13/hog-fire/
+85832754-5848-4454-84fc-8b0a9abbff40,Pacheco Fire,2016-07-12T13:14:00Z,341,100,Calaveras,/incidents/2016/7/12/pacheco-fire/
+902a3085-e518-4090-a2e5-20d0482b4dc2,Appaloosa Fire,2016-07-02T14:55:00Z,310,100,Calaveras,/incidents/2016/7/2/appaloosa-fire/
+376f08dc-071a-4ef5-9035-cf61b4f2fa3b,Flat Fire,2016-09-19T14:13:00Z,306,100,Kern,/incidents/2016/9/19/flat-fire/
+fa457abb-66d2-4f82-80fd-452e824e871f,Havilah Fire,2016-08-28T18:50:00Z,304,100,Kern,/incidents/2016/8/28/havilah-fire/
+f669c502-b400-4ad9-ae95-bfd9c31f903c,Butte Fire,2016-09-20T09:30:00Z,300,100,Sutter,/incidents/2016/9/20/butte-fire/
+09ab0430-7679-494c-96d4-d7d938351cf4,DeWolf Fire,2016-05-25T01:03:00Z,278,100,Fresno,/incidents/2016/5/25/dewolf-fire/
+eb0fe9ad-f9f5-4bde-ad34-527ffd647669,Creek Fire,2016-06-26T15:45:00Z,277,100,Yolo,/incidents/2016/6/26/creek-fire/
+abd0a296-217d-4a6a-9da0-5eb05f56f863,Tobin Fire,2016-09-26T13:23:00Z,248,100,Plumas,/incidents/2016/9/26/tobin-fire/
+e84f2562-1126-4255-9df4-dd7a32460e43,King Fire ,2016-06-17T14:30:00Z,237,100,San Benito,/incidents/2016/6/17/king-fire/
+0dc19167-07b3-45e6-9bad-ad070934616a,Onyx Fire,2016-07-13T17:08:00Z,221,100,Kern,/incidents/2016/7/13/onyx-fire/
+686e1300-65d3-4e07-8a88-e5952418649b,Washington Fire,2016-09-22T14:20:00Z,215,100,Santa Barbara,/incidents/2016/9/22/washington-fire/
+489cea9f-b3cb-4615-b412-5ac5724c3976,Reservoir Fire,2016-06-26T16:00:00Z,215,100,Lake,/incidents/2016/6/26/reservoir-fire/
+3822b8a2-1a89-40e8-b239-840cfcda7a1c,Grant Fire,2016-06-25T16:11:00Z,211,100,Alameda,/incidents/2016/6/25/grant-fire/
+fef2ab8a-20d7-4dc3-b5c9-363aa1debef3,Camanche Fire,2016-06-17T14:54:00Z,210,100,Amador,/incidents/2016/6/17/camanche-fire/
+4cfb8712-1b45-4a2e-b0c9-6ed6ddde5657,Big Fire,2016-07-11T14:30:00Z,188,100,Fresno,/incidents/2016/7/11/big-fire/
+81ef7517-ab3c-4d1a-8ddd-b5d69404676f,Emerald Fire,2016-10-14T01:28:00Z,176,100,El Dorado,/incidents/2016/10/14/emerald-fire/
+89d10422-494e-4b60-8d52-07995447b12e,Briggs Fire,2016-07-12T15:20:00Z,173,100,Riverside,/incidents/2016/7/12/briggs-fire/
+e0de216a-9544-43ad-9b9f-bc05247f0550,Athens Fire,2016-05-17T15:06:00Z,169,100,Placer,/incidents/2016/5/17/athens-fire/
+63643257-f082-4928-bf0e-77a0417a4613,Sunny Fire,2016-09-03T14:44:00Z,158,100,Fresno,/incidents/2016/9/3/sunny-fire/
+ace1f464-7a70-4dcc-b8c5-d64fb1021d0e,Wheatland Fire,2016-05-23T14:15:00Z,156,100,Los Angeles,/incidents/2016/5/23/wheatland-fire/
+f12c92df-003f-42bc-9cb0-a15323f4166c,Hills Fire,2016-04-28T17:45:00Z,151,100,Fresno,/incidents/2016/4/28/hills-fire/
+f66ae0d0-837d-4ea9-a7ed-6a78d9bde940,Old Fire,2016-09-13T13:55:00Z,150,100,Del Norte,/incidents/2016/9/13/old-fire/
+d045584a-8838-4d64-91dc-3ebfbcd8e708,Holy Fire,2016-08-31T04:10:00Z,150,100,Orange,/incidents/2016/8/31/holy-fire/
+1d76ca50-aa10-4f90-bd99-a80bcf2eacce,Shedd Fire,2016-05-10T16:11:00Z,150,100,San Luis Obispo,/incidents/2016/5/10/shedd-fire/
+86166c24-3a85-42e3-a53a-ebb1d935fb8a,Bird Fire,2016-08-20T08:35:00Z,147,100,San Joaquin,/incidents/2016/8/20/bird-fire/
+e55dd16e-1712-4b97-a2f3-add0877b98cd,Frame Fire,2016-07-04T17:15:00Z,145,100,Fresno,/incidents/2016/7/4/frame-fire/
+380634ff-2fe6-48b0-a1f6-97a889551d2f,Maze Fire,2016-08-04T15:45:00Z,140,100,Stanislaus,/incidents/2016/8/4/maze-fire/
+403e6185-c0e1-4b8f-a290-b50553a47b67,Temecula Fire,2016-06-04T11:40:00Z,139,100,Riverside,/incidents/2016/6/4/temecula-fire/
+73083049-8bc2-4444-911b-f3d0812fb70c,Famoso Fire,2016-07-15T23:55:00Z,138,100,Kern,/incidents/2016/7/15/famoso-fire/
+f1769b9d-c522-4a0d-92a7-f9c8321b9f1d,Avocado Fire,2016-05-15T16:38:00Z,132,100,Fresno,/incidents/2016/5/15/avocado-fire/
+b4940174-75d0-4f5e-b505-4a66c17a9157,Bangor Fire,2016-09-22T11:45:00Z,130,100,Butte,/incidents/2016/9/22/bangor-fire/
+a32de567-3d32-434a-9128-7947deaec3bb,Green Fire,2016-07-15T16:45:00Z,123,100,Fresno,/incidents/2016/7/15/green-fire/
+0539e095-5108-4b9a-8736-65772440e9e8,Rock Creek Fire,2016-08-05T15:45:00Z,122,100,Mono,/incidents/2016/8/5/rock-creek-fire/
+648cfdd4-f3f5-4faf-8ab1-a6f2cb5d9a6c,Coe Fire,2016-06-07T16:30:00Z,120,100,Stanislaus,/incidents/2016/6/7/coe-fire/
+4c88252e-34a5-4912-a590-2c4539866c62,Sierra Fire,2016-07-30T17:25:00Z,114,100,Santa Clara,/incidents/2016/7/30/sierra-fire/
+5f422963-a30c-4cda-9427-7a0e028b6039,Coal Fire,2016-06-20T16:38:00Z,112,100,Butte,/incidents/2016/6/20/coal-fire/
+8e920d15-72f4-4e76-a3b4-22a364d6cf19,Broken Fire,2016-07-04T11:53:00Z,103,100,Madera,/incidents/2016/7/4/broken-fire/
+8a4c92b3-c1aa-41e0-aaed-999d73f0a418,Cow Fire,2016-09-25T07:15:00Z,100,100,Shasta,/incidents/2016/9/25/cow-fire/
+40dec759-8a09-439c-8c95-14b4a248c033,Bailey Fire,2016-08-17T15:19:00Z,100,100,Santa Clara,/incidents/2016/8/17/bailey-fire/
+f645bf93-57a3-4fdf-9544-d255f8311dc9,Hart Fire,2016-08-04T17:10:00Z,100,100,Kern,/incidents/2016/8/4/hart-fire/
+e952af56-3233-4e53-b611-d437220ea750,Diablo Fire,2016-08-03T16:08:00Z,100,100,Stanislaus,/incidents/2016/8/3/diablo-fire/
+947aab39-3d8a-4841-8fc3-d129d8bbf6a3,Bradley Fire,2016-07-22T15:15:00Z,100,100,Monterey,/incidents/2016/7/22/bradley-fire/
+d96a2f4f-8e4d-4534-abe2-d90530e2bbc3,Feather Fire,2016-07-18T13:08:00Z,100,100,San Diego,/incidents/2016/7/18/feather-fire/
+2a04ab08-1412-4a3d-b6b2-7e5fc48f99e5,Mercury Fire,2016-07-09T12:43:00Z,95,100,San Benito,/incidents/2016/7/9/mercury-fire/
+5080eb51-53e5-4338-95ec-618efe2bd7d1,Dunstone Fire,2016-05-27T13:43:00Z,91,100,Butte,/incidents/2016/5/27/dunstone-fire/
+c55cc099-43f6-4a55-81b4-59ee03618511,Santos Fire,2016-08-26T15:30:00Z,88,100,Butte,/incidents/2016/8/26/santos-fire/
+f88a7291-9122-49fa-864d-b807fa360393,Flores Fire,2016-07-01T13:54:00Z,88,100,Tehama,/incidents/2016/7/1/flores-fire/
+d570e949-a098-4af0-84a4-d70c4a0e89c9,Moore Fire,2016-06-21T12:24:00Z,88,100,Placer,/incidents/2016/6/21/moore-fire/
+fbe85bec-6399-442f-8a3f-ca4a25bb2b3b,Scott Fire,2016-07-10T15:30:00Z,87,100,Sacramento,/incidents/2016/7/10/scott-fire/
+42fbaa73-e3c8-44ac-bf83-a576be6a804f,Frazier Fire,2016-06-27T12:07:00Z,86,100,San Luis Obispo,/incidents/2016/6/27/frazier-fire/
+8505d2db-7c6f-445e-9bff-407e99cac614,Grub Fire,2016-08-04T14:13:00Z,85,100,Madera,/incidents/2016/8/4/grub-fire/
+ffec404e-dea9-4175-8c50-8f2b0ca3efdd,Tulloch Fire,2016-05-30T15:10:00Z,85,100,Tuolumne,/incidents/2016/5/30/tulloch-fire/
+b6b6ef56-0d7f-4c97-b072-74b712aa1e65,Dunnigan Fire,2016-07-15T14:00:00Z,84,100,Yolo,/incidents/2016/7/15/dunnigan-fire/
+a56880f1-16c0-4d23-8f5a-b9ac436694bb,Cheyenne Fire,2016-06-15T12:46:00Z,83,100,Calaveras,/incidents/2016/6/15/cheyenne-fire/
+fb7d6492-444e-420c-9111-0f8999d3af04,Old Fire,2016-06-12T12:45:00Z,83,100,San Benito,/incidents/2016/6/12/old-fire/
+140161a1-ca06-448a-87f2-27e688b2d922,Baker Fire,2016-08-03T17:27:00Z,80,100,Tehama,/incidents/2016/8/3/baker-fire/
+3e9fd887-dc53-4d90-a8b4-492670fcab8f,Serpa Fire,2016-07-21T12:53:00Z,80,100,Madera,/incidents/2016/7/21/serpa-fire/
+10a8344d-e2c6-4585-8094-bbb30e48db8c,Hoag Fire,2016-06-11T14:30:00Z,80,100,Tehama,/incidents/2016/6/11/hoag-fire/
+69b7a19e-7be7-43c1-8779-c7110b22f552,Sherwood Fire,2016-07-13T15:52:00Z,78,100,Ventura,/incidents/2016/7/13/sherwood-fire/
+47ee7239-2bc9-4794-8582-982a92fdda9f,Lake Fire,2016-09-10T15:45:00Z,75,100,Shasta,/incidents/2016/9/10/lake-fire/
+2e8eb057-1d9a-41a7-ab9f-9b85ce3374c4,Newmark Fire,2016-09-23T12:40:00Z,70,100,Fresno,/incidents/2016/9/23/newmark-fire/
+ae6a40fa-c0f3-460b-8e19-fbf4b5803bb8,Arroyo Fire,2016-06-18T16:47:00Z,70,100,Monterey,/incidents/2016/6/18/arroyo-fire/
+c88af25d-aff4-4b20-9c58-0b819c8ae99a,Pala Fire,2016-05-31T13:48:00Z,70,100,San Diego,/incidents/2016/5/31/pala-fire/
+6a75dc36-9f37-4c3a-870d-345f94a8104c,Foothill Fire,2016-07-19T17:16:00Z,69,100,Lake,/incidents/2016/7/19/foothill-fire/
+3135c367-1274-4cc4-9152-661f6fd7707e,Creek Fire,2016-10-10T16:13:00Z,65,100,Napa,/incidents/2016/10/10/creek-fire/
+bae93037-2a91-4189-b256-3325cd2b6979,Cotton Fire,2016-06-11T15:04:00Z,61,100,Kern,/incidents/2016/6/11/cotton-fire/
+dc7637b2-fa97-47c7-bbce-c0fd1a015592,Oak Fire,2016-07-22T13:01:00Z,57,100,Solano,/incidents/2016/7/22/oak-fire/
+2dae3029-2d17-445a-9fac-e95345b179e0,Baker Fire,2016-07-21T15:06:00Z,57,100,Calaveras,/incidents/2016/7/21/baker-fire/
+89ca911c-b44f-40d4-b10e-0a7ae0ca33b7,Mill Fire,2016-05-19T15:37:00Z,56,100,Siskiyou,/incidents/2016/5/19/mill-fire/
+61556003-7789-4b9e-8f16-5563624b4621,Lowe Fire,2016-06-23T17:57:00Z,52,100,Monterey,/incidents/2016/6/23/lowe-fire/
+2a2e0af5-24d7-4903-bab4-3705f5d788fb,Ruff Fire ,2016-09-10T14:06:00Z,50,100,Mendocino,/incidents/2016/9/10/ruff-fire/
+324a3c48-efcc-4385-ab87-baf0b5e29b5d,Spring Fire,2016-09-07T16:53:00Z,50,100,San Bernardino,/incidents/2016/9/7/spring-fire/
+f273dffb-e1eb-48dc-b0f9-908857e78095,Storksbill Fire,2016-07-22T13:15:00Z,50,100,El Dorado,/incidents/2016/7/22/storksbill-fire/
+867bead0-b6a5-4ec4-a4de-83af2e854cd1,Casitas Fire,2016-04-28T19:00:00Z,50,100,Ventura,/incidents/2016/4/28/casitas-fire/
+6b542aff-fa1b-46fc-b3da-26c1afdbc446,70 Fire,2016-06-21T15:09:00Z,49,100,Butte,/incidents/2016/6/21/70-fire/
+1f8b3267-c3bd-43f5-9733-2b30c97d45ee,Auburn Fire,2016-09-17T13:40:00Z,47,100,Nevada,/incidents/2016/9/17/auburn-fire/
+c27c5212-1891-4105-86ee-9f97016ef159,Laguna Fire,2016-06-26T13:10:00Z,47,100,Orange,/incidents/2016/6/26/laguna-fire/
+0bf08653-1441-4e73-b24b-1296afb12b45,Bell Fire,2016-09-23T13:12:00Z,45,100,Amador,/incidents/2016/9/23/bell-fire/
+28b9dc5f-f9c0-41fb-81d6-8db562122f00,Kugelman Fire,2016-08-09T17:30:00Z,45,100,Lake,/incidents/2016/8/9/kugelman-fire/
+174608a2-14fd-4278-9811-cb7e5e5a3883,Kuehner Fire,2016-07-01T14:00:00Z,45,100,Ventura,/incidents/2016/7/1/kuehner-fire/
+b1b2a50c-c131-4be2-9398-8adee38c1c19,Paskenta Fire,2016-06-21T10:26:00Z,43,100,Tehama,/incidents/2016/6/21/paskenta-fire/
+b5699308-b26c-4e76-9954-219b58468d8e,Walker Fire,2016-05-30T17:57:00Z,43,100,Kern,/incidents/2016/5/30/walker-fire/
+17a944b9-c8b8-4486-8d71-89d713bd538b,Dockery Fire,2016-07-30T16:25:00Z,42,100,Lassen,/incidents/2016/7/30/dockery-fire/
+2d2aa30d-5c3f-4f46-97eb-54b63bec7f3a,Boys Fire,2016-09-11T11:25:00Z,40,100,Sacramento,/incidents/2016/9/11/boys-fire/
+c531ed84-0c29-4d31-94cf-f48d71d96eed,Evergreen Fire,2016-08-28T15:23:00Z,40,100,Riverside,/incidents/2016/8/28/evergreen-fire/
+416155ea-f8ff-43cf-abf0-e888584bf5bc,Franklin Fire,2016-07-24T16:30:00Z,40,100,Contra Costa,/incidents/2016/7/24/franklin-fire/
+af8f8070-a3d6-4ca2-8e2b-6da1049a5bea,Phoenix Fire,2016-09-07T15:09:00Z,38,100,Nevada,/incidents/2016/9/7/phoenix-fire/
+7066c984-1420-4c59-b175-9536da4c5d14,Fork Fire,2016-07-29T17:55:00Z,38,100,Madera,/incidents/2016/7/29/fork-fire/
+b44c3b1e-b243-455e-9ca9-9a1b5570e003,Mina Fire,2016-08-30T13:35:00Z,36,100,Mendocino,/incidents/2016/8/30/mina-fire/
+ef4185e8-9b3a-421f-9fae-a0b954b0b3c0,Knoxville Fire,2016-08-09T18:50:00Z,36,100,Lake,/incidents/2016/8/9/knoxville-fire/
+4f623d67-d74b-4e8f-92f4-ed728970e20e,Gopher Fire,2016-08-10T09:14:00Z,35,100,San Diego,/incidents/2016/8/10/gopher-fire/
+93995926-26b0-4158-9f93-fec263f40b47,Mountain Fire,2016-08-09T12:14:00Z,35,100,Shasta,/incidents/2016/8/9/mountain-fire/
+fe371090-80be-43fe-9d40-761fe436de7e,Neal Fire,2016-07-28T14:27:00Z,35,100,Butte,/incidents/2016/7/28/neal-fire/
+eb9d05b5-7578-44bf-9eb1-3ddba425ff20,Stagecoach Fire,2016-07-12T15:19:00Z,35,100,Calaveras,/incidents/2016/7/12/stagecoach-fire/
+2225d427-97d7-4d71-a83a-814f38a1c947,Campo Fire,2016-06-27T18:00:00Z,33,100,Calaveras,/incidents/2016/6/27/campo-fire/
+ed16bf52-f886-4384-b841-2e755234aa29,Moffett Fire,2016-09-12T16:28:00Z,32,100,Siskiyou,/incidents/2016/9/12/moffett-fire/
+f4026428-ad5a-42c7-b68e-959554a31343,Frymire Fire,2016-07-30T17:25:00Z,32,100,Tuolumne,/incidents/2016/7/30/frymire-fire/
+c5d590f0-97fe-4ac3-987d-ebceed6dbfc2,Clay Fire,2016-06-03T16:57:00Z,32,100,Sacramento,/incidents/2016/6/3/clay-fire/
+69e1a36d-21ab-4feb-b31c-dbfac4bf62d1,Old Fire,2016-09-16T23:28:00Z,30,100,Butte,/incidents/2016/9/16/old-fire/
+6f07d935-7d64-4be8-8e96-d34384686bf8,Lone Pine Fire,2016-07-01T12:56:00Z,30,100,Inyo,/incidents/2016/7/1/lone-pine-fire/
+a757d4f9-2aa1-44c8-b986-ac00ca2fafdd,Hidden Fire,2016-06-03T17:39:00Z,30,100,San Benito,/incidents/2016/6/3/hidden-fire/
+6227f4ad-3e40-4f3b-b210-3e55483e1e84,70 Fire,2016-05-29T16:51:00Z,30,100,Butte,/incidents/2016/5/29/70-fire/
+7106ba43-100b-41f9-acbf-9fb9e9ab9ef7,Taglio Fire,2016-04-24T11:10:00Z,30,100,Merced,/incidents/2016/4/24/taglio-fire/
+6f600260-2bdb-4f53-9d1a-eab8afb3a11a,Gopher Fire,2016-11-13T11:14:00Z,28,100,San Diego,/incidents/2016/11/13/gopher-fire/
+0b655a9d-94b3-4095-acfd-d40ac8347318,Rock Fire,2016-07-22T14:47:00Z,28,100,San Diego,/incidents/2016/7/22/rock-fire/
+38fe21ed-2019-4be9-abdf-bf46ac5f59e3,Deer Fire,2016-08-05T13:49:00Z,26,100,Amador,/incidents/2016/8/5/deer-fire/
+be2805af-a801-4ca9-b9e7-14f3b896097e,Bailey Fire,2016-07-19T14:09:00Z,26,100,Siskiyou,/incidents/2016/7/19/bailey-fire/
+e935ecb3-5eba-43f8-ae02-624b3d5bc03a,Oak Fire,2016-09-01T14:36:00Z,25,100,Santa Clara,/incidents/2016/9/1/oak-fire/
+b82b0e22-4155-43dd-ac33-1da015b6d3d2,Oak Fire,2016-08-12T16:00:00Z,25,100,Santa Clara,/incidents/2016/8/12/oak-fire/
+d15f161e-b69d-4e4e-9e8c-da869ebc805f,Alder Fire,2016-08-06T15:00:00Z,25,100,El Dorado,/incidents/2016/8/6/alder-fire/
+bff80dce-32ca-4aa1-a542-f1ee5b9affc1,North Branch Extension Fire,2016-07-29T14:55:00Z,25,100,Lake,/incidents/2016/7/29/north-branch-extension-fire/
+f2b5faf1-9ff0-48b7-8151-25880262bec1,Aukum Fire,2016-06-03T12:41:00Z,25,100,El Dorado,/incidents/2016/6/3/aukum-fire/
+afaa2efe-d946-4ff9-93c2-459aad31b908,Bryson Fire,2016-05-12T14:13:00Z,25,100,Monterey,/incidents/2016/5/12/bryson-fire/
+20e4887c-b772-460d-98be-d60f39171aeb,Keswick Fire,2016-06-11T16:02:00Z,24,100,Shasta,/incidents/2016/6/11/keswick-fire/
+bc2fd9c2-da5c-4cd7-bbec-9daf2143a196,Stafford Fire,2016-08-11T14:57:00Z,23,100,Humboldt,/incidents/2016/8/11/stafford-fire/
+5d276af0-17d5-47d5-8f0e-86756d91b5c6,Table Fire,2016-07-21T20:30:00Z,23,100,Siskiyou,/incidents/2016/7/21/table-fire/
+861bfbd3-ce1c-46bd-a32b-2848b7399119,Summit Fire,2016-08-12T17:23:00Z,21,100,Humboldt,/incidents/2016/8/12/summit-fire/
+383c3df6-a1eb-40fd-b798-41481dff679a,Ken Fire,2016-09-03T21:51:00Z,20,100,San Bernardino,/incidents/2016/9/3/ken-fire/
+1780f987-76f9-4a82-81bd-6cb914758eec,Mockingbird Fire,2016-08-30T16:54:00Z,20,100,Lake,/incidents/2016/8/30/mockingbird-fire/
+5ae9ec04-a2f4-4e18-8f6b-99c939eed64d,Edison Fire,2016-05-12T14:13:00Z,20,100,Ventura,/incidents/2016/5/12/edison-fire/
+fa8a5b87-9f71-4b68-bd14-b751844d5676,Willow Fire,2016-08-30T16:52:00Z,19,100,Amador,/incidents/2016/8/30/willow-fire/
+7ebdcc3e-f402-4ab7-88d4-82d99d59b019,Shelter Fire,2016-07-11T12:58:00Z,15,100,Ventura,/incidents/2016/7/11/shelter-fire/
+d35cfa9a-0087-4b24-ad22-6a738e633771,Collier Fire,2016-07-25T16:55:00Z,11,100,Tehama,/incidents/2016/7/25/collier-fire/
+0e493de0-b544-4b10-a229-ea9da56bf621,Fiddler Fire,2016-05-25T16:51:00Z,11,100,Shasta,/incidents/2016/5/25/fiddler-fire/
+2458cd6c-82d6-43ef-b509-706e3af69451,Jacobson Fire,2016-10-20T17:00:00Z,10,100,Tulare,/incidents/2016/10/20/jacobson-fire/
+5823867d-c458-4673-858f-0ded99b6121f,Mokelumne Fire,2016-08-18T12:05:00Z,0,100,Alpine,/incidents/2016/8/18/mokelumne-fire/
+bb4feaa5-4afc-47fb-82b3-c3aed84c3c31,Sand Fire,2016-07-22T14:11:00Z,0,100,Los Angeles,/incidents/2016/7/22/sand-fire/
+5c86c26b-e6c0-4e47-90b7-bc5da3885ebe,Soda Fire,2016-06-04T17:46:00Z,0,100,San Luis Obispo,/incidents/2016/6/4/soda-fire/
+d0ffe734-daf1-4446-af7d-4f8fde2802b7,Old Fire,2016-06-04T16:09:00Z,0,100,Los Angeles,/incidents/2016/6/4/old-fire/
+6afa1ccf-e1b6-492b-bcaa-9189cd3487aa,Chimney Fire,2016-06-01T15:35:00Z,0,100,Tulare,/incidents/2016/6/1/chimney-fire/
+2c77fa07-73e6-45fe-a527-5bd526bdef41,Gorman Fire,2016-04-19T13:09:00Z,0,100,Los Angeles,/incidents/2016/4/19/gorman-fire/

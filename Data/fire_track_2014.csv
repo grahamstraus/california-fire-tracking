@@ -1,0 +1,118 @@
+UniqueId,Name,Started,AcresBurned,PercentContained,Counties,CanonicalUrl
+3df6ecf7-f095-483d-b1c4-2dc969d61261,King Fire,2014-09-13T16:32:00Z,97717,100,El Dorado,/incidents/2014/9/13/king-fire/
+550c60e9-6b15-4e64-bf4b-9bd5d1cb359d,July Complex,2014-08-02T09:00:00Z,50042,100,Siskiyou,/incidents/2014/8/2/july-complex/
+045a1a18-72e4-4579-b64c-f34b33a1031b,Bald Fire,2014-07-30T20:15:00Z,39736,100,Shasta,/incidents/2014/7/30/bald-fire/
+3b2609f0-b3a2-493c-bf66-c5b5f64409f8,Oregon Gulch Fire (part of the Beaver Complex),2014-07-30T23:00:00Z,35302,100,Siskiyou,/incidents/2014/7/30/oregon-gulch-fire-part-of-the-beaver-complex/
+30702a48-f9b0-44c3-8ddb-acc837bc6a34,Beaver Fire,2014-07-30T00:00:00Z,32496,100,Siskiyou,/incidents/2014/7/30/beaver-fire/
+60ea04ec-5f5e-4a49-8fbc-fa50c17a1199,Eiler Fire,2014-07-31T18:04:00Z,32416,100,Shasta,/incidents/2014/7/31/eiler-fire/
+2a3d56c7-2ba7-4f83-8e69-7ae9bab18b71,Pulgas Fire,2014-05-15T14:45:00Z,14416,100,San Diego,/incidents/2014/5/15/pulgas-fire/
+61c14593-8614-4365-afa7-264fcaa6ea2a,French Fire,2014-07-28T05:45:00Z,13838,100,Madera,/incidents/2014/7/28/french-fire/
+e3b7143d-6faa-4962-9fe5-c2d1559c5d20,Day Fire,2014-07-30T19:01:00Z,13153,100,Modoc,/incidents/2014/7/30/day-fire/
+3a1fab73-882a-478c-b289-504497db4d64,Bully Fire,2014-07-11T15:37:00Z,12661,100,Shasta,/incidents/2014/7/11/bully-fire/
+7c6a9617-1c79-4b4d-9833-e76532f59103,Lodge Lightning Complex,2014-07-30T06:27:00Z,12536,100,Mendocino,/incidents/2014/7/30/lodge-lightning-complex/
+756d8f5b-bc05-4741-a5a3-3b20ca21906d,Monticello Fire,2014-07-04T21:32:00Z,6488,100,Yolo,/incidents/2014/7/4/monticello-fire/
+9d3fb01e-c29e-436a-82f8-c110a0b35179,Coffee Fire,2014-07-30T20:30:00Z,6258,100,Shasta,/incidents/2014/7/30/coffee-fire/
+59a31adf-4f31-4bf6-a6c6-fe62d2d2587f,Little Deer Fire,2014-07-31T17:45:00Z,5503,100,Siskiyou,/incidents/2014/7/31/little-deer-fire/
+2b35bd0d-169f-4a81-835b-13bf527031a6,Tomahawk Fire,2014-05-14T09:45:00Z,5367,100,San Diego,/incidents/2014/5/14/tomahawk-fire/
+e54fa953-24b9-4581-86f3-9931fdf3ca5e,Stoney Fire,2014-06-19T15:14:00Z,4840,100,Monterey,/incidents/2014/6/19/stoney-fire/
+8bc9d00d-5f81-4a73-b14f-8145890c8d50,Meadow Fire,2014-08-16T00:00:00Z,4772,100,Mariposa,/incidents/2014/8/16/meadow-fire/
+3383fa93-aaf8-4f81-a980-5ba86b893039,El Portal Fire,2014-07-26T17:00:00Z,4689,100,Mariposa,/incidents/2014/7/26/el-portal-fire/
+2437bb57-1d09-4892-8c26-a60661dae1d9,Butts Fire,2014-07-01T12:08:00Z,4300,100,Napa,/incidents/2014/7/1/butts-fire/
+2437bb57-1d09-4892-8c26-a60661dae1d9,Butts Fire,2014-07-01T12:08:00Z,4300,100,Lake,/incidents/2014/7/1/butts-fire/
+4d07ccc3-32be-4a1d-acac-18333884c97d,Sand Fire,2014-07-25T16:34:00Z,4240,100,Amador,/incidents/2014/7/25/sand-fire/
+4d07ccc3-32be-4a1d-acac-18333884c97d,Sand Fire,2014-07-25T16:34:00Z,4240,100,El Dorado,/incidents/2014/7/25/sand-fire/
+4b281a55-65b6-43e8-bab2-3689356d82e5,Way Fire,2014-08-18T14:30:00Z,4045,100,Kern,/incidents/2014/8/18/way-fire/
+8ede9823-938e-4786-97b8-a0f42b852cb2,Shirley Fire,2014-06-13T17:00:00Z,3895,100,Kern,/incidents/2014/6/13/shirley-fire/
+13bfff2c-cb2f-4ed9-a7f8-6985646a2d5d,Etiwanda Fire,2014-04-30T08:00:00Z,2143,100,San Bernardino,/incidents/2014/4/30/etiwanda-fire/
+1b1cba8f-7893-4eea-82d9-dc78663fd911,Cocos Fire,2014-05-14T16:00:00Z,1995,100,San Diego,/incidents/2014/5/14/cocos-fire/
+1fe0ea01-23e8-47a1-8fbd-ced6cf655e4d,Colby Fire,2014-01-16T05:50:00Z,1952,100,Los Angeles,/incidents/2014/1/16/colby-fire/
+45abd556-f41f-4507-91a5-1cf2f751bb4c,Nicolls Fire ,2014-07-11T13:46:00Z,1680,100,Kern,/incidents/2014/7/11/nicolls-fire/
+8f48a8a9-facf-49e8-92dc-ea1147e53792,Modoc Lightning Complex,2014-07-01T19:00:00Z,1651,100,Modoc,/incidents/2014/7/1/modoc-lightning-complex/
+9e5ee790-ee7e-4b40-b300-7a3046901162,Bernardo Fire,2014-05-13T11:00:00Z,1548,100,San Diego,/incidents/2014/5/13/bernardo-fire/
+00089805-cdee-4607-8b67-1653bee463bc,Gulch Fire,2014-07-03T15:46:00Z,1469,100,Modoc,/incidents/2014/7/3/gulch-fire/
+b0b5efed-3edc-4a4b-97c8-95a79d12d0c6,San Mateo Fire,2014-05-16T11:24:00Z,1457,100,San Diego,/incidents/2014/5/16/san-mateo-fire/
+b22e378f-bfbc-40b8-aaa7-29ec6db13db1,Gulch Fire,2014-09-10T00:30:00Z,1375,100,Shasta,/incidents/2014/9/10/gulch-fire/
+c7f39aa9-394d-4d19-bcd9-a8ee4f036e01,Dark Hole Fire,2014-07-17T01:00:00Z,1080,100,Mariposa,/incidents/2014/7/17/dark-hole-fire/
+568ea489-caa1-43c3-928a-9d0b836c0c54,Silverado Fire,2014-09-12T10:30:00Z,968,100,Orange,/incidents/2014/9/12/silverado-fire/
+353e7df7-440c-4c41-a27c-b35bb1e2831c,Campbell Fire,2014-01-02T20:00:00Z,865,100,Tehama,/incidents/2014/1/2/campbell-fire/
+8d3451be-f3be-4a8b-b747-ab121f0d52cb,Hunters Fire,2014-05-26T15:33:00Z,677,100,Mariposa,/incidents/2014/5/26/hunters-fire/
+d08b0c4e-35d3-43fb-8af8-1756b1789172,Miguelito Fire,2014-05-13T14:00:00Z,632,100,Santa Barbara,/incidents/2014/5/13/miguelito-fire/
+58e7e466-8807-404e-9ef6-5a6ae11a0084,Junction Fire,2014-08-18T13:50:00Z,612,100,Madera,/incidents/2014/8/18/junction-fire/
+cc18296d-573a-4737-8e4e-1221d75d1e7b,Poinsettia Fire,2014-05-14T10:30:00Z,600,100,San Diego,/incidents/2014/5/14/poinsettia-fire/
+3b954901-aa80-4894-b330-c287d47b68be,Oregon Fire,2014-08-24T16:36:00Z,580,100,Trinity,/incidents/2014/8/24/oregon-fire/
+ad164a35-8b27-4f96-b78e-952b08a333e8,Boles Fire,2014-09-15T13:38:00Z,516,100,Siskiyou,/incidents/2014/9/15/boles-fire/
+1a0bbf7e-7f9b-4359-9c91-85dec2e2869a,59 Fire,2014-06-04T11:45:00Z,487,100,Tuolumne,/incidents/2014/6/4/59-fire/
+d71ab3e8-ead1-4d54-b489-2a2f23073d8b,Applegate Fire,2014-10-08T13:33:00Z,459,100,Placer,/incidents/2014/10/8/applegate-fire/
+60b1ae62-1688-44b3-8447-66785e692e92,Black Fire,2014-09-13T15:48:00Z,403,100,Mendocino,/incidents/2014/9/13/black-fire/
+cb580f06-5d43-46aa-8b2c-f2b5a21eff02,Encinal Fire,2014-03-19T16:45:00Z,400,100,Monterey,/incidents/2014/3/19/encinal-fire/
+69b38608-fab1-4df5-b9e9-0fd28bc505ba,Web Fire,2014-07-28T13:11:00Z,389,100,Butte,/incidents/2014/7/28/web-fire/
+ebea3cc2-c0ad-4de2-829a-0b544183461b,Highway Fire,2014-05-14T13:00:00Z,380,100,San Diego,/incidents/2014/5/14/highway-fire/
+af1dd364-be2a-4818-81fb-dea0e527d6c5,Pierce Fire,2014-03-15T16:37:00Z,350,100,Riverside,/incidents/2014/3/15/pierce-fire/
+6d75c6a4-12cb-4f18-8951-f2737e980916,Red Fire,2014-01-04T12:00:00Z,333,100,Humboldt,/incidents/2014/1/4/red-fire/
+614efdbb-937e-47a0-9ffd-919e5e0de436,Courtney Fire,2014-09-14T13:36:00Z,320,100,Madera,/incidents/2014/9/14/courtney-fire/
+ba17d495-8ce6-4a0f-a3ba-487bd877969e,Dog Rock Fire,2014-10-07T15:05:00Z,311,100,Mariposa,/incidents/2014/10/7/dog-rock-fire/
+987ced78-a554-4a1b-a2f2-2f8329292067,Bridge Fire,2014-09-05T12:39:00Z,300,100,Mariposa,/incidents/2014/9/5/bridge-fire/
+deb3922d-eba2-4f08-abf7-d453d14e32ab,Gun Club Fire,2014-07-24T12:06:00Z,300,100,Merced,/incidents/2014/7/24/gun-club-fire/
+d805c9b9-da39-4771-965f-b3cd4c37c84b,Tecolote Fire,2014-08-17T14:30:00Z,274,100,Los Angeles,/incidents/2014/8/17/tecolote-fire/
+b5d32131-cf00-4e34-9e08-b74d68a3174f,Hetch Hetchy Fire,2014-06-05T13:04:00Z,269,100,Tuolumne,/incidents/2014/6/5/hetch-hetchy-fire/
+a794ecf9-2e8d-4721-a272-a3e66d2e7621,Dog Bar Fire,2014-09-13T14:07:00Z,247,100,Nevada,/incidents/2014/9/13/dog-bar-fire/
+724209e0-12b0-4d49-b798-8ccacf95e668,Tehama Fire,2014-06-13T12:23:00Z,225,100,Tehama,/incidents/2014/6/13/tehama-fire/
+d2623c2c-ff3d-419e-a129-b3aa542c05c4,Banner Fire,2014-07-03T10:43:00Z,217,100,San Diego,/incidents/2014/7/3/banner-fire/
+d4523b72-45cf-4de2-8ccf-3905f1dc8dbd,Bald Hill 3 Fire,2014-09-12T15:00:00Z,210,100,Humboldt,/incidents/2014/9/12/bald-hill-3-fire/
+accb599e-35b8-4d5e-8d13-d0e4b0e4a1eb,Shoemaker Fire,2014-08-14T12:48:00Z,190,100,Los Angeles,/incidents/2014/8/14/shoemaker-fire/
+b454456c-1fa9-4766-b179-6df36b4d844b,Indian Fire,2014-05-25T12:20:00Z,175,100,Lake,/incidents/2014/5/25/indian-fire/
+dcbc7afb-cdef-49a3-822e-20bbaa86a5d0,Dry Fire,2014-07-09T13:45:00Z,143,100,Shasta,/incidents/2014/7/9/dry-fire/
+50567f4a-c56d-4d73-9855-f5d81fa74025,Haigh Fire,2014-06-10T15:11:00Z,130,100,Mariposa,/incidents/2014/6/10/haigh-fire/
+7a5c1b23-ac7c-44de-8f1a-1866ea9bf617,Curie Fire,2014-06-30T14:10:00Z,125,100,Santa Clara,/incidents/2014/6/30/curie-fire/
+a67fe9bc-b8ec-4ed1-a2e8-06623aab7039,Gun Fire,2014-03-08T12:30:00Z,125,100,San Diego,/incidents/2014/3/8/gun-fire/
+2b382ade-87e2-4cff-92f7-67328139d7eb,Reed Fire,2014-06-20T15:27:00Z,120,100,Calaveras,/incidents/2014/6/20/reed-fire/
+072e04ed-1f34-45e8-b7c2-3788ebf3be4c,Brewer Fire,2014-01-22T13:10:00Z,120,100,Placer,/incidents/2014/1/22/brewer-fire/
+1faad916-32b9-4cd0-94b8-dacfe71fa9f8,Bridges Fire,2014-04-19T15:54:00Z,113,100,Inyo,/incidents/2014/4/19/bridges-fire/
+d529636e-33d0-484b-9c6f-093ba33736b7,Lake Fire,2014-01-25T06:37:00Z,106,100,Fresno,/incidents/2014/1/25/lake-fire/
+811b6ea7-2a1b-414b-90fa-9edc6db21d46,River Fire,2014-05-14T12:12:00Z,105,100,San Diego,/incidents/2014/5/14/river-fire/
+91669a3c-d533-4eaa-a8d7-505d55f89e46,Little Fire,2014-08-12T15:00:00Z,101,100,Modoc,/incidents/2014/8/12/little-fire/
+cd91c23b-9e4f-484f-bb5a-09881545da38,Saratoga Fire,2014-09-03T16:03:00Z,100,100,Lake,/incidents/2014/9/3/saratoga-fire/
+58054798-7e26-4aa0-8af9-a4c91ebcca8b,Interstate Fire,2014-09-01T14:03:00Z,100,100,Riverside,/incidents/2014/9/1/interstate-fire/
+7e60b4f7-8497-4155-9879-a3198b2ce696,Irene Fire,2014-09-14T09:15:00Z,94,100,El Dorado,/incidents/2014/9/14/irene-fire/
+a856545c-5922-4d6a-bffb-2048188c0fa3,Valley Fire,2014-06-06T17:29:00Z,90,100,Mariposa,/incidents/2014/6/6/valley-fire/
+06ae83a9-125e-4cf5-826e-8b541b2308fd,Oak Fire,2014-06-22T12:37:00Z,85,100,Calaveras,/incidents/2014/6/22/oak-fire/
+605ac5e1-9903-45ba-872d-3d9c437457d7,Boca Fire,2014-08-18T10:00:00Z,84,100,Nevada,/incidents/2014/8/18/boca-fire/
+f2d201e0-515b-4df7-96f4-0ff840da4ed3,Casa Fire,2014-08-28T15:10:00Z,80,100,Santa Clara,/incidents/2014/8/28/casa-fire/
+dc1a83b0-500c-440f-85d7-7090884f5487,Marsh Fire,2014-07-11T21:57:00Z,80,100,Contra Costa,/incidents/2014/7/11/marsh-fire/
+eb9797e5-4caa-4514-8098-6bd120c0e3c6,Montgomery Fire,2014-09-07T16:46:00Z,79,100,Mariposa,/incidents/2014/9/7/montgomery-fire/
+7ac5c3c7-ba1d-47c4-8678-727729c51465,Sabina Fire,2014-07-23T10:47:00Z,78,100,Riverside,/incidents/2014/7/23/sabina-fire/
+0bc42201-27c2-4b3d-a329-ce44bc1261d9,Cassel Fire,2014-07-05T18:44:00Z,75,100,Shasta,/incidents/2014/7/5/cassel-fire/
+91c3081d-33b4-46f2-8774-032c57f0f6a2,San Lucas Fire,2014-04-30T14:25:00Z,75,100,Monterey,/incidents/2014/4/30/san-lucas-fire/
+9c21bb74-e919-403c-8a43-05f561669e4e,Wildlife Fire,2014-07-14T18:00:00Z,72,100,Butte,/incidents/2014/7/14/wildlife-fire/
+726710bb-32d4-46bf-9729-7f3396defcf0,Jackson Fire,2014-09-04T11:51:00Z,70,100,Tuolumne,/incidents/2014/9/4/jackson-fire/
+9487beeb-6c40-46fc-b4b3-a353a688a826,Ranch Fire,2014-07-01T18:15:00Z,70,100,Kern,/incidents/2014/7/1/ranch-fire/
+45cf54ae-c166-4f81-816f-2e0ef959a56e,Norman Fire,2014-06-12T14:29:00Z,70,100,Solano,/incidents/2014/6/12/norman-fire/
+5463296a-0cfa-46a1-bd8a-dfbf1afc996b,June Fire,2014-09-16T19:07:00Z,65,100,Inyo,/incidents/2014/9/16/june-fire/
+a44b9e07-680d-4857-9d27-834363373a83,Nelson Fire,2014-09-21T16:13:00Z,62,100,Mendocino,/incidents/2014/9/21/nelson-fire/
+42af9060-4b93-4919-bd89-9fe684b41fd3,Honcut Fire,2014-01-01T10:46:00Z,60,100,Butte,/incidents/2014/1/1/honcut-fire/
+edff6f87-80b8-4c0d-8f6a-45c6e798b7fa,Van Buren Fire,2014-03-28T14:31:00Z,57,100,Riverside,/incidents/2014/3/28/van-buren-fire/
+36076476-0b5d-445a-a82b-27f953f3dde1,Freeway Fire ,2014-05-14T17:43:00Z,56,100,San Diego,/incidents/2014/5/14/freeway-fire/
+2c241790-d062-4b15-9a25-8e511c0febab,Fiddler Fire,2014-05-14T14:00:00Z,50,100,Shasta,/incidents/2014/5/14/fiddler-fire/
+f5552e75-f74c-4bc0-99b8-6c66ee8cde3d,Bane Fire,2014-10-16T14:34:00Z,48,100,San Bernardino,/incidents/2014/10/16/bane-fire/
+1df51ee3-c15a-4266-bf3d-d52272189cff,Interlake Fire,2014-07-07T16:12:00Z,47,100,San Luis Obispo,/incidents/2014/7/7/interlake-fire/
+857e832f-17bd-4ad2-8789-99b003187049,Morgan Fire,2014-06-09T15:15:00Z,40,100,Fresno,/incidents/2014/6/9/morgan-fire/
+61506ea2-3f16-4aa6-ba54-d7788c3a2b35,Hutto Fire,2014-07-07T16:35:00Z,38,100,Nevada,/incidents/2014/7/7/hutto-fire/
+0567f7bd-c345-4124-9526-b8f88a938b01,McClellan Fire,2014-08-01T15:47:00Z,37,100,Humboldt,/incidents/2014/8/1/mcclellan-fire/
+4075bfa7-794b-446c-b30d-0a8d38085419,Lake Fire,2014-05-27T11:23:00Z,37,100,Stanislaus,/incidents/2014/5/27/lake-fire/
+fc0e054f-887f-4bb5-87af-bde461bf4e4a,Bogart Fire,2014-06-06T17:32:00Z,31,100,Riverside,/incidents/2014/6/6/bogart-fire/
+279d9058-7545-488b-8a83-51b12e60cb47,Siskiyou County Lightning Fires,2014-07-29T13:00:00Z,30,100,Siskiyou,/incidents/2014/7/29/siskiyou-county-lightning-fires/
+da607cd1-32fc-44c0-bd7a-ba14ad0a14cc,Bible Fire,2014-07-09T14:34:00Z,30,100,El Dorado,/incidents/2014/7/9/bible-fire/
+d5cb2477-6627-4ef6-bab1-d0eecc4ad12a,Jacumba Fire,2014-05-05T16:36:00Z,29,100,San Diego,/incidents/2014/5/5/jacumba-fire/
+7e564dd5-1d4e-4999-8aea-93691ad314ac,Stage Coach Fire,2014-09-11T15:14:00Z,27,100,Napa,/incidents/2014/9/11/stage-coach-fire/
+6e986794-095c-4ba4-a129-cc45ab69d4ec,Foothill Fire ,2014-09-29T19:35:00Z,25,100,Ventura,/incidents/2014/9/29/foothill-fire/
+952443ab-3af0-431d-9040-c73a45925401,Leopard Fire,2014-08-29T12:21:00Z,25,100,Shasta,/incidents/2014/8/29/leopard-fire/
+ccc2ec2b-4941-4bbd-ae60-be6706d97f13,Hall Fire,2014-06-11T07:30:00Z,25,100,Fresno,/incidents/2014/6/11/hall-fire/
+0b2d503c-7bd5-45e7-b029-61306ae6e7c0,Cascade Fire,2014-09-25T18:00:00Z,20,100,El Dorado,/incidents/2014/9/25/cascade-fire/
+64812487-ac4c-40da-b069-2884d7a04675,Border Fire,2014-08-16T16:22:00Z,20,100,San Diego,/incidents/2014/8/16/border-fire/
+4f7bb6c9-8b10-4892-89a8-d2b78931aa10,Bridge Fire,2014-01-03T10:30:00Z,18,100,Humboldt,/incidents/2014/1/3/bridge-fire/
+62c2a563-1768-4c94-ac71-694a553cfdf8,West Fire,2014-07-01T03:45:00Z,15,100,Trinity,/incidents/2014/7/1/west-fire/
+e22ad5eb-2085-4a09-887f-fc54756527ce,Iowa Fire,2014-07-21T14:49:00Z,14,100,Placer,/incidents/2014/7/21/iowa-fire/
+43bd24a5-fe63-4a1f-bb61-75d201f2c829,Santa Fire,2014-06-04T15:18:00Z,14,100,Riverside,/incidents/2014/6/4/santa-fire/
+a2da7754-e907-48f2-a023-0a3053cf2903,Pines Fire,2014-08-26T16:23:00Z,10,100,Madera,/incidents/2014/8/26/pines-fire/
+9617f422-bb7b-41ae-8ad6-670ffff875ab,South Napa Earthquake,2014-08-24T03:20:00Z,6,100,Napa,/incidents/2014/8/24/south-napa-earthquake/
+da500577-e558-4446-832f-0e537cc55204,Happy Camp Complex,2014-08-11T22:00:00Z,0,100,Siskiyou,/incidents/2014/8/11/happy-camp-complex/

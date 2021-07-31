@@ -1,0 +1,439 @@
+UniqueId,Name,Started,AcresBurned,PercentContained,Counties,CanonicalUrl
+d28bc34e-73a8-454d-9e55-dea7bdd40bee,Thomas Fire,2017-12-04T18:28:00Z,281893,100,Santa Barbara,/incidents/2017/12/4/thomas-fire/
+d28bc34e-73a8-454d-9e55-dea7bdd40bee,Thomas Fire,2017-12-04T18:28:00Z,281893,100,Ventura,/incidents/2017/12/4/thomas-fire/
+f7b03fae-de58-4674-9f4f-d3e9d2762d84,Long Valley Fire,2017-07-11T14:15:00Z,83733,100,Lassen,/incidents/2017/7/11/long-valley-fire/
+8caf9d17-d9c3-42e4-a622-30799080c4b9,Modoc July Complex,2017-07-24T12:00:00Z,83120,100,Modoc,/incidents/2017/7/24/modoc-july-complex/
+9feb25c4-d3ae-4f78-9fc9-a1ad2b308e42,Detwiler Fire,2017-07-16T15:56:00Z,81826,100,Mariposa,/incidents/2017/7/16/detwiler-fire/
+490ae25d-c3d8-4a90-9e75-0ad85e0f629f,Eclipse Complex,2017-08-15T07:55:00Z,78698,100,Siskiyou,/incidents/2017/8/15/eclipse-complex/
+be79d28c-767d-4a0d-b168-e86a5842004f,Nuns / Adobe / Norrbom/ Pressley / Partrick Fires / Oakmont (Central LNU Complex),2017-10-08T22:00:00Z,56556,100,Napa,/incidents/2017/10/8/nuns-adobe-norrbom-pressley-partrick-fires-oakmont-central-lnu-complex/
+be79d28c-767d-4a0d-b168-e86a5842004f,Nuns / Adobe / Norrbom/ Pressley / Partrick Fires / Oakmont (Central LNU Complex),2017-10-08T22:00:00Z,56556,100,Sonoma,/incidents/2017/10/8/nuns-adobe-norrbom-pressley-partrick-fires-oakmont-central-lnu-complex/
+676946dc-1b38-4a09-9bbe-9ce638cfed52,Atlas Fire (Southern LNU Complex),2017-10-08T21:52:00Z,51624,100,Napa,/incidents/2017/10/8/atlas-fire-southern-lnu-complex/
+676946dc-1b38-4a09-9bbe-9ce638cfed52,Atlas Fire (Southern LNU Complex),2017-10-08T21:52:00Z,51624,100,Solano,/incidents/2017/10/8/atlas-fire-southern-lnu-complex/
+6ee351a7-9382-48bc-a161-b417f7560ff9,Garza Fire,2017-07-09T15:10:00Z,48889,100,Kings,/incidents/2017/7/9/garza-fire/
+d43c681d-b57e-47e6-a6ad-e3ed08de9ff7,Miller Complex,2017-08-14T14:00:00Z,39715,100,Siskiyou,/incidents/2017/8/14/miller-complex/
+82c2aafa-ef04-49f0-a172-0dfa8a15582e,Tubbs Fire (Central LNU Complex),2017-10-08T21:45:00Z,36807,100,Napa,/incidents/2017/10/8/tubbs-fire-central-lnu-complex/
+82c2aafa-ef04-49f0-a172-0dfa8a15582e,Tubbs Fire (Central LNU Complex),2017-10-08T21:45:00Z,36807,100,Sonoma,/incidents/2017/10/8/tubbs-fire-central-lnu-complex/
+c8ebf0c1-e560-4e22-a946-129af8699dfb,Pier Fire,2017-08-29T08:29:00Z,36556,100,Tulare,/incidents/2017/8/29/pier-fire/
+c229ea5c-2ebd-4f80-892e-fc5da8a1eeea,Redwood Valley Fire (Mendocino Lake Complex),2017-10-08T23:36:00Z,36523,100,Mendocino,/incidents/2017/10/8/redwood-valley-fire-mendocino-lake-complex/
+5a43b164-04d0-46ea-992e-ea5aa283305f,Alamo Fire,2017-07-06T15:44:00Z,28687,100,San Luis Obispo,/incidents/2017/7/6/alamo-fire/
+51bf0e2a-7f1f-4fe1-aeaa-70510ad42d0e,Orleans Complex,2017-07-26T18:00:00Z,27276,100,Siskiyou,/incidents/2017/7/26/orleans-complex/
+220a986e-6d2c-4893-9473-232d1e1abf0c,Helena - Fork Fire,2017-08-30T18:00:00Z,21846,100,Trinity,/incidents/2017/8/30/helena-fork-fire/
+f2e55878-e387-412b-a067-dadc649bed43,Lion Fire,2017-09-27T14:00:00Z,18900,100,Tulare,/incidents/2017/9/27/lion-fire/
+49757269-445f-4525-8698-858d8e0a5398,R-4 Fire,2017-08-30T08:30:00Z,18618,100,Lassen,/incidents/2017/8/30/r-4-fire/
+dfd1e0d9-42b5-436a-aa83-ffcbbb7a6145,Whittier Fire,2017-07-08T13:43:00Z,18430,100,Santa Barbara,/incidents/2017/7/8/whittier-fire/
+0de36981-b31f-45c7-befd-1596f982e7db,Pocket Fire (Central LNU Complex),2017-10-09T03:30:00Z,17357,100,Sonoma,/incidents/2017/10/9/pocket-fire-central-lnu-complex/
+0624b038-7a97-4294-a7b5-074e3dfa4fb7,Schaeffer Fire,2017-06-24T16:16:00Z,16031,100,Tulare,/incidents/2017/6/24/schaeffer-fire/
+a245b55b-3eb7-49dd-9a5e-909d53854055,Creek Fire,2017-12-05T03:44:00Z,15619,100,Los Angeles,/incidents/2017/12/5/creek-fire/
+7cc06465-bf2a-4df2-a68d-5f330e1cea42,Buck Fire,2017-09-12T17:42:00Z,13417,100,Trinity,/incidents/2017/9/12/buck-fire/
+9989e07d-5125-472d-9601-0d7158b13073,Railroad Fire,2017-08-29T12:19:00Z,12407,100,Madera,/incidents/2017/8/29/railroad-fire/
+65062933-27cf-48d7-8e4c-9a7ac78e65ff,Elm Fire,2017-05-18T13:11:00Z,10343,100,Fresno,/incidents/2017/5/18/elm-fire/
+608ed849-d1ec-4b0d-a477-d1b8e9c7e6dd,Cascade Fire (Wind Complex),2017-10-08T23:03:00Z,9989,100,Yuba,/incidents/2017/10/8/cascade-fire-wind-complex/
+969c721c-5f27-41d4-9a94-ffa12e351204,Canyon 2 Fire,2017-10-09T09:51:00Z,9217,100,Orange,/incidents/2017/10/9/canyon-2-fire/
+71ea2924-bc37-44f4-b454-47eff22e426c,Slinkard Fire,2017-08-29T15:15:00Z,8925,100,Mono,/incidents/2017/8/29/slinkard-fire/
+adf929a5-d508-4f69-8845-8fa1df8d4f95,Cherokee Fire,2017-10-08T21:45:00Z,8417,100,Butte,/incidents/2017/10/8/cherokee-fire/
+2995e2b3-f18d-44ec-952f-9f148b8354d9,Empire Fire,2017-08-01T08:45:00Z,8094,100,Mariposa,/incidents/2017/8/1/empire-fire/
+3e005fd9-11a4-4145-a71f-8a4cf9a1341a,Parker 2 Fire,2017-08-03T14:00:00Z,7697,100,Modoc,/incidents/2017/8/3/parker-2-fire/
+c2bf9820-7e90-43c4-bd3d-1b26ef7ada51,La Tuna Fire ,2017-09-01T13:26:00Z,7194,100,Los Angeles,/incidents/2017/9/1/la-tuna-fire/
+b02ec4f1-ac5c-4b22-b7fa-5834af16d807,South Fork Fire,2017-08-14T14:28:00Z,7000,100,Mariposa,/incidents/2017/8/14/south-fork-fire/
+ca0c9a5f-7a1a-4903-b790-6eb3e85e7e64,Manzanita Fire,2017-06-26T15:10:00Z,6309,100,Riverside,/incidents/2017/6/26/manzanita-fire/
+4ca0e06c-4e6e-4e00-a4a4-6813e3200bd5,LaPorte Fire (Wind Complex),2017-10-09T00:57:00Z,6151,100,Butte,/incidents/2017/10/9/laporte-fire-wind-complex/
+1e11fa40-e850-45d2-b65e-05aadc9f02f1,Rye Fire,2017-12-05T11:31:00Z,6049,100,Los Angeles,/incidents/2017/12/5/rye-fire/
+b77ff66d-d8ee-49c9-bd0f-92a4350a095a,Mud Fire,2017-08-29T14:36:00Z,6042,100,Lassen,/incidents/2017/8/29/mud-fire/
+8816f0da-0818-499a-9ff6-ba4fd56ca7c8,Wall Fire,2017-07-07T14:52:00Z,6033,100,Butte,/incidents/2017/7/7/wall-fire/
+0cacf259-1ba3-4e8c-a938-feaab2655c4b,Jayne Fire,2017-04-20T15:40:00Z,5738,100,Fresno,/incidents/2017/4/20/jayne-fire/
+68328f20-5aed-404d-8c29-81b4b69e8439,Summit Complex,2017-07-31T13:44:00Z,5247,100,Stanislaus,/incidents/2017/7/31/summit-complex/
+9eb07177-e62a-4f5a-adeb-e95508e31959,Ruth Complex,2017-08-07T22:30:00Z,4736,100,Trinity,/incidents/2017/8/7/ruth-complex/
+a95302d3-8574-4900-9d2a-daa33c55b70e,Minerva Fire,2017-07-29T18:55:00Z,4310,100,Plumas,/incidents/2017/7/29/minerva-fire/
+fc4fcd00-8eee-43e5-b77f-bbd0c1669744,Lilac Fire,2017-12-07T11:15:00Z,4100,100,San Diego,/incidents/2017/12/7/lilac-fire/
+7c9253af-4c43-41bb-b1de-44af15e0d83e,Ponderosa Fire,2017-08-29T13:16:00Z,4016,100,Butte,/incidents/2017/8/29/ponderosa-fire/
+cfa04438-152b-4f4b-a712-4343af8c7fcf,Palmer Fire,2017-09-02T13:33:00Z,3874,100,Riverside,/incidents/2017/9/2/palmer-fire/
+687e2987-2306-477b-bbaf-0d5465eb1e7c,Young Fire,2017-08-07T17:45:00Z,3142,100,Siskiyou,/incidents/2017/8/7/young-fire/
+1652d79a-f4fc-4151-a0d1-1b7366730f47,Hawk Fire,2017-07-07T09:18:00Z,2940,100,Kern,/incidents/2017/7/7/hawk-fire/
+0176a674-c102-4854-92af-7d09aa3e1430,Canyon Fire,2017-09-25T13:03:00Z,2662,100,Orange,/incidents/2017/9/25/canyon-fire/
+47988f74-d4bd-4ddd-814e-22ebc2ca5ccf,Eureka Fire,2017-09-05T18:38:00Z,2575,100,Plumas,/incidents/2017/9/5/eureka-fire/
+2f2a4afd-06f1-4b57-b3f2-db8e3d9ac05c,I-5 Fire,2017-08-24T18:13:00Z,2312,100,Kings,/incidents/2017/8/24/i-5-fire/
+345f6faa-9946-418e-8a60-d5cb9efb3af4,Indian Fire,2017-08-02T18:00:00Z,2295,100,Tulare,/incidents/2017/8/2/indian-fire/
+eff9d678-293f-43aa-96af-c5cf3203b31f,Roadrunner Fire,2017-07-30T17:43:00Z,2289,100,Tulare,/incidents/2017/7/30/roadrunner-fire/
+a7509e35-3083-4306-bcce-ebf6d101b62a,Winters Fire,2017-07-06T12:41:00Z,2269,100,Yolo,/incidents/2017/7/6/winters-fire/
+0f32c2db-7d28-4cf6-85b8-44b53899c8eb,Sulphur Fire (Mendocino Lake Complex),2017-10-08T23:59:00Z,2207,100,Lake,/incidents/2017/10/8/sulphur-fire-mendocino-lake-complex/
+c4d0a25f-02f6-4877-a944-8f5d50bf2335,Gate Fire,2017-05-20T23:19:00Z,2056,100,San Diego,/incidents/2017/5/20/gate-fire/
+9a5c9879-2e18-41a4-88d6-2360203dae79,Adobe Fire (Central LNU Complex),2017-10-09T01:00:00Z,1868,100,Sonoma,/incidents/2017/10/9/adobe-fire-central-lnu-complex/
+a21faf4f-3628-4e24-ac64-8471d9d12560,Parkfield Fire,2017-07-08T18:30:00Z,1816,100,Monterey,/incidents/2017/7/8/parkfield-fire/
+a21faf4f-3628-4e24-ac64-8471d9d12560,Parkfield Fire,2017-07-08T18:30:00Z,1816,100,San Luis Obispo,/incidents/2017/7/8/parkfield-fire/
+63a81990-8521-409d-9c22-92d1c33e0353,Wright Fire,2017-05-12T15:30:00Z,1800,100,Merced,/incidents/2017/5/12/wright-fire/
+7f33fd28-9a93-438b-84ca-0e57e7c441f4,Creek Fire,2017-09-03T16:23:00Z,1749,100,Stanislaus,/incidents/2017/9/3/creek-fire/
+fe6e94d7-7b47-4992-9a52-787e1fad8171,37 Fire,2017-10-09T14:00:00Z,1660,100,Sonoma,/incidents/2017/10/9/37-fire/
+f44aec62-5d1d-422f-9ff9-dbef80e4e27f,Park Fire,2017-07-17T13:15:00Z,1649,100,Fresno,/incidents/2017/7/17/park-fire/
+ea019efb-52d2-4f08-8d04-20b680e2361b,Quail Fire,2017-07-06T12:29:00Z,1626,100,Kern,/incidents/2017/7/6/quail-fire/
+81b37451-57b5-4050-a54d-e9750f84a567,Hill Fire,2017-06-26T15:27:00Z,1598,100,San Luis Obispo,/incidents/2017/6/26/hill-fire/
+e3e75be1-8dea-4022-975b-34a0f25b57c0,Derrick Fire,2017-07-02T22:28:00Z,1538,100,Fresno,/incidents/2017/7/2/derrick-fire/
+1b01181e-fbcb-4dc4-86ec-cfddc864cc34,Highway Fire,2017-06-18T14:22:00Z,1522,100,Kern,/incidents/2017/6/18/highway-fire/
+b5dd68e2-ec95-47cd-a126-d5f6f0f2b49a,Holcomb Fire,2017-06-19T15:05:00Z,1503,100,San Bernardino,/incidents/2017/6/19/holcomb-fire/
+d11a4f65-9523-40d8-989a-6603705e9638,Oakwood Fire,2017-06-10T13:19:00Z,1431,100,Madera,/incidents/2017/6/10/oakwood-fire/
+0f4499f5-846c-4791-994e-81df04fe691a,Garden Fire,2017-07-30T16:17:00Z,1350,100,Kern,/incidents/2017/7/30/garden-fire/
+c254df3f-a241-4983-a880-e12944a9f7b2,Opera Fire,2017-04-30T15:23:00Z,1350,100,Riverside,/incidents/2017/4/30/opera-fire/
+340e471a-a37e-47dd-90da-6c9f35b7eb3b,Caldwell Fire,2017-09-01T14:37:00Z,1319,100,Kern,/incidents/2017/9/1/caldwell-fire/
+8cf9e7dc-74b9-4b97-9a03-f523f3eff56f,Latrobe Fire,2017-07-26T14:45:00Z,1286,100,Sacramento,/incidents/2017/7/26/latrobe-fire/
+4ac3161f-79e7-494f-88e4-72a69ef1d96b,Tarina Fire ,2017-06-30T13:49:00Z,1200,100,Kern,/incidents/2017/6/30/tarina-fire/
+081c7307-b328-4b64-869a-dce8718bab11,Buffalo Fire,2017-10-17T10:19:00Z,1088,100,San Diego,/incidents/2017/10/17/buffalo-fire/
+27759042-9df3-4d57-951e-f5727bcf013f,Hudson Fire,2017-07-18T11:45:00Z,1083,100,Kern,/incidents/2017/7/18/hudson-fire/
+c57ff6c2-e5df-48c5-831c-1dbad73df5ef,Blaine Fire,2017-08-13T16:10:00Z,1044,100,Riverside,/incidents/2017/8/13/blaine-fire/
+297d6516-ce4f-407d-93f8-9669dc6fd392,Mission Fire,2017-09-03T13:06:00Z,1035,100,Madera,/incidents/2017/9/3/mission-fire/
+d3213d2a-4b10-4eef-b8df-bdebc5cd948f,Chilcoot Fire,2017-08-06T15:32:00Z,1020,100,Plumas,/incidents/2017/8/6/chilcoot-fire/
+bd671dbd-dd3c-413e-b453-4002e382325d,Range Fire,2017-05-25T18:15:00Z,1000,100,San Diego,/incidents/2017/5/25/range-fire/
+4a015862-8ac1-4c91-aa4c-c9831630b75a,Berry Fire,2017-09-12T06:58:00Z,995,100,Shasta,/incidents/2017/9/12/berry-fire/
+17a7d561-bee7-454d-a0aa-ac450907f6fd,El Dorado Fire,2017-04-28T15:40:00Z,976,100,Fresno,/incidents/2017/4/28/el-dorado-fire/
+95cd2f17-1278-4cc9-90f4-000e4eba415a,Grade Fire,2017-07-16T14:51:00Z,900,100,Mendocino,/incidents/2017/7/16/grade-fire/
+f31a117a-572a-4956-9797-ad08e3933bb7,Beale Fire,2017-08-20T14:44:00Z,867,100,Yuba,/incidents/2017/8/20/beale-fire/
+561d4f1b-0827-48a9-8034-e783d2761945,Wildomar Fire,2017-10-26T12:34:00Z,866,100,Riverside,/incidents/2017/10/26/wildomar-fire/
+06664fe1-c56c-4a00-833c-f9f3f6d6d18f,Poslin Fire,2017-08-06T19:52:00Z,859,100,Lassen,/incidents/2017/8/6/poslin-fire/
+29c37ab7-3af9-458f-b6d3-72023a8c1046,Lobo Fire (Wind Complex),2017-10-09T00:01:00Z,821,100,Nevada,/incidents/2017/10/9/lobo-fire-wind-complex/
+c982daaa-a785-4dfc-a366-1950974028af,Lake Fire,2017-06-17T13:55:00Z,800,100,Los Angeles,/incidents/2017/6/17/lake-fire/
+e6308517-0b7c-4efb-9369-b9aa3fe3ad14,Yankee Fire,2017-08-11T16:06:00Z,775,100,San Luis Obispo,/incidents/2017/8/11/yankee-fire/
+c940ef85-44ce-4684-bce3-7cbbf180cefb,Placerita Fire,2017-06-25T12:47:00Z,760,100,Los Angeles,/incidents/2017/6/25/placerita-fire/
+61cc4072-7db6-4fd2-bc9a-652728780c67,Farad Fire,2017-07-10T13:02:00Z,747,100,Sierra,/incidents/2017/7/10/farad-fire/
+51e42770-97b4-4204-af57-8ab56992eb71,Jacksonville Fire,2017-07-29T13:50:00Z,690,100,Tuolumne,/incidents/2017/7/29/jacksonville-fire/
+c7a0a280-17c9-409b-85f9-fdda301b6ede,Peak Fire,2017-09-03T13:10:00Z,680,100,Mariposa,/incidents/2017/9/3/peak-fire/
+a3159a43-d38c-4655-9acf-371bc9a6213b,Mart Fire,2017-06-27T15:22:00Z,670,100,San Bernardino,/incidents/2017/6/27/mart-fire/
+d36387df-af2a-4b20-a94f-589fdccf67cd,Ben Fire,2017-06-28T15:49:00Z,630,100,Mariposa,/incidents/2017/6/28/ben-fire/
+a0ba8679-406a-491b-a20b-bba55d63bc5b,Battle Fire,2017-06-28T13:50:00Z,562,100,Modoc,/incidents/2017/6/28/battle-fire/
+c3ad74dc-6842-463f-8808-05161a8ba570,Mias Fire,2017-08-14T15:45:00Z,545,100,Riverside,/incidents/2017/8/14/mias-fire/
+93fe220b-0458-4e26-827c-93883093681e,W-2 Fire,2017-08-06T15:29:00Z,530,100,Lassen,/incidents/2017/8/6/w-2-fire/
+39967485-2cf1-4f0e-9cf1-ccfd25f6e2bf,Ming Fire,2017-05-20T14:23:00Z,506,100,Kern,/incidents/2017/5/20/ming-fire/
+3d595f75-d59e-4453-b25c-48207b02f529,Deluz Fire,2017-05-19T14:45:00Z,486,100,San Diego,/incidents/2017/5/19/deluz-fire/
+b383e4bd-6815-4624-936c-be57715ce50e,Fay Fire,2017-07-05T11:05:00Z,469,100,Siskiyou,/incidents/2017/7/5/fay-fire/
+a1554868-0f98-41d4-9132-1f0bbf10b22c,Red Fire,2017-08-02T10:15:00Z,460,100,San Luis Obispo,/incidents/2017/8/2/red-fire/
+1348f32a-510f-4ad3-971f-b75b9cf9f0c0,Bridge Fire,2017-07-14T14:23:00Z,460,100,San Bernardino,/incidents/2017/7/14/bridge-fire/
+a9d270c5-aacb-4dad-a34e-ab28a7192248,Monterey Fire,2017-06-11T17:15:00Z,450,100,Fresno,/incidents/2017/6/11/monterey-fire/
+f839c34f-de3b-4e79-9b4f-e3502557d32b,Rucker Fire,2017-09-29T14:42:00Z,444,100,Santa Barbara,/incidents/2017/9/29/rucker-fire/
+32d7eab5-d948-4be0-af69-b233e311d2b9,Eastman Fire,2017-09-18T16:04:00Z,429,100,Madera,/incidents/2017/9/18/eastman-fire/
+2725461a-6ad1-43fd-8b83-5e219df4d558,Table Fire,2017-10-13T13:16:00Z,426,100,El Dorado,/incidents/2017/10/13/table-fire/
+2aad53ef-d6c3-43dc-92e6-b2f9881ff161,Skirball Fire,2017-12-06T06:31:00Z,422,100,Los Angeles,/incidents/2017/12/6/skirball-fire/
+0d93e84b-8460-4d5d-946c-630ade76747d,Elephant Fire,2017-07-20T19:16:00Z,416,100,Tulare,/incidents/2017/7/20/elephant-fire/
+f09f75ff-d9fe-4a25-89d0-75dc98d1fe30,Dode Fire,2017-07-13T15:23:00Z,410,100,Modoc,/incidents/2017/7/13/dode-fire/
+04b54dc3-10a2-4fdf-bfa6-60a1fe2b0f7d,Jennings Fire,2017-07-11T13:45:00Z,400,100,San Diego,/incidents/2017/7/11/jennings-fire/
+eca1021e-dfea-4dec-8470-c0eb7e4d479b,Sonoma Fire,2017-05-10T15:27:00Z,400,100,Fresno,/incidents/2017/5/10/sonoma-fire/
+f571f91e-bc07-450c-8822-3ecc61a27863,Pleasant Fire,2017-08-30T15:38:00Z,392,100,Nevada,/incidents/2017/8/30/pleasant-fire/
+b3627eac-9f2f-482a-81a6-681e60b5b24a,Bear Fire,2017-10-16T22:30:00Z,391,100,Santa Cruz,/incidents/2017/10/16/bear-fire/
+31b0e75c-b0e2-4796-b8a7-efc49e4c59a5,West Fire,2017-04-03T16:00:00Z,380,100,Modoc,/incidents/2017/4/3/west-fire/
+23353f29-33d4-4a7b-b78e-66bc761a55c8,Chris Fire,2017-11-13T11:28:00Z,370,100,Mono,/incidents/2017/11/13/chris-fire/
+2adaf964-e996-4e55-a616-ac42375ee156,Willow Fire,2017-07-08T15:26:00Z,370,100,Contra Costa,/incidents/2017/7/8/willow-fire/
+0ed54526-1296-4863-ae40-613ee456899d,Creek Fire,2017-06-23T16:00:00Z,357,100,Fresno,/incidents/2017/6/23/creek-fire/
+743b2276-742e-4d25-be9b-60364ca880f6,Stone Fire,2017-07-09T13:49:00Z,340,100,San Luis Obispo,/incidents/2017/7/9/stone-fire/
+6802ed2f-5a5a-4a38-a236-e5a688639b6f,Dinely Fire,2017-06-07T11:55:00Z,339,100,Tulare,/incidents/2017/6/7/dinely-fire/
+09e74687-85e7-488f-a5c8-8a11f75ab7d8,Rose Fire,2017-08-10T14:32:00Z,338,100,Kern,/incidents/2017/8/10/rose-fire/
+093bdb67-4c14-402d-a034-3714b7125c49,Bryant Fire,2017-08-03T15:35:00Z,325,100,San Bernardino,/incidents/2017/8/3/bryant-fire/
+be5275b7-1472-4423-a9c8-0f2491179150,Marble Fire,2017-07-19T14:00:00Z,319,100,Del Norte,/incidents/2017/7/19/marble-fire/
+e1a8e4f1-ba7c-431a-a8c4-069fa3d3d36c,Liberty Fire,2017-12-07T13:14:00Z,300,100,Riverside,/incidents/2017/12/7/liberty-fire/
+0fc2a05e-689f-4c7c-b2b4-a987840b4f2c,Bravo Fire,2017-05-15T14:05:00Z,288,100,Kern,/incidents/2017/5/15/bravo-fire/
+eb87224a-f7da-4432-84ca-03a706ee3bac,Little Mountain Fire,2017-12-05T13:35:00Z,260,100,San Bernardino,/incidents/2017/12/5/little-mountain-fire/
+918e4e6c-7814-42ed-9cd5-aa11d29367da,Lost Fire,2017-07-22T15:00:00Z,255,100,San Diego,/incidents/2017/7/22/lost-fire/
+c64e288e-d258-45e0-8357-b7a7289c0b92,Huasna Fire,2017-09-20T13:41:00Z,245,100,San Luis Obispo,/incidents/2017/9/20/huasna-fire/
+a8567989-a0c5-4c31-9012-82f99d76129f,Murphy Fire,2017-09-19T19:47:00Z,237,100,Fresno,/incidents/2017/9/19/murphy-fire/
+fd0a69a3-91d5-422b-bab4-dc6a4b0de134,Largo Fire,2017-07-30T01:45:00Z,236,100,El Dorado,/incidents/2017/7/30/largo-fire/
+248bba19-4fdf-4285-a210-1334454ad80a,Deer Complex,2017-07-08T02:20:00Z,231,100,Contra Costa,/incidents/2017/7/8/deer-complex/
+3980fbbb-d17b-4deb-83a4-9af2290b5272,Spring Fire,2017-07-02T13:36:00Z,225,100,Mariposa,/incidents/2017/7/2/spring-fire/
+048c085b-3162-4906-beef-7aa2ba1b868d,Camp Fire,2017-05-18T08:48:00Z,225,100,San Luis Obispo,/incidents/2017/5/18/camp-fire/
+5b3329f4-1e37-4b5a-9ed6-6f8d74f495c3,Arrow Fire,2017-05-15T13:58:00Z,225,100,San Luis Obispo,/incidents/2017/5/15/arrow-fire/
+2ef06870-3602-4f1a-878d-962f7259ad46,Bodfish Fire,2017-06-10T12:17:00Z,206,100,Kern,/incidents/2017/6/10/bodfish-fire/
+60770d23-70db-46f1-a19a-a23eaa409125,Eagle Fire,2017-07-04T16:55:00Z,205,100,Riverside,/incidents/2017/7/4/eagle-fire/
+089f95f8-8834-4cc6-87c7-15cb1aeca7b8,Skeleton Fire,2017-09-12T14:36:00Z,200,100,Lake,/incidents/2017/9/12/skeleton-fire/
+89b5d4db-ce4e-43b9-8618-f89088d35ee1,Range Fire,2017-08-22T14:00:00Z,200,100,Alameda,/incidents/2017/8/22/range-fire/
+2f1b8cff-f7d6-4459-866b-7c84bd531dcc,Eclipse Fire,2017-08-21T14:00:00Z,200,100,San Diego,/incidents/2017/8/21/eclipse-fire/
+3dcf54bc-89f5-41b3-b797-5dcdf0e629e8,Rose Fire,2017-07-31T14:22:00Z,200,100,Riverside,/incidents/2017/7/31/rose-fire/
+09425074-8348-4fbc-b95d-4939750f9345,Tehama Fire,2017-10-26T20:00:00Z,194,100,Tehama,/incidents/2017/10/26/tehama-fire/
+06b43461-94d0-4379-a1d6-fd26ba93ceea,Wasioja Fire,2017-05-20T17:54:00Z,190,100,Santa Barbara,/incidents/2017/5/20/wasioja-fire/
+3becdf3e-b110-41ab-86ce-645e041d296f,Toll Fire,2017-08-20T16:26:00Z,186,100,Plumas,/incidents/2017/8/20/toll-fire/
+a8e4aa40-5e2a-4fd8-a858-d673576cda73,Wild Fire,2017-06-11T10:46:00Z,186,100,Fresno,/incidents/2017/6/11/wild-fire/
+733028fc-bf0a-4737-878b-78a29c9ee2ee,Rolling Fire,2017-10-15T17:11:00Z,184,100,Kern,/incidents/2017/10/15/rolling-fire/
+ec27a3bd-959b-48f3-872e-2c87047dbae2,Quarry Fire,2017-10-12T10:42:00Z,183,100,Kern,/incidents/2017/10/12/quarry-fire/
+3c61a039-cf71-40da-89e9-bcc5a62e2c1a,Laverne Fire,2017-07-18T12:39:00Z,180,100,Shasta,/incidents/2017/7/18/laverne-fire/
+1d8a8aaf-f294-46e1-8224-6ea3e8c39634,High Fire,2017-07-23T15:53:00Z,170,100,San Bernardino,/incidents/2017/7/23/high-fire/
+a1b6ff5e-0533-408c-b02a-3061f60fb263,Hills Fire,2017-08-19T16:31:00Z,168,100,Riverside,/incidents/2017/8/19/hills-fire/
+5882937b-ffce-43af-9e0a-00dcddde214a,Evans Fire,2017-06-19T21:41:00Z,168,100,Sierra,/incidents/2017/6/19/evans-fire/
+79fd7b45-381a-4819-9dc7-f80a98010809,Honcut Fire,2017-07-10T14:45:00Z,166,100,Butte,/incidents/2017/7/10/honcut-fire/
+bfc6b8e4-8021-44ca-8f92-58c724682ba1,Peg Fire,2017-08-26T12:35:00Z,157,100,Lassen,/incidents/2017/8/26/peg-fire/
+f62bd692-7aae-4e46-8284-239150acced0,26 Fire,2017-06-07T21:00:00Z,157,100,Madera,/incidents/2017/6/7/26-fire/
+19ada70e-4932-449c-8483-d65685995487,Corral Fire,2017-09-19T14:05:00Z,155,100,Alameda,/incidents/2017/9/19/corral-fire/
+e9862c12-da9f-4205-9993-91a3b1437de4,Hill Fire,2017-07-29T16:33:00Z,155,100,Siskiyou,/incidents/2017/7/29/hill-fire/
+54bad310-3a96-4019-b64d-61d00c559e6c,Smiley Fire,2017-06-18T15:10:00Z,153,100,Riverside,/incidents/2017/6/18/smiley-fire/
+579d5d2a-0e51-4058-92c7-37abd7fe4aad,Honey Fire,2017-10-09T15:05:00Z,150,100,Butte,/incidents/2017/10/9/honey-fire/
+907cd7cd-cc26-4529-a9f8-cee1e1560086,Olive Fire,2017-07-24T14:43:00Z,150,100,San Luis Obispo,/incidents/2017/7/24/olive-fire/
+1c51deff-5b43-4f54-8acc-a682f830815a,Lucy Fire,2017-06-14T11:44:00Z,150,100,San Luis Obispo,/incidents/2017/6/14/lucy-fire/
+9a555129-982b-486f-a333-c96b3f9c4d2e,41 Fire,2017-05-17T15:30:00Z,150,100,Madera,/incidents/2017/5/17/41-fire/
+45699833-fa34-4eed-9520-8c8019426122,Tower Fire,2017-04-30T16:03:00Z,150,100,San Bernardino,/incidents/2017/4/30/tower-fire/
+eb8b50ba-b6bc-4668-b3f1-dcdbfbe71b17,River Fire,2017-10-14T16:00:00Z,148,100,Trinity,/incidents/2017/10/14/river-fire/
+efa1dc61-85e3-4fb6-b6f6-04c3845d9ca6,Grape Fire,2017-09-19T13:02:00Z,146,100,Mendocino,/incidents/2017/9/19/grape-fire/
+01202971-a157-41f8-91cc-cf7c3b8f9473,Soda Fire,2017-09-28T14:46:00Z,143,100,Butte,/incidents/2017/9/28/soda-fire/
+2fd950a8-fadb-467c-ab59-88e7ea007738,Ranch Fire,2017-07-26T13:58:00Z,140,100,El Dorado,/incidents/2017/7/26/ranch-fire/
+f7a51800-b219-428c-aef0-ee5fa5de4d64,French Fire,2017-09-17T15:18:00Z,136,100,El Dorado,/incidents/2017/9/17/french-fire/
+ce6fb2ba-9799-4b36-a64f-8bf02392d6ee,Gorman Fire,2017-07-28T15:25:00Z,135,100,Los Angeles,/incidents/2017/7/28/gorman-fire/
+5f0c7697-7be3-49af-b98c-f5789e3ca6f9,King Fire,2017-06-13T17:00:00Z,135,100,Tulare,/incidents/2017/6/13/king-fire/
+a2d42b3a-32a4-4b57-a8c2-91e5d046bbb6,Skyway Fire,2017-06-16T09:27:00Z,134,100,Butte,/incidents/2017/6/16/skyway-fire/
+f30518d1-83ef-440c-8058-d4189bfedab7,Point Fire,2017-10-09T01:10:00Z,130,100,Calaveras,/incidents/2017/10/9/point-fire/
+10a447c8-708f-44a3-8679-251500c761d6,Border Fire,2017-09-01T04:20:00Z,130,100,San Diego,/incidents/2017/9/1/border-fire/
+87d7fb46-00f9-4bae-ba35-a7ef8e58a70e,Olive Fire,2017-05-02T14:32:00Z,130,100,San Luis Obispo,/incidents/2017/5/2/olive-fire/
+2b043a7e-234c-43f7-852c-21fcb9ddc200,Oak Fire,2017-07-01T00:48:00Z,128,100,Shasta,/incidents/2017/7/1/oak-fire/
+d804eebf-71de-46de-90c2-cdf0694d27e3,Tumey Fire,2017-04-29T17:15:00Z,126,100,Fresno,/incidents/2017/4/29/tumey-fire/
+8779fe43-665b-4643-a730-6344c44018c7,Coronado Fire,2017-08-13T16:23:00Z,125,100,Mariposa,/incidents/2017/8/13/coronado-fire/
+1f8c73d1-2cb8-4e98-bd44-d6dccd601c7e,Twist Fire,2017-07-30T16:28:00Z,124,100,Tuolumne,/incidents/2017/7/30/twist-fire/
+58d62aeb-29f5-45f5-93ac-a657b0708149,Stewart Fire,2017-08-04T14:25:00Z,122,100,Riverside,/incidents/2017/8/4/stewart-fire/
+17cd878b-0d5d-49ff-b205-7e0203908f4c,Margarita Fire,2017-09-03T16:59:00Z,120,100,San Luis Obispo,/incidents/2017/9/3/margarita-fire/
+45a205f4-bcd2-44bd-886b-26260c686ce7,Lamb Fire,2017-05-25T14:48:00Z,120,100,Riverside,/incidents/2017/5/25/lamb-fire/
+2f9f1bf9-6188-46a2-b91f-f212cdd21528,Maria Fire,2017-07-17T12:55:00Z,117,100,Calaveras,/incidents/2017/7/17/maria-fire/
+e8c7f247-bc31-4e5b-bf71-fe903366d9e5,Fallon Fire,2017-10-17T14:00:00Z,116,100,Alameda,/incidents/2017/10/17/fallon-fire/
+4b885d8c-8951-46c5-a3d1-520cfd0ac964,Canyon Fire,2017-08-11T12:57:00Z,114,100,Napa,/incidents/2017/8/11/canyon-fire/
+90473f02-6572-4a9b-9451-1a18a4bee1ed,Flat Fire,2017-08-26T14:31:00Z,111,100,Fresno,/incidents/2017/8/26/flat-fire/
+1b1ba02e-9db3-4224-9d8d-06d5df529f16,Lone Fire,2017-06-22T11:10:00Z,111,100,Butte,/incidents/2017/6/22/lone-fire/
+cb3599f6-751d-4072-8db1-6e366ac603c9,Poly Fire,2017-09-26T15:30:00Z,105,100,San Luis Obispo,/incidents/2017/9/26/poly-fire/
+380df891-161a-44c7-a244-d7dda9d5fd32,Canyon Fire,2017-06-15T11:36:00Z,105,100,Riverside,/incidents/2017/6/15/canyon-fire/
+510c877d-b80b-423f-b7e0-4276ce646f4a,Humboldt Fire,2017-07-19T16:02:00Z,103,100,Butte,/incidents/2017/7/19/humboldt-fire/
+4adae6c4-71c9-46d1-9743-e04f186b2c3e,Coalinga Fire,2017-08-30T16:51:00Z,102,100,Fresno,/incidents/2017/8/30/coalinga-fire/
+580ce9d9-b8dc-4dc1-9f10-11bf48df9492,Lariat Fire,2017-07-11T16:51:00Z,101,100,Santa Clara,/incidents/2017/7/11/lariat-fire/
+773795d8-5801-4f7c-a2fe-3f8d0ae18f51,Church Fire,2017-10-21T13:04:00Z,100,100,San Diego,/incidents/2017/10/21/church-fire/
+3f481060-1106-4857-8ac3-374a68763922,Oakmont Fire (Central LNU Complex),2017-10-14T20:35:00Z,100,100,Sonoma,/incidents/2017/10/14/oakmont-fire-central-lnu-complex/
+a7ecc679-7fbc-4370-9a55-8e17bf262a2e,Long Fire,2017-10-14T05:00:00Z,100,100,Lake,/incidents/2017/10/14/long-fire/
+03d74bbd-627c-47af-a2e9-5351e6e16f6a,Timm Fire,2017-10-02T09:37:00Z,100,100,Solano,/incidents/2017/10/2/timm-fire/
+7b02d757-4f96-4616-99d5-04e4eaa34440,Bally Fire,2017-09-03T19:17:00Z,100,100,Santa Clara,/incidents/2017/9/3/bally-fire/
+a983c540-b47c-4250-a65d-c5d3d76c9b3b,Parkfield Fire,2017-09-03T09:23:00Z,100,100,Fresno,/incidents/2017/9/3/parkfield-fire/
+a8ab00de-6074-45a0-9e3d-f43b090e8346,Tilton Fire,2017-08-11T14:55:00Z,100,100,Santa Clara,/incidents/2017/8/11/tilton-fire/
+32a79e9b-8ce3-477e-b698-2eb16ef66aac,Mile Fire,2017-07-31T14:44:00Z,100,100,San Bernardino,/incidents/2017/7/31/mile-fire/
+666b3951-76ce-4351-abc6-3e0518d44901,Oak Fire,2017-11-29T12:19:00Z,99,100,San Bernardino,/incidents/2017/11/29/oak-fire/
+ab009bd1-6784-4fda-a931-532520742a8b,Reed Fire,2017-08-07T14:14:00Z,92,100,Riverside,/incidents/2017/8/7/reed-fire/
+89f34aa8-eaf3-4d19-8ef0-005102e82831,Auberry Fire,2017-07-05T15:40:00Z,91,100,Fresno,/incidents/2017/7/5/auberry-fire/
+549222c5-1be6-4453-896a-caebd19b0bee,Wilbur Fire,2017-06-06T12:43:00Z,91,100,Butte,/incidents/2017/6/6/wilbur-fire/
+eeef101a-3a50-4407-8e6d-cd80d0d07599,Daulton Fire,2017-07-07T10:00:00Z,90,100,Madera,/incidents/2017/7/7/daulton-fire/
+2049dbb6-1a87-4d9d-abde-092d35072934,Ridge Fire,2017-10-06T14:38:00Z,87,100,Lake,/incidents/2017/10/6/ridge-fire/
+fc8f89b5-988a-4a23-b9e3-333cc690363e,Vista Fire,2017-10-24T14:44:00Z,86,100,Ventura,/incidents/2017/10/24/vista-fire/
+7bc10ea0-55b4-40bd-8eca-36ec10106528,Marlborough Fire,2017-08-31T10:13:00Z,85,100,Riverside,/incidents/2017/8/31/marlborough-fire/
+dd6c5dfb-e5f5-4c1b-ab7f-aa9f3a4f60fc,Saw Fire,2017-08-03T11:58:00Z,85,100,Humboldt,/incidents/2017/8/3/saw-fire/
+84c8a735-9e8f-4310-84ab-39079ad1ea14,Dollar Fire,2017-07-22T13:35:00Z,85,100,San Bernardino,/incidents/2017/7/22/dollar-fire/
+5da65d7f-cc75-4c0c-b221-1a1e3000a120,Ranch Fire,2017-06-29T13:56:00Z,85,100,Santa Clara,/incidents/2017/6/29/ranch-fire/
+e65c3e0b-08d9-43cf-b1ac-8e57d5f407fc,Country Fire,2017-08-07T18:08:00Z,82,100,Monterey,/incidents/2017/8/7/country-fire/
+d12bbce8-5acb-43ef-a259-4fbaf90d32ff,Loma Fire,2017-10-13T15:40:00Z,81,100,San Diego,/incidents/2017/10/13/loma-fire/
+d20645f2-81b9-450f-abc1-433b81bd7fea,Holiday Fire,2017-12-28T20:51:00Z,80,100,El Dorado,/incidents/2017/12/28/holiday-fire/
+ba20d998-185c-48ac-8006-15aadf4d3106,Mills File,2017-09-03T20:32:00Z,79,100,Plumas,/incidents/2017/9/3/mills-file/
+92d70dc0-19af-4c87-ab01-8c7051caab73,Fountain Fire ,2017-05-31T11:30:00Z,79,100,Tulare,/incidents/2017/5/31/fountain-fire/
+e8ebb6f2-16f5-4342-bce1-d36ff9c9422c,Castro Fire,2017-07-23T16:07:00Z,78,100,Santa Clara,/incidents/2017/7/23/castro-fire/
+80f2c7d1-d28d-43d0-97a3-ff53cc991a8c,Spring Fire ,2017-06-04T16:22:00Z,78,100,Tehama,/incidents/2017/6/4/spring-fire/
+9a2b8ac1-41f4-4f98-a4e1-9b5ddee37251,McCourtney Fire (Wind Complex),2017-10-09T00:00:00Z,76,100,Nevada,/incidents/2017/10/9/mccourtney-fire-wind-complex/
+0956bfcb-8915-4163-b4ed-4f3a6ab32895,Tivy Fire,2017-06-11T22:45:00Z,76,100,Fresno,/incidents/2017/6/11/tivy-fire/
+98bf51ea-bf23-40a3-b95e-4b795baced3e,Linne Fire,2017-09-26T16:45:00Z,74,100,San Luis Obispo,/incidents/2017/9/26/linne-fire/
+f75027cb-2526-4524-989f-71d0d56353ec,Axel Fire,2017-07-08T16:38:00Z,74,100,El Dorado,/incidents/2017/7/8/axel-fire/
+67c20627-e6cb-4900-9f40-01e8da154a53,Bryant Fire,2017-07-07T15:45:00Z,74,100,San Bernardino,/incidents/2017/7/7/bryant-fire/
+92a8a466-061b-430a-87f9-3b5192947578,Lynch Fire,2017-10-13T12:14:00Z,73,100,San Luis Obispo,/incidents/2017/10/13/lynch-fire/
+244961af-65d5-472b-972f-e02df96e9ccb,Ellis Fire,2017-07-18T15:34:00Z,72,100,Riverside,/incidents/2017/7/18/ellis-fire/
+47dd7f12-4141-473e-b2c1-2e625df3b784,Camatta Fire,2017-08-02T10:33:00Z,70,100,San Luis Obispo,/incidents/2017/8/2/camatta-fire/
+0726d9f7-2baa-4652-b1d6-cbab45783f64,Sand Fire,2017-07-17T13:17:00Z,70,100,Colusa,/incidents/2017/7/17/sand-fire/
+9a1a4247-479d-46ff-99cc-4251c5e333fa,Felipe Fire,2017-07-10T15:54:00Z,70,100,Santa Clara,/incidents/2017/7/10/felipe-fire/
+b3fc6dff-f13a-41c4-b7f3-e9e960a941d5,Manning Fire,2017-05-19T23:28:00Z,70,100,Fresno,/incidents/2017/5/19/manning-fire/
+386b7562-fe70-490b-a92c-a3c21eece0c2,Hill Fire,2017-08-27T18:47:00Z,69,100,Fresno,/incidents/2017/8/27/hill-fire/
+bf3148c5-75dd-4f79-8b3b-c5b483065b47,Clay Fire,2017-06-01T15:38:00Z,68,100,Sacramento,/incidents/2017/6/1/clay-fire/
+b02f2513-9359-45e2-9971-08f7b1f0dc0f,River Fire,2017-06-04T16:12:00Z,67,100,Lassen,/incidents/2017/6/4/river-fire/
+8740caa0-f86c-4103-b830-0435b9933a2b,Orange Fire,2017-06-21T14:45:00Z,65,100,Stanislaus,/incidents/2017/6/21/orange-fire/
+ee20b421-06cd-40d2-a22c-0f9e8ddeee71,Placentia Fire,2017-07-28T18:11:00Z,63,100,Riverside,/incidents/2017/7/28/placentia-fire/
+1dfae538-fd95-4454-865d-3d74e4b56665,Westfall Fire,2017-06-15T07:30:00Z,63,100,Mariposa,/incidents/2017/6/15/westfall-fire/
+1f8d9fe1-e644-4f53-88ae-4418cc0b4451,Montezuma Fire,2017-08-26T11:30:00Z,62,100,San Diego,/incidents/2017/8/26/montezuma-fire/
+21714c67-dc5a-4d86-8794-79d85f87b71b,Bottle Fire,2017-08-08T16:40:00Z,62,100,Lake,/incidents/2017/8/8/bottle-fire/
+b3a6b47f-105b-4f66-b12a-76c563457a5d,Lake Fire,2017-07-08T11:00:00Z,62,100,Stanislaus,/incidents/2017/7/8/lake-fire/
+ffb57bcc-80f7-4299-bfcf-c9be3b66d5ff,Bolla Fire,2017-06-18T07:15:00Z,60,100,Tehama,/incidents/2017/6/18/bolla-fire/
+80844950-65c8-44ec-b63a-7e51412fea0c,Fox Fire,2017-07-17T15:32:00Z,59,100,Tulare,/incidents/2017/7/17/fox-fire/
+6f9581fa-7c8a-45d1-988d-0a299fc15d62,Quail Fire,2017-07-12T13:10:00Z,59,100,Calaveras,/incidents/2017/7/12/quail-fire/
+46d1ec10-be8e-474a-b98f-ba7cd3521ccd,Silver Fire,2017-10-11T15:59:00Z,58,100,Fresno,/incidents/2017/10/11/silver-fire/
+ab08cb64-67c4-4e7d-8081-b5574131f755,Slides Fire,2017-09-12T16:08:00Z,58,100,Lake,/incidents/2017/9/12/slides-fire/
+7a317400-8838-4fd4-8c2f-b8c12add5d6a,Hogback Fire,2017-07-18T15:50:00Z,58,100,Tulare,/incidents/2017/7/18/hogback-fire/
+effeee13-51d7-4cf2-a62f-93b47b34605a,Tower Fire,2017-07-07T16:23:00Z,58,100,San Luis Obispo,/incidents/2017/7/7/tower-fire/
+a3bd6249-555a-4ee1-99c0-69333d71bdfb,Live Fire,2017-07-28T13:24:00Z,57,100,Tehama,/incidents/2017/7/28/live-fire/
+36d953e8-265f-4b05-831e-42eb2298b208,Freedom Fire,2017-07-04T13:21:00Z,57,100,Fresno,/incidents/2017/7/4/freedom-fire/
+f173524a-ae01-47f5-942d-5e90c2b96469,Bogus Fire,2017-06-18T15:45:00Z,56,100,Siskiyou,/incidents/2017/6/18/bogus-fire/
+c9009967-c0c1-47d3-b2eb-47b2d7a5da0e,Estate Fire,2017-09-23T11:05:00Z,55,100,Solano,/incidents/2017/9/23/estate-fire/
+62b8a6af-700a-4c93-85d5-a9b85a30faf5,Owens Fire,2017-08-29T15:39:00Z,55,100,Siskiyou,/incidents/2017/8/29/owens-fire/
+d1ec9e43-04bd-4926-8362-5e04afe39c90,Topanga Fire,2017-06-29T15:09:00Z,55,100,Los Angeles,/incidents/2017/6/29/topanga-fire/
+59fae761-fd49-4f06-a2e9-1495c00eb7e9,Bradley Fire,2017-08-28T22:00:00Z,54,100,Siskiyou,/incidents/2017/8/28/bradley-fire/
+f8cd3b44-ec6b-4338-9edc-ebd879a8aafc,Bradley Fire,2017-08-28T21:38:00Z,54,100,Siskiyou,/incidents/2017/8/28/bradley-fire/
+d515cbcc-376e-4bc7-adea-189eff5a7735,Quimby Fire,2017-06-21T18:02:00Z,54,100,Santa Clara,/incidents/2017/6/21/quimby-fire/
+7b95ce91-9581-4fe6-887d-ab1bf6420205,Weller Fire,2017-07-26T23:19:00Z,51,100,Santa Clara,/incidents/2017/7/26/weller-fire/
+fb042e0f-1aab-4ac4-9d09-947c9b9f14b6,Tank Fire,2017-10-26T11:55:00Z,50,100,Kern,/incidents/2017/10/26/tank-fire/
+33bf7f90-edd9-4bf7-a079-561d5dad25c9,Extension Fire,2017-10-23T10:31:00Z,50,100,Riverside,/incidents/2017/10/23/extension-fire/
+dcd7fb2e-3a4f-427e-9b13-1d2bcb0e8ac6,Wilson Fire,2017-10-17T03:43:00Z,50,100,Los Angeles,/incidents/2017/10/17/wilson-fire/
+81b26bc7-7d65-4591-9d27-4e698cab4f12,Skeggs Fire,2017-09-11T19:41:00Z,50,100,San Mateo,/incidents/2017/9/11/skeggs-fire/
+e4834d78-fd4a-44b4-8669-52cbdc41113d,Calgary Fire,2017-08-05T13:16:00Z,50,100,Kern,/incidents/2017/8/5/calgary-fire/
+a26038b9-df04-4ade-b918-0c4fb9a8dbcf,Mesa Fire,2017-07-17T14:55:00Z,50,100,Santa Barbara,/incidents/2017/7/17/mesa-fire/
+5a52750e-30a0-4d26-a75b-58f79e1e24f4,West Fire,2017-07-08T16:47:00Z,50,100,Yuba,/incidents/2017/7/8/west-fire/
+f6970f10-0498-4f4c-8e0c-d4b7e4fbf888,Grade Fire,2017-07-04T14:45:00Z,50,100,Ventura,/incidents/2017/7/4/grade-fire/
+2f97537a-1333-4dfc-b7a3-b7bf9400ffdd,Lago Fire,2017-07-03T15:14:00Z,50,100,Riverside,/incidents/2017/7/3/lago-fire/
+3fc7de4e-3a0f-45e9-be1f-801f88770883,Douglas Fire,2017-06-13T14:31:00Z,50,100,San Diego,/incidents/2017/6/13/douglas-fire/
+e7cb239e-7d9e-440d-ba5a-c6881406ce95,Power Fire,2017-09-20T21:07:00Z,48,100,Madera,/incidents/2017/9/20/power-fire/
+2db503da-a7b2-47a6-92a6-697799eb63f1,Serenas Fire,2017-05-28T15:27:00Z,48,100,Riverside,/incidents/2017/5/28/serenas-fire/
+c265dfe8-6217-4a0d-9ea9-37be3b38baef,Bitterwater Fire,2017-11-25T16:46:00Z,47,100,San Benito,/incidents/2017/11/25/bitterwater-fire/
+7dd19215-986b-4365-a40d-2267b4a05de0,Zenon Fire,2017-07-20T14:43:00Z,47,100,San Luis Obispo,/incidents/2017/7/20/zenon-fire/
+78754c68-2800-4c5d-aff0-ab0b399ab5ce,Canyon Fire,2017-08-27T14:51:00Z,46,100,Riverside,/incidents/2017/8/27/canyon-fire/
+826b4661-020b-425d-84ec-9426c39839e7,Hidden Fire,2017-07-12T15:29:00Z,46,100,San Bernardino,/incidents/2017/7/12/hidden-fire/
+f8b61fab-bd14-4e92-960a-d512693ea8e5,Whitepine Fire,2017-06-06T16:38:00Z,46,100,Siskiyou,/incidents/2017/6/6/whitepine-fire/
+e32c7957-8f4f-4ec1-a0f6-98085a2a7e89,Riverbottom Fire,2017-12-21T11:16:00Z,45,100,Riverside,/incidents/2017/12/21/riverbottom-fire/
+f8ce12e2-e7c1-4922-b584-63e4421d0598,Pozo Fire,2017-10-09T14:30:00Z,45,100,San Luis Obispo,/incidents/2017/10/9/pozo-fire/
+95960fa6-58ba-4b4e-aeb2-ada97d699908,Grace Fire,2017-04-03T16:00:00Z,45,100,Shasta,/incidents/2017/4/3/grace-fire/
+399dba2c-02c1-4756-a76d-1198d0e838ed,Mines Fire,2017-08-27T17:45:00Z,44,100,Alameda,/incidents/2017/8/27/mines-fire/
+eadd73be-51ab-4078-91cc-04784be3f17f,Roser Fire,2017-11-02T14:40:00Z,43,100,Tehama,/incidents/2017/11/2/roser-fire/
+ed4e06ba-6d17-459a-831a-9b15a9bd116e,Pine Fire,2017-09-11T15:11:00Z,43,100,Monterey,/incidents/2017/9/11/pine-fire/
+abe2311a-4ce6-4300-9716-4fb3fe538c75,Lockwood Fire,2017-06-29T20:44:00Z,42,100,Monterey,/incidents/2017/6/29/lockwood-fire/
+982c81ca-ebe5-4591-986d-1f3e2e4cc13c,Paskenta Fire,2017-06-24T11:15:00Z,42,100,Tehama,/incidents/2017/6/24/paskenta-fire/
+7967c729-4693-47a1-b1bc-1d82825ca8db,Jones Fire,2017-06-03T13:09:00Z,42,100,Modoc,/incidents/2017/6/3/jones-fire/
+f0dbf1f5-9f21-4d11-a432-d32f7f18c412,Ward Fire,2017-08-13T12:41:00Z,41,100,Siskiyou,/incidents/2017/8/13/ward-fire/
+6f2f8dc0-b930-435e-a622-d3585dcac067,Stokes Fire,2017-06-29T15:45:00Z,41,100,Los Angeles,/incidents/2017/6/29/stokes-fire/
+9f416f37-a8ca-4127-a6b7-02626fd32e06,Feed Fire,2017-05-14T14:00:00Z,41,100,Kern,/incidents/2017/5/14/feed-fire/
+c425ed8d-1aab-44c8-bc03-39675ad2b0d2,Riverdale Fire,2017-12-04T12:26:00Z,40,100,Riverside,/incidents/2017/12/4/riverdale-fire/
+60d9b4f4-7b48-4820-9adc-5be0b4353a5c,Palm Fire,2017-11-14T16:11:00Z,40,100,Riverside,/incidents/2017/11/14/palm-fire/
+50bd55cc-7c58-462d-a919-923b4bdcca15,Freeway Fire,2017-10-24T10:27:00Z,40,100,San Bernardino,/incidents/2017/10/24/freeway-fire/
+6ab80358-cb3c-4e2a-85da-0cd77003fc12,Jones Fire,2017-10-08T04:53:00Z,40,100,Shasta,/incidents/2017/10/8/jones-fire/
+62a5257e-a841-4f7a-ae19-52aa89570bd9,Lakewood Fire,2017-09-29T15:58:00Z,40,100,Kern,/incidents/2017/9/29/lakewood-fire/
+59d6fc84-0d58-4e29-b910-1993dba51b3a,Hole Fire,2017-09-12T12:45:00Z,40,100,Del Norte,/incidents/2017/9/12/hole-fire/
+18a2b3d6-d86e-4147-ab42-d45b8792e98a,Translator Fire,2017-08-28T08:01:00Z,40,100,Humboldt,/incidents/2017/8/28/translator-fire/
+becd0762-0e22-4c54-a1c5-3ecd3660dd70,Vestal Fire,2017-08-26T15:03:00Z,40,100,Tehama,/incidents/2017/8/26/vestal-fire/
+1ba1f29a-5281-4f53-857d-106ae5e7db84,Murphy Fire,2017-07-17T14:44:00Z,40,100,Lake,/incidents/2017/7/17/murphy-fire/
+13dedbc3-8b85-4f64-b3db-89ed81ed4f1d,Reservation Fire,2017-07-16T11:17:00Z,40,100,Monterey,/incidents/2017/7/16/reservation-fire/
+38c666cb-6545-428f-985d-a2589dfb3700,Table Fire,2017-09-19T00:22:00Z,39,100,Tuolumne,/incidents/2017/9/19/table-fire/
+ebcee501-5709-4382-8eab-d8595ba6606d,Spenceville Fire,2017-07-24T14:56:00Z,39,100,Yuba,/incidents/2017/7/24/spenceville-fire/
+949e577d-86c2-4def-b25a-c24aa014f4d9,Toll Fire,2017-06-22T13:08:00Z,39,100,Solano,/incidents/2017/6/22/toll-fire/
+243567d6-2692-4978-88f5-1bbfc7b818a6,Pine Fire,2017-06-27T10:39:00Z,38,100,Marin,/incidents/2017/6/27/pine-fire/
+5d521085-d92f-4664-b17b-732783658daa,Red Fire,2017-06-11T18:49:00Z,38,100,Tuolumne,/incidents/2017/6/11/red-fire/
+2ca11d45-8139-4c16-8af0-880d99b21e82, Bridge Fire,2017-10-31T11:22:00Z,37,100,Shasta,/incidents/2017/10/31/bridge-fire/
+932a3f2f-6c0e-42a6-b357-f333774b4ea8,Banderilla Fire,2017-07-07T15:50:00Z,36,100,Mariposa,/incidents/2017/7/7/banderilla-fire/
+49a9074c-c30b-4042-9ffd-1a10f9d9bf1d,Black Fire,2017-06-25T12:09:00Z,36,100,San Diego,/incidents/2017/6/25/black-fire/
+58533f37-ed81-4ac4-89e9-b4088684d9e7,Melba Fire,2017-09-29T18:01:00Z,35,100,Riverside,/incidents/2017/9/29/melba-fire/
+bf2e0a34-e600-4e21-9135-168e28c2893d,Spaletta Fire,2017-07-12T16:15:00Z,35,100,Marin,/incidents/2017/7/12/spaletta-fire/
+252345dd-886b-4bd2-90b9-161727a2fc2d,Jurupa Fire,2017-07-04T15:20:00Z,35,100,Riverside,/incidents/2017/7/4/jurupa-fire/
+4f0ff7c1-7c96-4f68-87e8-be4466945c2b,Latrobe Fire,2017-06-27T07:39:00Z,35,100,Sacramento,/incidents/2017/6/27/latrobe-fire/
+b11adfe0-b74d-4321-b1bd-3fc0b8f0929b,Breckenridge Fire,2017-06-09T04:53:00Z,35,100,Kern,/incidents/2017/6/9/breckenridge-fire/
+54ddf2ef-28b0-4c34-bfe0-1d084f4f57e2,Smiley Fire,2017-05-21T16:12:00Z,35,100,Riverside,/incidents/2017/5/21/smiley-fire/
+c5783ba0-227e-4ff6-9d7d-61532ccd469b,Meyers Fire,2017-12-05T13:28:00Z,34,100,San Bernardino,/incidents/2017/12/5/meyers-fire/
+99a7ed51-e64a-4aa9-b8ba-6a9ae4752db0,Ellie Fire,2017-09-10T13:49:00Z,34,100,Riverside,/incidents/2017/9/10/ellie-fire/
+62a6c794-97db-4b57-9033-958bcf2e5a99,Miller Fire,2017-08-31T13:57:00Z,34,100,Humboldt,/incidents/2017/8/31/miller-fire/
+9668cfe5-b636-4147-bce1-da8e8b3fb5c2,Valley Fire,2017-07-04T13:21:00Z,34,100,San Benito,/incidents/2017/7/4/valley-fire/
+bc89aab5-5f30-46a2-9881-6dbae22893b6,Christmas Fire,2017-07-07T12:56:00Z,33,100,Riverside,/incidents/2017/7/7/christmas-fire/
+67ba6e61-b5ca-48f4-8e56-9cedeaeb65ea,Valley Fire,2017-06-13T12:00:00Z,33,100,Riverside,/incidents/2017/6/13/valley-fire/
+46c4f0c2-6760-4e42-ac2f-ec25c2486628,Creek Fire ,2017-06-04T22:11:00Z,33,100,Kern,/incidents/2017/6/4/creek-fire/
+5ef75bbf-adba-424a-bef3-a5efed5b5e2c,Sandy Fire,2017-08-02T11:13:00Z,32,100,Trinity,/incidents/2017/8/2/sandy-fire/
+5367822f-b489-4da5-b90e-c5b2c8abf318,Sandy Fire,2017-08-02T08:30:00Z,32,100,Trinity,/incidents/2017/8/2/sandy-fire/
+bfa2d3e8-2ede-423f-b7db-f8e6f44a3c82,Washington Fire,2017-07-13T10:28:00Z,32,100,Riverside,/incidents/2017/7/13/washington-fire/
+7cae5704-9ba2-487c-a48b-bb440c95da6e,Shore Fire,2017-06-16T15:49:00Z,32,100,Monterey,/incidents/2017/6/16/shore-fire/
+f32d4562-5032-4645-ac8f-afb3fab4c704,Pleyto Fire,2017-06-11T18:12:00Z,32,100,Monterey,/incidents/2017/6/11/pleyto-fire/
+c58da6fd-a2e2-4706-9a2e-ee03884c714d,York Fire,2017-10-15T14:55:00Z,31,100,Monterey,/incidents/2017/10/15/york-fire/
+83d87ff0-be6c-46fa-ab96-b9845d5d4edc,Juniper Fire,2017-08-23T13:28:00Z,31,100,Fresno,/incidents/2017/8/23/juniper-fire/
+5115a26e-e8e8-42cd-9aeb-f5c41efd770a,Hub Fire,2017-05-12T05:05:00Z,31,100,Kern,/incidents/2017/5/12/hub-fire/
+1e9d7aca-8862-4dff-a8af-5f687afdfda0,Castaic Fire,2017-08-31T16:32:00Z,30,100,Los Angeles,/incidents/2017/8/31/castaic-fire/
+e1582691-805c-4627-b20b-e5e8ba110f20,Blocksburg Fire,2017-08-03T16:41:00Z,30,100,Humboldt,/incidents/2017/8/3/blocksburg-fire/
+b51d7a8d-f768-453e-abb4-665b74998b21,Timber Fire,2017-07-03T19:31:00Z,30,100,Riverside,/incidents/2017/7/3/timber-fire/
+0e9f14ae-01d5-4fbe-85a0-d0967233dc90,Ice Fire,2017-10-10T15:36:00Z,29,100,El Dorado,/incidents/2017/10/10/ice-fire/
+de1788c0-2996-40cf-9f76-2920b210d6a9,Benson Fire,2017-07-08T18:58:00Z,29,100,Tehama,/incidents/2017/7/8/benson-fire/
+cf38fe5e-29ca-498d-bc9c-d3f2fd8ff883,32 Fire,2017-09-25T11:03:00Z,28,100,Butte,/incidents/2017/9/25/32-fire/
+5e01dba8-3d59-41a6-ba60-d78d874eba42,4-4 Fire,2017-08-30T11:38:00Z,28,100,Modoc,/incidents/2017/8/30/4-4-fire/
+2c00a509-af87-418f-b888-edc8ec450f1f,Shore Fire,2017-06-26T21:30:00Z,28,100,Del Norte,/incidents/2017/6/26/shore-fire/
+57b7776f-bae7-4b14-b94c-65806e002a88,Nuevo Fire,2017-06-15T15:51:00Z,28,100,Riverside,/incidents/2017/6/15/nuevo-fire/
+182f71e9-0f85-4cb0-8711-ee14c0b6b8f8,4-10 Fire,2017-08-30T14:50:00Z,27,100,Modoc,/incidents/2017/8/30/4-10-fire/
+b0ffe2e4-ae61-4ad9-b1cc-bf31ff254d8d,Vernon Fire,2017-06-03T12:09:00Z,27,100,Riverside,/incidents/2017/6/3/vernon-fire/
+ab42234a-7930-4636-8af5-3fc11ca8b34d,Jasper Fire,2017-09-26T15:20:00Z,26,100,Yuba,/incidents/2017/9/26/jasper-fire/
+bfa879b5-b526-4114-9137-51d3ea3ad336,Trellis Fire,2017-06-18T16:03:00Z,26,100,Riverside,/incidents/2017/6/18/trellis-fire/
+663d291c-7ba8-415d-9cab-58d41a886cfd,Fairview Fire,2017-06-01T16:12:00Z,26,100,Riverside,/incidents/2017/6/1/fairview-fire/
+d720af5d-af7c-4052-92b3-fced863cb675,Wilson Fire,2017-10-15T14:05:00Z,25,100,San Diego,/incidents/2017/10/15/wilson-fire/
+92fc9725-ac49-4632-8bbf-e299483940b8,Cove Fire,2017-09-23T15:40:00Z,25,100,San Luis Obispo,/incidents/2017/9/23/cove-fire/
+d0b51e42-5558-47c9-8617-34f6f977ab79,Border 9 Fire,2017-09-07T15:41:00Z,25,100,San Diego,/incidents/2017/9/7/border-9-fire/
+406e30d2-2ac0-4c0b-998c-761adde20177,Hopper Fire,2017-09-01T11:21:00Z,25,100,Shasta,/incidents/2017/9/1/hopper-fire/
+7696644d-0908-4149-8d6e-aa50c1233d67,Sloane Fire,2017-06-27T09:38:00Z,25,100,San Diego,/incidents/2017/6/27/sloane-fire/
+b3695ebc-e761-4577-8439-6330bed36594,Road Fire,2017-06-18T14:04:00Z,25,100,Madera,/incidents/2017/6/18/road-fire/
+14e249f0-f21c-4d2f-bc5f-68d5d177e849,5 Fire,2017-06-03T15:39:00Z,25,100,Los Angeles,/incidents/2017/6/3/5-fire/
+9b9bf8b4-8378-46e5-a760-67e89e2279e2,Ribbonwood Fire,2017-05-24T15:30:00Z,25,100,San Diego,/incidents/2017/5/24/ribbonwood-fire/
+61e9a1f4-a263-47a0-93ee-64b52ebd92a9,Portola Fire,2017-10-10T14:57:00Z,23,100,Riverside,/incidents/2017/10/10/portola-fire/
+c4f61042-d1ef-4d00-956d-785368ee34ca,Edwards Fire,2017-09-26T12:22:00Z,22,100,Alameda,/incidents/2017/9/26/edwards-fire/
+7d77d3d1-40b5-40ab-8a53-2550f2001094,Gold Fire,2017-07-05T16:56:00Z,22,100,Calaveras,/incidents/2017/7/5/gold-fire/
+7d9de7fd-f95d-4edb-bda6-804b734eedc8,Refuge Fire,2017-06-13T10:18:00Z,22,100,Napa,/incidents/2017/6/13/refuge-fire/
+494792db-3107-4323-b176-fde4c58cd647,Soda Fire,2017-10-20T12:13:00Z,21,100,San Luis Obispo,/incidents/2017/10/20/soda-fire/
+180ea977-b5c2-483d-b9f4-c2f8b8b05ebe,Mule Fire,2017-09-05T14:55:00Z,21,100,Lake,/incidents/2017/9/5/mule-fire/
+0a664214-c090-4889-8439-06836f89d830,Globe Fire,2017-07-05T08:24:00Z,21,100,Tulare,/incidents/2017/7/5/globe-fire/
+981484d0-711c-4a7b-9adc-23c9b29f9fae,Highway Fire,2017-06-22T09:49:00Z,21,100,Butte,/incidents/2017/6/22/highway-fire/
+2d09e106-116c-4a9f-a3de-dae03df6de6a,Platina Fire,2017-06-13T12:47:00Z,21,100,Shasta,/incidents/2017/6/13/platina-fire/
+f5ef2d0f-66a7-4d75-a9e8-03c42524d723,Bitterwater Fire,2017-05-22T04:50:00Z,21,100,San Benito,/incidents/2017/5/22/bitterwater-fire/
+e2c1718a-40e5-4139-a379-011c77f021bd,Blue Fire,2017-10-08T16:40:00Z,20,100,Humboldt,/incidents/2017/10/8/blue-fire/
+fc87e089-36dc-4314-8321-7d91e7eead21,Fort Fire,2017-10-07T20:00:00Z,20,100,Sonoma,/incidents/2017/10/7/fort-fire/
+bc12dbf6-db36-4dcf-86d6-84d3beb14cad,36 Fire,2017-10-03T16:22:00Z,20,100,Tehama,/incidents/2017/10/3/36-fire/
+09f55a45-f261-492f-b496-8744d878ef57,Falls Fire,2017-08-01T16:33:00Z,20,100,Tuolumne,/incidents/2017/8/1/falls-fire/
+a441e39a-1be1-4be5-8c07-b32bc6f07df0,Seine Fire,2017-07-22T15:49:00Z,20,100,San Bernardino,/incidents/2017/7/22/seine-fire/
+7f742021-ea49-4de5-89a2-f5b9d05d6bbb,Range Fire,2017-07-17T12:37:00Z,20,100,Mendocino,/incidents/2017/7/17/range-fire/
+338af3e2-098b-4d1b-8f98-6020b212b68f,Reed Fire,2017-06-13T17:21:00Z,20,100,Riverside,/incidents/2017/6/13/reed-fire/
+304c7c4c-140e-40f4-ac9f-36926c07e5fc,Fish Fire,2017-06-05T13:17:00Z,20,100,Contra Costa,/incidents/2017/6/5/fish-fire/
+3fce8146-ff21-4399-9a94-f37124b34331,City Fire,2017-05-18T12:54:00Z,20,100,Kings,/incidents/2017/5/18/city-fire/
+1423af4f-16d5-4f19-a01d-fc3ebc124201,Nacimiento Fire,2017-05-14T12:00:00Z,20,100,Monterey,/incidents/2017/5/14/nacimiento-fire/
+d3f8db86-9947-4a4e-9113-0d7e4806417f,Longhorn Fire,2017-12-13T15:27:00Z,19,100,Riverside,/incidents/2017/12/13/longhorn-fire/
+11392e98-1571-4405-8f9c-d347caca28ce,Garden Fire,2017-10-10T12:30:00Z,19,100,Nevada,/incidents/2017/10/10/garden-fire/
+bae69034-3bf6-48c3-a642-d0242cf090f9,Nuevo Fire,2017-08-13T13:34:00Z,19,100,Riverside,/incidents/2017/8/13/nuevo-fire/
+82689e99-9158-4403-b8c5-bababc3c81f6,Sway Fire,2017-08-01T10:23:00Z,19,100,Humboldt,/incidents/2017/8/1/sway-fire/
+1eef0c21-122b-4522-80d1-edf08c82c777,Willms Fire,2017-07-18T22:39:00Z,19,100,Stanislaus,/incidents/2017/7/18/willms-fire/
+91d07ea9-cf5f-489c-aa4f-97fa6c0fb8a4,King Fire,2017-06-26T12:30:00Z,19,100,Siskiyou,/incidents/2017/6/26/king-fire/
+f5237d47-f15b-4f4b-8b1c-6f11235f954d,Fay Fire,2017-05-01T12:44:00Z,19,100,Kern,/incidents/2017/5/1/fay-fire/
+d83bfb8a-f1e6-4213-b514-89fc16d2eb72,Bodega Fire,2017-08-27T13:30:00Z,18,100,Sonoma,/incidents/2017/8/27/bodega-fire/
+6ae3d56e-0258-49f5-9e71-5b5abe141479,Lakeland Fire,2017-07-04T15:45:00Z,18,100,Butte,/incidents/2017/7/4/lakeland-fire/
+21e9f99a-35a5-41cd-a44b-92363fbf5081,Panoche Fire,2017-05-28T16:16:00Z,18,100,Fresno,/incidents/2017/5/28/panoche-fire/
+75bb079a-1de8-4824-a933-e19f69948438,Pine Fire,2017-05-16T16:10:00Z,18,100,Monterey,/incidents/2017/5/16/pine-fire/
+273d1f78-c432-46c0-8969-26c3f936cc65,Ramblin Fire,2017-10-03T11:44:00Z,17,100,Mariposa,/incidents/2017/10/3/ramblin-fire/
+1b49e4e3-7506-4bf4-b86f-fd3ca93fd85b,Corner Fire,2017-08-17T14:15:00Z,17,100,Shasta,/incidents/2017/8/17/corner-fire/
+00a13d84-415e-4106-aa31-2e664ed9eabf,Sky Fire,2017-07-29T17:29:00Z,17,100,Shasta,/incidents/2017/7/29/sky-fire/
+fbc11fc4-573b-465f-a9ac-a879ee2cdda2,Rocky Fire,2017-05-20T13:11:00Z,17,100,San Luis Obispo,/incidents/2017/5/20/rocky-fire/
+2d12b95c-3f4e-41bc-a771-8ae2cb80b99e,Lonoak Fire,2017-05-17T15:18:00Z,17,100,Monterey,/incidents/2017/5/17/lonoak-fire/
+48c4b519-eaf5-4ae8-9470-31e8770a70ac,Canyon Fire,2017-05-14T12:51:00Z,17,100,Riverside,/incidents/2017/5/14/canyon-fire/
+adf741f6-5416-41c5-af26-01240cc361cf,Elk Fire,2017-06-02T18:55:00Z,16,100,Kern,/incidents/2017/6/2/elk-fire/
+524b1e23-8921-4195-812d-7ec8ee5020b7,Matz Fire,2017-05-29T01:20:00Z,16,100,San Bernardino,/incidents/2017/5/29/matz-fire/
+7272decf-0ae8-47aa-b46c-00fc4cd04816,Rusty Fire,2017-05-28T07:49:00Z,16,100,Fresno,/incidents/2017/5/28/rusty-fire/
+a43d0b54-a91e-40ba-b121-2e0f067201b6,Paskenta Fire ,2017-08-10T17:24:00Z,15,100,Tehama,/incidents/2017/8/10/paskenta-fire/
+77ab4672-c61f-488f-a165-acb40eeac713,Greenhorn Fire,2017-07-27T14:49:00Z,15,100,Nevada,/incidents/2017/7/27/greenhorn-fire/
+f568b94d-f388-4231-8aac-ac2572ca872d,Centerville Fire,2017-07-17T13:38:00Z,15,100,Modoc,/incidents/2017/7/17/centerville-fire/
+c171dc75-9d35-4c58-b787-032067b16ae7,Alvarado Fire,2017-06-28T09:30:00Z,15,100,Monterey,/incidents/2017/6/28/alvarado-fire/
+42f21a81-e0a3-4b4d-b837-2e6e2efd75a4,Lombardi Fire,2017-05-28T15:30:00Z,15,100,Calaveras,/incidents/2017/5/28/lombardi-fire/
+b12ae71e-c6c8-4eab-9aab-d17d1879a639,66 Fire,2017-04-13T02:30:00Z,15,100,Riverside,/incidents/2017/4/13/66-fire/
+64779f92-8353-4187-ae56-2b83eb66d7ca,Drum Fire,2017-12-16T12:21:00Z,14,100,Santa Barbara,/incidents/2017/12/16/drum-fire/
+2fa6f5ce-1c5b-4147-9f1f-9beb01c499af,Coast Fire,2017-12-14T12:59:00Z,14,100,Santa Barbara,/incidents/2017/12/14/coast-fire/
+97d63e17-e546-49ae-add6-e3b5fa71cb4c,Desabla Fire,2017-07-02T13:43:00Z,14,100,Butte,/incidents/2017/7/2/desabla-fire/
+b9142a59-e3dd-4797-b6ed-c5c847b16f67,Hog Fire,2017-06-09T16:15:00Z,14,100,Monterey,/incidents/2017/6/9/hog-fire/
+9348a031-c7b3-4165-890a-37a7eb7405db,Moraga Fire,2017-05-18T17:25:00Z,14,100,Riverside,/incidents/2017/5/18/moraga-fire/
+6418a3f5-8f76-4b47-9a46-64af91838857,Milton Fire,2017-10-18T12:53:00Z,13,100,Stanislaus,/incidents/2017/10/18/milton-fire/
+855e28e2-753b-4c36-bf39-27ace518776d,Woodland Fire,2017-07-25T14:13:00Z,13,100,El Dorado,/incidents/2017/7/25/woodland-fire/
+fd82cbd0-ec25-461c-aef1-4c0c92060348,Rosado Fire,2017-07-12T13:51:00Z,13,100,El Dorado,/incidents/2017/7/12/rosado-fire/
+ed40ce35-7338-4f8b-a5ab-e94af6fa7e55,Silver Fire,2017-07-04T13:15:00Z,13,100,San Bernardino,/incidents/2017/7/4/silver-fire/
+ea832344-b0c6-4443-b5f0-457c462d911c,Pacific Fire,2017-09-12T17:24:00Z,12,100,Butte,/incidents/2017/9/12/pacific-fire/
+07cb7d4c-a40e-4265-86df-9f3c3c1d6764,Dehesa Fire,2017-06-04T11:04:00Z,12,100,San Diego,/incidents/2017/6/4/dehesa-fire/
+c7e3bcbf-1065-4e45-a4a3-bf0b5ac6aa23,Shandon Fire,2017-05-07T16:41:00Z,12,100,San Luis Obispo,/incidents/2017/5/7/shandon-fire/
+7fc71135-ee3b-443c-a859-90672936e0c1,Jameson Fire,2017-04-30T19:43:00Z,12,100,Riverside,/incidents/2017/4/30/jameson-fire/
+fcb8579e-7469-4c9e-9eac-527264e6f26b,Taglio Fire,1969-12-31T16:00:00Z,12,100,Merced,/incidents/2017/12/31/taglio-fire/
+75fb489f-1e3e-4929-a6fb-a288416b96e0,Independence Fire,2017-07-31T23:17:00Z,11,100,Sonoma,/incidents/2017/7/31/independence-fire/
+64ef64a3-c8b0-48f1-8fec-9cacf8dfcd34,Lisa Fire,2017-07-02T13:04:00Z,11,100,Riverside,/incidents/2017/7/2/lisa-fire/
+e3ed6829-5211-436a-8e32-ec617c3ebc83,Freeway Fire,2017-10-08T12:15:00Z,10,100,Tehama,/incidents/2017/10/8/freeway-fire/
+04b4caff-a62d-465b-b9a7-81986f91c0c3,Dexter Fire,2017-09-20T14:53:00Z,10,100,Mariposa,/incidents/2017/9/20/dexter-fire/
+e1a5b757-2bc1-440f-b3d1-06cd41171775,Shaver Fire,2017-09-11T10:00:00Z,10,100,Fresno,/incidents/2017/9/11/shaver-fire/
+f3c1f59e-b0d5-4c14-976f-ae6c583b2224,Sandra Fire,2017-08-28T17:06:00Z,10,100,Amador,/incidents/2017/8/28/sandra-fire/
+9705ad0d-5bf1-4221-a7c3-3af6d99be3d0,Rincon Fire,2017-08-03T16:21:00Z,10,100,Los Angeles,/incidents/2017/8/3/rincon-fire/
+d9f83833-30c4-448d-b2ca-c5a63791b83d,Grizzly Fire,2017-07-21T16:50:00Z,10,100,Nevada,/incidents/2017/7/21/grizzly-fire/
+2ec4e814-477b-47e7-a36b-4da26f94e277,North Fire,2017-07-15T18:10:00Z,10,100,Shasta,/incidents/2017/7/15/north-fire/
+e6626b0a-428c-442f-9ec5-591effef172d,Navajo Fire,2017-07-13T14:14:00Z,10,100,Riverside,/incidents/2017/7/13/navajo-fire/
+1be14ce2-5e9c-4cc2-89bf-f36cb1d1ccbd,Rebie Fire,2017-07-12T13:55:00Z,10,100,Butte,/incidents/2017/7/12/rebie-fire/
+d4f1fc5e-b877-41ee-b491-8e92ded4984f,Canyon Fire,2017-07-03T13:34:00Z,10,100,Riverside,/incidents/2017/7/3/canyon-fire/
+c99fe9af-6d6b-435a-9084-2248905ad251,Brewer Fire,2017-07-02T12:41:00Z,10,100,Nevada,/incidents/2017/7/2/brewer-fire/
+294c531a-3299-4038-baa8-c2a92d38d10a,Lambs Fire,2017-06-18T12:28:00Z,10,100,Riverside,/incidents/2017/6/18/lambs-fire/
+0089929d-0b52-46fe-8982-b096b7616f30,Springs Fire,2017-06-16T14:51:00Z,10,100,Riverside,/incidents/2017/6/16/springs-fire/
+8bba8daf-8d47-43e7-8593-fdfa2dea5228,Pine Fire,2017-06-05T14:02:00Z,10,100,Kern,/incidents/2017/6/5/pine-fire/
+7ea6269d-6ba3-41e1-aff6-b4da1c6611d1,Shirleon Fire ,2017-06-04T16:48:00Z,10,100,Riverside,/incidents/2017/6/4/shirleon-fire/
+67d31514-620f-49d1-b4bd-a3a92efd48ca,Twenty Fire,2017-05-29T15:31:00Z,10,100,Yuba,/incidents/2017/5/29/twenty-fire/
+6fa64139-e5d1-4134-b012-5c1b272ac89a,Champagne Fire,2017-05-28T10:59:00Z,10,100,Kern,/incidents/2017/5/28/champagne-fire/
+fccf2545-cab8-452e-829c-8379054831f0,Moreno Fire,2017-05-23T13:13:00Z,10,100,Riverside,/incidents/2017/5/23/moreno-fire/
+b8bdbd12-e3a2-49e0-8d65-7c18b8d584bf,Soledad Fire,2017-04-24T12:06:00Z,10,100,Monterey,/incidents/2017/4/24/soledad-fire/
+15b21d31-eadf-47bb-a030-20c531b3077b,Pressley Fire (Central LNU Complex),2017-10-09T01:30:00Z,0,100,Sonoma,/incidents/2017/10/9/pressley-fire-central-lnu-complex/
+36d55b1a-a2f4-4f40-b57c-48341bb2ace5,Partrick Fire (Central LNU Complex),2017-10-08T23:48:00Z,0,100,Napa,/incidents/2017/10/8/partrick-fire-central-lnu-complex/
+e21384c7-8060-4336-9a71-a006330d9939,Rattlesnake Fire,2017-09-07T15:00:00Z,0,100,Mariposa,/incidents/2017/9/7/rattlesnake-fire/
+5948001c-9c7b-4722-9fa4-9f0323886bc0,Clear Complex (merged into Eclipse Complex),2017-07-25T12:45:00Z,0,100,Siskiyou,/incidents/2017/7/25/clear-complex-merged-into-eclipse-complex/
+42f93f6b-0ada-4267-8e6e-4674055ed9c8,Warner Mountain Lightning,2017-07-23T00:00:00Z,0,100,Modoc,/incidents/2017/7/23/warner-mountain-lightning/
+47c9e99d-ad11-497f-8238-cfd815423262,Creek Fire,2017-07-19T17:30:00Z,0,100,Glenn,/incidents/2017/7/19/creek-fire/
+b4eb0b95-1a93-46a5-91f4-5c2b4c7b943c,Antelope Fire,2017-07-06T13:00:00Z,0,100,Lassen,/incidents/2017/7/6/antelope-fire/
+1be87788-1bd9-4e97-b92a-63b41fe8abf1,Klamath Fire,2017-07-04T15:21:00Z,0,100,Siskiyou,/incidents/2017/7/4/klamath-fire/
+47e76098-389e-4747-9e89-7ebdc963a485, Cristianitos Fire,2017-06-28T17:56:00Z,0,100,San Diego,/incidents/2017/6/28/cristianitos-fire/
+c35027fa-3bc5-423f-a32e-e03b134a102e,Salmon-August Complex ,2017-06-25T17:00:00Z,0,100,Siskiyou,/incidents/2017/6/25/salmon-august-complex/
+e1fdc15a-5737-4c69-ab9a-7f43d6b4aab8,King Incident,2017-06-23T22:32:00Z,0,100,Tulare,/incidents/2017/6/23/king-incident/
+5bfc7c8f-0d7f-4b14-903b-00014014c14b,Range Fire,2017-05-19T13:10:00Z,0,100,San Luis Obispo,/incidents/2017/5/19/range-fire/
+afb8c00c-ef91-4544-90ce-54722be124af,Oroville Spillway ,2017-02-07T14:00:00Z,0,100,Butte,/incidents/2017/2/7/oroville-spillway/

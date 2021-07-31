@@ -1,6 +1,6 @@
-This is a place to keep csv files generated from the targets script for California state wildfire data, taken from: https://www.fire.ca.gov/incidents/
+.csv files generated from California state wildfire data, taken from: https://www.fire.ca.gov/incidents/
 
 This uses targets, a make-like tool in R
 
-Data folder has csv files, 
+Data folder has csv files for each year available and a master tracking document with all years;
 Targets folder has R code

@@ -1,0 +1,199 @@
+UniqueId,Name,Started,AcresBurned,PercentContained,Counties,CanonicalUrl,ExternalIncidentLink
+00016d5d-1647-49e4-a02a-abf46b8480ae,Dixie Fire,2021-07-13T17:15:00Z,963309,100,Butte,/incidents/2021/7/13/dixie-fire/,https://inciweb.nwcg.gov/incident/7690/
+00016d5d-1647-49e4-a02a-abf46b8480ae,Dixie Fire,2021-07-13T17:15:00Z,963309,100,Plumas,/incidents/2021/7/13/dixie-fire/,https://inciweb.nwcg.gov/incident/7690/
+00016d5d-1647-49e4-a02a-abf46b8480ae,Dixie Fire,2021-07-13T17:15:00Z,963309,100,Shasta,/incidents/2021/7/13/dixie-fire/,https://inciweb.nwcg.gov/incident/7690/
+00016d5d-1647-49e4-a02a-abf46b8480ae,Dixie Fire,2021-07-13T17:15:00Z,963309,100,Lassen,/incidents/2021/7/13/dixie-fire/,https://inciweb.nwcg.gov/incident/7690/
+00016d5d-1647-49e4-a02a-abf46b8480ae,Dixie Fire,2021-07-13T17:15:00Z,963309,100,Tehama,/incidents/2021/7/13/dixie-fire/,https://inciweb.nwcg.gov/incident/7690/
+d0174b70-8652-4242-bf7f-b00e98a48319,McFarland Fire,2021-07-30T18:44:00Z,122653,100,Shasta,/incidents/2021/7/30/mcfarland-fire/,https://inciweb.nwcg.gov/incident/7746/
+d0174b70-8652-4242-bf7f-b00e98a48319,McFarland Fire,2021-07-30T18:44:00Z,122653,100,Trinity,/incidents/2021/7/30/mcfarland-fire/,https://inciweb.nwcg.gov/incident/7746/
+d0174b70-8652-4242-bf7f-b00e98a48319,McFarland Fire,2021-07-30T18:44:00Z,122653,100,Tehama,/incidents/2021/7/30/mcfarland-fire/,https://inciweb.nwcg.gov/incident/7746/
+2eae3252-74cd-4e96-b25a-20ed828395e2,Walkers Fire,2021-08-16T16:05:54.343Z,8777,100,Tulare,/incidents/2021/8/16/walkers-fire/,https://inciweb.nwcg.gov/incident/7807/
+1052ac46-526c-4ca1-a75c-7e91920ee6cb,Fawn Fire,2021-09-22T16:45:00Z,8578,100,Shasta,/incidents/2021/9/22/fawn-fire/,NA
+8c1bfb66-4002-498a-ae39-62b584718519,Palisades Fire,2021-05-14T21:50:41Z,1202,100,Los Angeles,/incidents/2021/5/14/palisades-fire/,NA
+7b6a10b8-58fb-4906-ad11-dc88fe5b7872,Airola Fire,2021-08-25T14:55:00Z,639,100,Calaveras,/incidents/2021/8/25/airola-fire/,NA
+2947b64d-5835-411b-a603-afcbaf8d53d8,Alabama Fire,2021-06-18T02:19:00Z,560,100,Inyo,/incidents/2021/6/18/alabama-fire/,NA
+d3668f70-4e85-4962-8e8a-a0b8f1465500,Route Fire,2021-09-11T16:06:47Z,464,100,Los Angeles,/incidents/2021/9/11/route-fire/,https://inciweb.nwcg.gov/incident/7840/
+23a7e559-d8b9-4333-bddc-ccf7cb2e7b3e,Kettle Fire,2021-10-11T18:43:59Z,447,100,Kings,/incidents/2021/10/11/kettle-fire/,NA
+3bd5d90f-8131-48a0-a02f-1677e5394ce1,Pine Fire,2021-05-12T22:46:39.21Z,442,100,Los Angeles,/incidents/2021/5/12/pine-fire/,NA
+6672b6ad-981e-43e8-b4ad-a75285ab9f90,Park Fire,2021-06-17T21:37:07Z,402,100,Butte,/incidents/2021/6/17/park-fire/,NA
+46498648-eff1-492f-b88f-1826ecd224a6,Rock Fire,2021-08-24T13:38:00Z,295,100,Riverside,/incidents/2021/8/24/rock-fire/,NA
+b7a4e6df-7cef-4920-a585-031324b404f4,Hopkins Fire,2021-09-12T14:15:09Z,257,100,Mendocino,/incidents/2021/9/12/hopkins-fire/,NA
+4f6bdd52-abdc-4c93-a48b-7d7adae05cfc,Live Oak Fire,2021-05-27T14:36:00Z,197,100,Mariposa,/incidents/2021/5/27/live-oak-fire/,NA
+a26becf4-249f-451e-b8a3-e55032e6df61,Glen Fire,2021-08-11T00:00:00Z,184,100,Yuba,/incidents/2021/8/11/glen-fire/,NA
+79aca6f4-ee40-44e8-9dff-069c36c36fc1,Towsley Fire,2021-01-19T15:04:08.613Z,184,100,Los Angeles,/incidents/2021/1/19/towsley-fire/,NA
+200d07c4-0457-4421-875b-4140d482a03e,Pinnacles Fire,2021-07-28T00:00:00Z,171,100,Monterey,/incidents/2021/7/28/pinnacles-fire/,NA
+8cfa988a-cf5d-418c-8d4d-e0be072e397c,Westward Fire,2021-08-25T14:17:00Z,160,100,Riverside,/incidents/2021/8/25/westward-fire/,NA
+8622a38c-551f-4ef0-9b25-0d0280ace921,Newell Fire,2021-10-11T20:02:23Z,132,100,Napa,/incidents/2021/10/11/newell-fire/,NA
+215529d8-6c0a-4dfa-8d6f-342a5666e1f2,Diablo Fire,2021-07-11T09:22:05Z,128,100,Contra Costa,/incidents/2021/7/11/diablo-fire/,NA
+9692e02d-4a87-48b7-b261-f83f4a951642,Beswick Fire,2021-06-28T18:14:00Z,118,100,Siskiyou,/incidents/2021/6/28/beswick-fire/,NA
+2b42f885-f296-4659-98e0-c33585215fa9,Rock Fire,2021-06-15T17:14:55Z,108,100,Shasta,/incidents/2021/6/15/rock-fire/,NA
+cfcf1a2b-e358-4dc0-ab39-93ebe94fc843,Bautista Fire,2021-06-19T13:36:00Z,95,100,Riverside,/incidents/2021/6/19/bautista-fire/,NA
+ffb98e82-9a8a-44fe-9d91-45ce3db74ef5,Maxwell Fire,2021-10-05T15:34:31Z,80,100,Trinity,/incidents/2021/10/5/maxwell-fire/,NA
+f9322f4b-03e1-4558-a920-f7318909de93,Tobin Fire,2021-07-31T17:10:53Z,75,100,San Luis Obispo,/incidents/2021/7/31/tobin-fire/,NA
+5f8ebcac-e1f0-4659-9f38-f3e862a3a440,Sky Fire,2021-04-29T12:44:00Z,65,100,Lake,/incidents/2021/4/29/sky-fire/,NA
+1704f47a-b2bc-43fc-8c49-e62ffaf6021e,House Fire,2021-08-04T00:00:00Z,60,100,Shasta,/incidents/2021/8/4/house-fire/,NA
+69c42b3f-a4ec-47d2-a856-e4f8bc71c6cc,Bennett Fire,2021-08-25T15:33:00Z,59,100,Nevada,/incidents/2021/8/25/bennett-fire/,NA
+32ea3306-088d-4779-9009-2763c7f8a38c,Clevenger Fire,2021-06-20T18:28:38Z,53,100,San Diego,/incidents/2021/6/20/clevenger-fire/,NA
+9f0d7a3b-ae47-42a5-b360-ea2f4141cad4,Roadside Fire,2021-08-28T11:25:00Z,50,100,San Bernardino,/incidents/2021/8/28/roadside-fire/,NA
+3657f103-fe9f-4bfc-a09e-9aa291301266,Bell Fire,2021-08-14T00:00:00Z,50,100,Mendocino,/incidents/2021/8/14/bell-fire/,NA
+1a1a9275-f16f-4a06-abe6-3ba18e5e9b33,Buck Fire,2021-06-06T15:20:52Z,50,100,Madera,/incidents/2021/6/6/buck-fire/,NA
+3093980c-b80f-4b7b-a040-d4fc868142ca,Wolves Fire,2021-04-23T00:34:19.853Z,50,100,Kern,/incidents/2021/4/23/wolves-fire/,NA
+f5d44748-ed74-4660-ab1a-b94f483ab5df,Crane Fire,2021-06-18T18:35:00Z,48,100,Kern,/incidents/2021/6/18/crane-fire/,NA
+254e4d5c-a750-41e0-bea3-9eb4597b0a13,Lassen Fire,2021-09-01T14:27:00Z,44,100,Marin,/incidents/2021/9/1/lassen-fire/,NA
+f4be7c50-4b42-4534-90c7-82c52e4fa3cb,Childrens Fire,2021-09-19T11:40:00Z,42,100,Madera,/incidents/2021/9/19/childrens-fire/,NA
+1702e4de-4414-4604-a70d-e0f54df154bd,Watt Fire,2021-06-21T16:41:35.363Z,42,100,Placer,/incidents/2021/6/21/watt-fire/,NA
+1ebddf4e-0190-4363-a858-ac789206b5fd,Freedom Fire,2021-01-19T19:13:18.83Z,37,100,Santa Cruz,/incidents/2021/1/19/freedom-fire/,NA
+c8ae5d37-89ac-4d57-904e-720ef7012edc,Scott Fire,2021-06-01T13:06:00Z,28,100,Riverside,/incidents/2021/6/1/scott-fire/,NA
+c8991faa-8d15-4d4c-b3a1-92f58f784420,Mountain Fire,2021-07-23T00:00:00Z,25,100,Trinity,/incidents/2021/7/23/mountain-fire/,NA
+66eaca2a-9aa7-41cf-a850-88f963cbf723,View Fire ,2021-10-11T14:35:42Z,24,100,Tehama,/incidents/2021/10/11/view-fire/,NA
+9b2b5a16-52cf-4f2e-bc8a-a3af75b28522,China Grade Fire,2021-01-18T21:00:00Z,22,100,Santa Cruz,/incidents/2021/1/18/china-grade-fire/,NA
+7be84564-edf7-4724-99ba-5c1ee7f86e30,Panther Ridge Fire,2021-01-19T15:25:39.223Z,20,100,Santa Cruz,/incidents/2021/1/19/panther-ridge-fire/,NA
+929a21bc-65a0-49b4-bc90-bfa5457987e4,Bonny Doone Complex (Previously Fanning Fire),2021-01-19T06:48:00Z,20,100,Santa Cruz,/incidents/2021/1/19/bonny-doone-complex-previously-fanning-fire/,NA
+2657090b-ec47-4fbe-bc4e-400cd50a8d55,North Butano Fire,2021-01-18T21:00:00Z,15,100,San Mateo,/incidents/2021/1/18/north-butano-fire/,NA
+587e51fd-ad97-4894-b53e-300a78e4dc80,Antelope Fire,2021-06-18T06:33:00Z,11,100,Tulare,/incidents/2021/6/18/antelope-fire/,NA
+1d1bb813-5955-438a-a2cd-0e2d46074f1a,Monument Fire,2021-07-30T12:28:00Z,223124,100,Trinity,/incidents/2021/7/30/monument-fire/,https://inciweb.nwcg.gov/incident/7750/
+a21c4d1f-87ed-4db1-85ea-eae41c90a0ac,Caldor Fire,2021-08-14T18:54:00Z,221835,100,El Dorado,/incidents/2021/8/14/caldor-fire/,https://inciweb.nwcg.gov/incident/7801/
+a21c4d1f-87ed-4db1-85ea-eae41c90a0ac,Caldor Fire,2021-08-14T18:54:00Z,221835,100,Amador,/incidents/2021/8/14/caldor-fire/,https://inciweb.nwcg.gov/incident/7801/
+a21c4d1f-87ed-4db1-85ea-eae41c90a0ac,Caldor Fire,2021-08-14T18:54:00Z,221835,100,Alpine,/incidents/2021/8/14/caldor-fire/,https://inciweb.nwcg.gov/incident/7801/
+9284625d-a9bd-447b-b215-a40fe4a52697,River Complex,2021-07-30T18:17:40Z,199359,100,Siskiyou,/incidents/2021/7/30/river-complex/,https://inciweb.nwcg.gov/incident/7760/
+9284625d-a9bd-447b-b215-a40fe4a52697,River Complex,2021-07-30T18:17:40Z,199359,100,Trinity,/incidents/2021/7/30/river-complex/,https://inciweb.nwcg.gov/incident/7760/
+882f419d-ff9e-4533-b8da-a428ffcfec6e,Beckwourth Complex,2021-07-04T09:26:06.653Z,105670,100,Plumas,/incidents/2021/7/4/beckwourth-complex/,https://inciweb.nwcg.gov/incident/7601/
+87b59fb2-01f9-4469-8578-87c55b090eac,McCash Fire,2021-08-18T08:50:00Z,94962,100,Siskiyou,/incidents/2021/8/18/mccash-fire/,https://inciweb.nwcg.gov/incident/7757/
+3a281cd5-4d2b-47a7-89b7-1194e921805a,Tamarack Fire,2021-07-04T11:57:58Z,68637,100,Alpine,/incidents/2021/7/4/tamarack-fire/,https://inciweb.nwcg.gov/incident/7674/
+9d7c19c4-f146-4b3e-a4c3-5ea9c3247208,Lava Fire,2021-06-24T20:35:24Z,26409,100,Siskiyou,/incidents/2021/6/24/lava-fire/,NA
+de52a8d2-2c0e-4481-8d6c-9e4b7c2b9428,Alisal Fire,2021-10-11T14:30:12Z,16970,100,Santa Barbara,/incidents/2021/10/11/alisal-fire/,https://inciweb.nwcg.gov/incident/7862/
+b07cd929-6dde-4ad9-b845-a2fdc5ba3f97,Salt Fire,2021-06-30T14:55:56.35Z,12660,100,Shasta,/incidents/2021/6/30/salt-fire/,NA
+3a83c4bc-28cc-4792-849b-fedb5629e4bc,Tennant Fire,2021-06-28T16:07:00Z,10580,100,Siskiyou,/incidents/2021/6/28/tennant-fire/,NA
+2acb95c8-7a0b-4bfc-9174-6da944037bf2,River Fire,2021-07-11T14:10:26Z,9656,100,Mariposa,/incidents/2021/7/11/river-fire/,NA
+89467f5f-2562-47dc-99b6-cb8ec90c3a12,Southern Fire,2021-05-02T00:56:04.637Z,5366,100,San Diego,/incidents/2021/5/2/southern-fire/,NA
+4b66f232-6ab8-4e00-9f8b-957296920ed9,Dexter Fire,2021-07-12T14:04:02.47Z,2965,100,Mono,/incidents/2021/7/12/dexter-fire/,NA
+961a9b24-0bad-4c53-9809-14fe98d515c4,Willow Fire,2021-06-18T11:49:41.213Z,2877,100,Monterey,/incidents/2021/6/18/willow-fire/,NA
+178aba5f-4c67-4830-891d-b8fec84706da,River Fire,2021-08-04T00:00:00Z,2619,100,Nevada,/incidents/2021/8/4/river-fire/,NA
+178aba5f-4c67-4830-891d-b8fec84706da,River Fire,2021-08-04T00:00:00Z,2619,100,Placer,/incidents/2021/8/4/river-fire/,NA
+d7b908db-7184-4f9e-923f-f811688cf4eb,Knob Fire,2021-08-29T08:00:00Z,2421,100,Humboldt,/incidents/2021/8/29/knob-fire/,https://inciweb.nwcg.gov/incident/7827/
+fc8bd27a-c3c8-405d-b13a-d9a1396206e3,Peak Fire,2021-07-20T11:40:00Z,2098,100,Kern,/incidents/2021/7/20/peak-fire/,NA
+62f7b39d-1213-47c2-8118-88eb98908af7,Shell Fire,2021-06-27T13:07:06Z,1984,100,Kern,/incidents/2021/6/27/shell-fire/,NA
+64a7c61a-5634-410a-a1c4-aeb97b2283e0,Chaparral Fire,2021-08-28T12:40:00Z,1427,100,Riverside,/incidents/2021/8/28/chaparral-fire/,https://inciweb.nwcg.gov/incident/7828/
+64a7c61a-5634-410a-a1c4-aeb97b2283e0,Chaparral Fire,2021-08-28T12:40:00Z,1427,100,San Diego,/incidents/2021/8/28/chaparral-fire/,https://inciweb.nwcg.gov/incident/7828/
+511f1793-96a5-4866-a993-1d271e03b076,Henry Fire,2021-06-25T19:53:41Z,1320,100,Alpine,/incidents/2021/6/25/henry-fire/,NA
+ecdd77c3-2919-44d8-9ee9-c176271b04d0,Nettle Fire,2021-06-18T10:11:21.007Z,1265,100,Tulare,/incidents/2021/6/18/nettle-fire/,NA
+6cdd3c1b-2ef3-4a77-aef2-82ff170cd227,Sargents Fire,2021-05-30T15:10:29Z,1100,100,Monterey,/incidents/2021/5/30/sargents-fire/,NA
+5eaaed19-b38a-49f1-84f8-78d9f8c76656,Juniper Fire,2021-07-05T16:34:58.847Z,1011,100,Modoc,/incidents/2021/7/5/juniper-fire/,NA
+b6391e06-889a-4d69-ba3e-8491af004029,Sierra Fire,2021-06-09T13:53:00Z,1000,100,San Diego,/incidents/2021/6/9/sierra-fire/,NA
+63d1e4af-4112-4d67-8db0-4dec23b3674f,Intanko Fire,2021-06-08T13:59:00Z,939,100,Yuba,/incidents/2021/6/8/intanko-fire/,NA
+762d7abb-ec4e-4e50-9137-617c8445b0d1,Refuge Fire,2021-03-27T17:02:04Z,873,100,Siskiyou,/incidents/2021/3/27/refuge-fire/,NA
+a7d2c14e-66e8-4ac6-9538-ad9612dce2d5,Tumbleweed Fire,2021-07-04T14:49:36.057Z,868,100,Los Angeles,/incidents/2021/7/4/tumbleweed-fire/,NA
+4cfd11fa-b33f-4de6-8d17-bbaa27b2c9cb,South Fire,2021-08-25T16:11:00Z,819,100,San Bernardino,/incidents/2021/8/25/south-fire/,NA
+8e8e1a5e-0855-4751-8ad1-70730007657c,Success Fire,2021-06-18T01:17:00Z,800,100,Tulare,/incidents/2021/6/18/success-fire/,NA
+37385589-19f2-43fd-96fb-6a5cd28c607c,Cow Fire,2021-06-20T16:38:04Z,761,100,Shasta,/incidents/2021/6/20/cow-fire/,NA
+75711186-5792-4c41-9309-48dbac8e667d,Wolf Fire,2021-01-19T11:47:00Z,685,100,Kern,/incidents/2021/1/19/wolf-fire/,NA
+4f4775e4-cd91-4f78-a1de-9c15213ebed2,North Fire,2021-04-28T23:04:57.407Z,650,100,Los Angeles,/incidents/2021/4/28/north-fire/,NA
+68b1630c-10e7-4d99-9c61-baa592f1dd83,Inyo Creek Fire,2021-06-19T06:19:04Z,592,100,Inyo,/incidents/2021/6/19/inyo-creek-fire/,NA
+4c9c4b27-d45d-453d-82f9-39da5ccfe176,Antelope Fire,2021-06-22T11:19:00Z,580,100,Modoc,/incidents/2021/6/22/antelope-fire/,NA
+25d0bdd9-c422-459a-bc12-d9cae4843518,Gunnison Fire,2021-05-08T13:44:53Z,549,100,Butte,/incidents/2021/5/8/gunnison-fire/,NA
+8992a229-a245-431d-9a61-11f8d545d93b,Overland Fire,2021-06-19T08:00:00Z,515,100,San Diego,/incidents/2021/6/19/overland-fire/,NA
+cfdab623-d2b2-4d61-a227-be32ebb3fac4,Mile Fire,2021-05-27T18:44:00Z,508,100,Stanislaus,/incidents/2021/5/27/mile-fire/,NA
+ff71cd3b-2261-4248-92fa-f24733cfdcfe,Bridge Fire,2021-09-05T12:53:14Z,411,100,Placer,/incidents/2021/9/5/bridge-fire/,NA
+421fd9f2-1fbb-4bec-bf19-3318fa4830dc,Main Fire,2021-07-03T08:00:32Z,384,100,Tulare,/incidents/2021/7/3/main-fire/,NA
+a191b2bc-5dee-4511-b34b-ca06ef62b5ab,Bradley Fire,2021-07-11T15:08:43Z,357,100,Siskiyou,/incidents/2021/7/11/bradley-fire/,NA
+9bacadf6-c7e2-43c9-b8e6-41be7a79579b,Mesa Fire,2021-06-23T16:01:58.273Z,350,100,San Diego,/incidents/2021/6/23/mesa-fire/,NA
+ddcef5cf-9417-4c41-b64b-910e096522fc,Flats Fire,2021-06-13T11:12:13Z,341,100,Riverside,/incidents/2021/6/13/flats-fire/,NA
+161f6906-6799-45ae-b6ca-c1d470050d81,Hungry Fire,2021-07-31T00:00:00Z,340,100,Los Angeles,/incidents/2021/7/31/hungry-fire/,NA
+a5bcf6ba-3e09-49f8-b4c4-1b134aa5c83f,WeeVill Fire,2021-05-20T09:27:00Z,300,100,Los Angeles,/incidents/2021/5/20/weevill-fire/,NA
+1882364c-9710-47ab-9871-349a76a60173,Davis Fire,2021-05-18T13:30:00Z,300,100,Riverside,/incidents/2021/5/18/davis-fire/,NA
+ac0c072d-d926-49f2-8a3d-c18ea5d32010,Blue Fire,2021-06-30T16:22:00Z,277,100,Fresno,/incidents/2021/6/30/blue-fire/,NA
+1eea5329-95c3-4a41-974f-7b3693441b1e,Farm Fire,2021-06-09T13:15:00Z,250,100,San Bernardino,/incidents/2021/6/9/farm-fire/,NA
+2347b6fb-8468-46bb-9917-d5cea3f1efdd,Erbes Fire,2021-01-14T16:00:00Z,250,100,Ventura,/incidents/2021/1/14/erbes-fire/,NA
+c3f573fc-ece2-4b19-a67e-069bf3fc0c16,Bridge Fire,2021-05-05T23:30:06.077Z,226,100,Riverside,/incidents/2021/5/5/bridge-fire/,NA
+eddffab0-51af-490d-b60e-640300fe6085,Canyon Fire,2021-06-26T20:47:10Z,220,100,Kern,/incidents/2021/6/26/canyon-fire/,NA
+55df2f9c-3232-4643-970b-0286a1039507,Gravel Fire,2021-10-15T15:15:00Z,200,100,Modoc,/incidents/2021/10/15/gravel-fire/,NA
+6a7cee19-fc90-4f87-a306-48ccd9cee200,Turnout Fire,2021-04-18T17:46:54Z,200,100,Mendocino,/incidents/2021/4/18/turnout-fire/,NA
+dd8d424d-e416-48a4-87e0-ddc26d4fdcb3,Ysabel Fire,2021-07-03T11:34:00Z,173,100,San Diego,/incidents/2021/7/3/ysabel-fire/,NA
+e86265b9-2ac9-471e-bff4-deb2f46b7b7d,Dairy Fire,2021-06-15T18:59:10.6Z,165,100,Tehama,/incidents/2021/6/15/dairy-fire/,NA
+4567cb5b-ef86-4630-81ef-f442fc07dc3e,Campo Fire,2021-04-29T23:18:41.59Z,160,100,Calaveras,/incidents/2021/4/29/campo-fire/,NA
+47070a62-2ef3-44a9-8b98-a20e0e574f97,Robie Fire,2021-07-30T00:00:00Z,153,100,Calaveras,/incidents/2021/7/30/robie-fire/,NA
+8e7dcc1b-718b-4388-9e20-bef4b9b94385,Hollow Fire,2021-10-24T13:40:00Z,150,100,San Joaquin,/incidents/2021/10/24/hollow-fire/,NA
+92fd111b-2d3a-48c8-bc43-d505eaceb423,Beale Fire,2021-06-13T19:39:00Z,150,100,Yuba,/incidents/2021/6/13/beale-fire/,NA
+5f34e7bc-b627-4baf-9e6e-ded2eec3c77a,Estrada Fire,2021-10-15T14:40:39Z,148,100,Santa Cruz,/incidents/2021/10/15/estrada-fire/,NA
+348304a5-5d65-46bb-a9f6-4e8ce6ca985b,Panoche Fire,2021-06-23T13:38:00Z,145,100,San Benito,/incidents/2021/6/23/panoche-fire/,NA
+4376d68e-4093-4d4c-aa6f-e0df6d50e9fb,Vulcan Fire,2021-06-27T17:05:33Z,140,100,Fresno,/incidents/2021/6/27/vulcan-fire/,NA
+e9761340-1808-42f6-b773-fb7047a2a638,4-3 Fire,2021-06-24T18:38:46.593Z,134,100,Modoc,/incidents/2021/6/24/4-3-fire/,NA
+e8842a17-4f53-4803-9350-838ec34e66e9,Coyote Fire,2021-08-13T00:00:00Z,127,100,Lake,/incidents/2021/8/13/coyote-fire/,NA
+2aaf4aba-1155-4f25-a5a6-fd6ee8d66f8c,Stowe Fire,2021-06-28T16:48:08.963Z,122,100,Riverside,/incidents/2021/6/28/stowe-fire/,NA
+baef627e-c3ba-4c3c-8a55-a168839aa2c8,Granite Fire,2021-05-08T15:02:45Z,118,100,Calaveras,/incidents/2021/5/8/granite-fire/,NA
+460ab87e-07e7-4931-8390-bd3fe60677b2,Fremont Fire,2021-09-22T14:25:00Z,116,100,Napa,/incidents/2021/9/22/fremont-fire/,NA
+460ab87e-07e7-4931-8390-bd3fe60677b2,Fremont Fire,2021-09-22T14:25:00Z,116,100,Sonoma,/incidents/2021/9/22/fremont-fire/,NA
+9116b7e9-66c8-417b-a1f6-b9b078e240d6,Lake Fire,2021-05-24T13:30:26.997Z,115,100,Riverside,/incidents/2021/5/24/lake-fire/,NA
+3a4d4c77-ff87-458d-b906-e203fc098aa5,Coyote Fire,2021-07-09T16:41:27Z,110,100,Modoc,/incidents/2021/7/9/coyote-fire/,NA
+726eeb97-b91c-4555-a180-be16e599466f,Washington Fire,2021-08-26T13:20:00Z,100,100,Tuolumne,/incidents/2021/8/26/washington-fire/,NA
+caf0f448-cdb3-4dc2-a247-35f6f4b41cb3,Park Fire,2021-07-26T00:00:00Z,100,100,Tulare,/incidents/2021/7/26/park-fire/,NA
+5afc3e64-eb8a-4aad-9bb5-1f9a20f84bb0,Fields Fire,2021-05-14T14:00:00Z,97,100,Merced,/incidents/2021/5/14/fields-fire/,NA
+92aa05b8-83d8-45ec-b079-86d7698086a5,Luis Fire,2021-04-24T14:50:00Z,93,100,Merced,/incidents/2021/4/24/luis-fire/,NA
+82af1b59-858c-43c4-9f4f-842605e6c0c1,Basalt Fire,2021-07-09T13:26:01Z,92,100,Merced,/incidents/2021/7/9/basalt-fire/,NA
+f4c4de41-d8d4-4c66-9d9f-4f1ba285bf59,Road Fire,2021-07-10T13:38:19Z,86,100,San Diego,/incidents/2021/7/10/road-fire/,NA
+21a360ea-3a4e-4267-986e-3bb1416ca05b,Grapevine Fire,2021-03-14T18:35:00Z,86,100,Kern,/incidents/2021/3/14/grapevine-fire/,NA
+ef12ac40-d6fb-4871-97ec-c06d0ce51efd,Evans Fire,2021-07-29T19:14:42Z,85,100,Plumas,/incidents/2021/7/29/evans-fire/,NA
+8e3e3fe1-669f-4cf8-80ee-c8df14929a22,Cache Fire,2021-08-18T12:34:00Z,83,100,Lake,/incidents/2021/8/18/cache-fire/,https://twitter.com/lakecountyoes?lang=en
+8c512c44-7ddb-44b4-bf03-bab00c0c0c98,Broiler Fire,2021-07-07T14:30:00Z,80,100,Mendocino,/incidents/2021/7/7/broiler-fire/,NA
+81d9dc1d-9cff-4a22-a6c6-2a4f94cf30ed,River Fire,2021-04-19T20:29:35.617Z,80,100,Sutter,/incidents/2021/4/19/river-fire/,NA
+9128e6fe-a114-479a-a43c-64ea56411eb5,Sky Fire,2021-06-27T17:49:34Z,76,100,Butte,/incidents/2021/6/27/sky-fire/,NA
+be285500-c0c4-4f7e-83ae-1f9a991578b1,Fish Fire,2021-07-04T17:46:54Z,75,100,Fresno,/incidents/2021/7/4/fish-fire/,NA
+e208c4a4-1477-4bfd-9fcd-c2d10271e617,University Fire,2021-09-22T11:27:08Z,71,100,San Bernardino,/incidents/2021/9/22/university-fire/,NA
+4fde57bd-089f-4c24-b224-b60306e1648d,Bear Fire,2021-07-11T13:29:14Z,71,100,Kern,/incidents/2021/7/11/bear-fire/,NA
+6a36efca-0cb1-465f-be4d-06b3e3b528c1,Caballo Fire,2021-09-06T14:54:06Z,70,100,Santa Barbara,/incidents/2021/9/6/caballo-fire/,NA
+0e78a6e0-9315-4b29-8a1c-894d4b06a64e,Goose Fire,2021-06-13T16:01:34Z,67,100,Amador,/incidents/2021/6/13/goose-fire/,NA
+cd7d799d-cc81-4ffb-9d55-4e2b18b92d34,Railroad Fire,2021-08-29T12:50:00Z,61,100,San Bernardino,/incidents/2021/8/29/railroad-fire/,https://inciweb.nwcg.gov/incident/7824/
+16f4a871-6b4e-493c-ada9-cff37913e521,Canal Fire ,2021-10-14T16:49:00Z,59,100,Trinity,/incidents/2021/10/14/canal-fire/,NA
+2ea37798-e198-4f1c-92c6-81c42beff3de,Hambone Fire,2021-08-06T11:11:37Z,55,100,Siskiyou,/incidents/2021/8/6/hambone-fire/,NA
+35d04cb5-0455-4d36-b857-d7952670aef0,Chicken Fire,2021-07-18T13:34:00Z,55,100,Lassen,/incidents/2021/7/18/chicken-fire/,NA
+257ee7b8-fe14-45ac-ba58-4fae7003f6de,Aruba Fire,2021-09-05T15:50:14Z,54,100,San Diego,/incidents/2021/9/5/aruba-fire/,NA
+bd71d34c-3ce0-419d-a2fe-2ef46a750e06,Antonio Fire,2021-08-03T13:02:00Z,50,100,Los Angeles,/incidents/2021/8/3/antonio-fire/,NA
+61f3264e-f89f-42cc-820d-0e0a5ee29cdd,Hiding Fire,2021-08-01T00:00:00Z,50,100,Shasta,/incidents/2021/8/1/hiding-fire/,NA
+3989e25c-3790-44d5-bf6d-50ca3fd04d95,Quail Fire,2021-07-20T13:52:41Z,50,100,Riverside,/incidents/2021/7/20/quail-fire/,NA
+691ca75a-6419-40ab-87d7-bbe92796307c,Pine Fire,2021-06-23T13:42:00Z,50,100,Shasta,/incidents/2021/6/23/pine-fire/,NA
+5ddee2f6-f32b-4664-a416-5cf4996290a5,Lawrence Fire,2021-09-05T10:40:20Z,46,100,Amador,/incidents/2021/9/5/lawrence-fire/,NA
+8f768137-0c58-45e5-a8dd-1df9ecc7870f,Frenchtown Fire,2021-07-20T16:36:32Z,45,100,Yuba,/incidents/2021/7/20/frenchtown-fire/,NA
+033ee676-f2f0-4ea8-bbc9-b0bb02de3462,Smalley Fire,2021-05-31T19:12:45.003Z,45,100,Madera,/incidents/2021/5/31/smalley-fire/,NA
+aefbc94c-63b5-4767-aa12-a8bc8ed80d87,Settlers Fire,2021-05-19T14:56:00Z,45,100,El Dorado,/incidents/2021/5/19/settlers-fire/,NA
+0b59568a-ab13-4acf-965a-18e9b18ae223,Dillard Fire,2021-05-08T17:29:49Z,44,100,Sacramento,/incidents/2021/5/8/dillard-fire/,NA
+396abb9e-a291-4183-b0f6-798a5438868c,Fork Fire,2021-07-17T17:40:13Z,43,100,Tehama,/incidents/2021/7/17/fork-fire/,NA
+925dcb5b-1885-407d-b441-10765a31ce97,Cannon Fire,2021-07-14T15:18:48.463Z,43,100,Tehama,/incidents/2021/7/14/cannon-fire/,NA
+760bd55e-7296-44c7-a8ea-917e1751d811,Coyote Fire,2021-06-02T18:30:00Z,43,100,Riverside,/incidents/2021/6/2/coyote-fire/,NA
+b38fdc2c-3108-4273-8a67-8d69bdbfb6bb,72 Fire,2021-01-19T14:48:24.8Z,43,100,Riverside,/incidents/2021/1/19/72-fire/,NA
+83e251e4-196f-4db5-b5ba-bed8e300380c,Pomo Fire,2021-06-17T16:45:06Z,42,100,Lake,/incidents/2021/6/17/pomo-fire/,NA
+909624c0-d36c-4b9a-8f34-a9e02961b883,Paseo Fire,2021-06-25T14:23:00Z,37,100,Santa Clara,/incidents/2021/6/25/paseo-fire/,NA
+f62a9df9-8661-46de-88de-0b76128e0673,Dolicini Fire,2021-07-14T15:34:10.427Z,35,100,Marin,/incidents/2021/7/14/dolicini-fire/,NA
+0794cd0a-12e3-4576-8692-45603ad6b246,Lilly Fire,2021-06-28T16:07:00Z,35,100,Madera,/incidents/2021/6/28/lilly-fire/,NA
+d6b89198-5fd8-498f-8429-3d2994f496f9,Peak Fire,2021-06-28T10:52:00Z,35,100,San Bernardino,/incidents/2021/6/28/peak-fire/,NA
+8d9ee304-6918-4f74-b7f1-ec8441020bf9,Silicon Fire,2021-06-14T11:40:00Z,35,100,Santa Clara,/incidents/2021/6/14/silicon-fire/,NA
+ee1dc476-97d4-4da9-a2ba-d3e9f5116309,Quail Fire,2021-05-12T20:48:43.387Z,35,100,Yuba,/incidents/2021/5/12/quail-fire/,NA
+da35c08b-9f0a-42b2-9e1f-b6e9a545d3fb,Woodman Fire,2021-04-01T15:56:00Z,35,100,Shasta,/incidents/2021/4/1/woodman-fire/,NA
+09996c3f-3186-4c5d-8006-ced791b3ff40,Creek Fire,2021-06-09T20:00:00Z,34,100,Yolo,/incidents/2021/6/9/creek-fire/,NA
+fb63695d-fd59-47dd-9247-e5a7099b5fce,Creek Fire,2021-05-04T13:28:00Z,32,100,Riverside,/incidents/2021/5/4/creek-fire/,NA
+63892d1b-fd0d-4120-be74-242857e211ee,Salmon Fire,2021-05-01T21:02:48.82Z,32,100,El Dorado,/incidents/2021/5/1/salmon-fire/,NA
+354a2576-907f-43a2-b152-46355e2bf94a,Border 13 Fire,2021-07-15T16:02:27Z,30,100,San Diego,/incidents/2021/7/15/border-13-fire/,NA
+0c1abd92-b131-40f4-bcf7-f6d1871af6a1,R-1 Fire,2021-05-14T13:03:00Z,29,100,Lassen,/incidents/2021/5/14/r-1-fire/,NA
+02ba1be4-fecc-49a6-927d-8da38d215851,Paso Fire,2021-04-12T18:44:23.98Z,28,100,San Diego,/incidents/2021/4/12/paso-fire/,NA
+81777c5a-cf1d-4161-a261-97c55a8393c0,Slope Fire,2021-05-31T16:24:20.607Z,25,100,Fresno,/incidents/2021/5/31/slope-fire/,NA
+8e8900a0-814f-425a-8b37-bd5098222959,Bluff Fire,2021-05-21T06:55:59.92Z,25,100,Humboldt,/incidents/2021/5/21/bluff-fire/,NA
+1f31ac02-436e-4555-b7d1-32b636c11c17,Westwood Fire,2021-04-04T15:52:00Z,25,100,Ventura,/incidents/2021/4/4/westwood-fire/,NA
+24117f47-d8e6-4f62-8077-d5bb6742eb9c,Arlanza Fire,2021-11-21T11:45:14Z,24,100,Riverside,/incidents/2021/11/21/arlanza-fire/,NA
+0c3c5916-b391-4916-ad16-059c094da426,Line Fire,2021-03-28T14:43:24Z,23,100,Tuolumne,/incidents/2021/3/28/line-fire/,NA
+68c11904-f38b-4aa0-ab90-b3c805c4e8cd,Manzanita Fire,2021-01-19T12:08:00Z,23,100,Madera,/incidents/2021/1/19/manzanita-fire/,NA
+262f815e-e1b4-42d8-8889-6bb4638703e4,Middle Fire,2021-08-13T00:00:00Z,22,100,Sonoma,/incidents/2021/8/13/middle-fire/,NA
+0249ff45-1a71-4a4f-88a7-6c1fc7a9aa20,Nelson Fire,2021-08-07T00:00:00Z,20,100,Shasta,/incidents/2021/8/7/nelson-fire/,NA
+c9ccf962-449a-4fe8-a1ec-42672f023868,76 Fire,2021-06-20T17:32:36Z,20,100,Riverside,/incidents/2021/6/20/76-fire/,NA
+53d124c0-3cc9-436a-8c35-87a9019a3d24,Tomki Fire,2021-05-21T15:36:15.307Z,18,100,Mendocino,/incidents/2021/5/21/tomki-fire/,NA
+e8b4ee36-20b5-4d20-93a4-831ef2e5c659,Parkside Fire,2021-05-19T15:54:00Z,17,100,Riverside,/incidents/2021/5/19/parkside-fire/,NA
+af05ba27-9105-4776-83a8-8ea786117476,K-Rail,2021-08-30T13:30:00Z,16,100,Humboldt,/incidents/2021/8/30/k-rail/,https://twitter.com/SixRiversNF?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+08a000bd-2c35-4409-abe9-961da323bbe2,Kathryn Fire,2021-06-15T13:30:00Z,15,100,Riverside,/incidents/2021/6/15/kathryn-fire/,NA
+b3136d0f-6ef3-46ea-9342-6d6b0d82d274,Steins Fire,2021-06-26T13:05:41Z,11,100,El Dorado,/incidents/2021/6/26/steins-fire/,NA
+f19d2b70-1d83-4abc-a173-7b00584e1c49,Mule Fire,2021-08-25T00:00:00Z,10,100,Shasta,/incidents/2021/8/25/mule-fire/,NA
+26ec9c89-912e-4c23-a6c9-04b5dcb31970,Equestrian Fire,2021-06-16T14:03:42Z,10,100,El Dorado,/incidents/2021/6/16/equestrian-fire/,NA
+3d2add8f-fc17-42d2-8cdc-884d40c0912c,Emigrant Fire,2021-09-17T13:34:00Z,NA,NA,Los Angeles,/incidents/2021/9/17/emigrant-fire/,https://inciweb.nwcg.gov/incident/7848/
+48dcd1c3-e791-49d8-9435-1b358027b318,KNP Complex,2021-09-10T07:00:00Z,NA,NA,Tulare,/incidents/2021/9/10/knp-complex/,https://inciweb.nwcg.gov/incident/7838/
+cb9d8266-3c5e-4c42-97a8-fdf0fa69a6b1,Windy Fire,2021-09-09T12:00:00Z,NA,NA,Tulare,/incidents/2021/9/9/windy-fire/,https://inciweb.nwcg.gov/incident/7841/
+11804a96-faa3-4671-b420-6591e4e95f49,French Fire,2021-08-18T18:20:00Z,NA,NA,Kern,/incidents/2021/8/18/french-fire/,https://inciweb.nwcg.gov/incident/7813/
+dc3380c7-ff32-4062-a4e8-be99b655f2c6,Antelope Fire,2021-08-01T11:28:25Z,NA,NA,Siskiyou,/incidents/2021/8/1/antelope-fire/,https://inciweb.nwcg.gov/incident/7764/
+700200c7-a450-44f4-a447-244feb07925c,Sugar Fire,2021-07-02T16:04:00Z,NA,100,Plumas,/incidents/2021/7/2/sugar-fire/,NA
+187580ca-f6fc-4cbb-bf50-a0e5daa43626,R-1 Fire,2021-06-30T20:49:00Z,NA,100,Lassen,/incidents/2021/6/30/r-1-fire/,NA

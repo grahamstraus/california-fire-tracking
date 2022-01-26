@@ -1,3 +1,7 @@
 name|type|parent|branches|progress
+years|stem|years|0|started
+years|stem|years|0|built
+clean_data|stem|clean_data|0|started
+clean_data|stem|clean_data|0|built
 write_csv_files|stem|write_csv_files|0|started
 write_csv_files|stem|write_csv_files|0|built

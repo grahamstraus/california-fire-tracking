@@ -1,5 +1,5 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
-clean_data|stem|d255f3c347cd1aa0|27e8705bd9778136|2b259b46c0ee9eec|-1026135149||t18839.0863335966s|90418a8ee347ed11|112853|rds|vector|||2.095||
 scrape_clean_fire_data|function|6b20633f87e22e8d||||||||||||||
-years|stem|1803d3fb85ceb0f4|e6fbb21c533b7e34|59f97b58752faf7f|-2115616886||t18839.0843203819s|36500b95d6893aee|74|rds|vector|||0.002||
-write_csv_files|stem|0c3a335308836ca8|4e70a2551f7d4183|23e0ce343e630b39|537950740||t18839.0923785681s|a1c456b03adbfbf8|44|rds|vector|||0.17||
+years|stem|8985424af5b6a76c|10a50e9c81461fa7|59f97b58752faf7f|-2115616886||t19018.7390231146s|ff026697d66e9a9f|75|rds|vector|||0.002||
+clean_data|stem|db79549129906756|27e8705bd9778136|52126fcb3e55b5d4|-1026135149||t19018.7390721589s|45b2f46e39aad7a1|123547|rds|vector|||4.201||
+write_csv_files|stem|0c3a335308836ca8|4e70a2551f7d4183|3d9b292c2ea01816|537950740||t19018.739074279s|a1c456b03adbfbf8|44|rds|vector|||0.175||

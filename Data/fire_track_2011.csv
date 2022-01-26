@@ -1,127 +1,127 @@
-UniqueId,Name,Started,AcresBurned,PercentContained,Counties,CanonicalUrl
-881c8c4f-2fc9-4272-9009-9ada334cedf3,Comanche Fire Complex,2011-09-10T04:00:00Z,29338,100,Kern,/incidents/2011/9/10/comanche-fire-complex/
-7ee515ca-4ce1-41da-9f2c-e1b2f541c89d,Breckenridge Complex,2011-09-10T10:55:00Z,25213,100,Kern,/incidents/2011/9/10/breckenridge-complex/
-4bb50617-0e74-40d2-a8b4-3c290802e743,Canyon Fire,2011-09-04T11:30:00Z,14585,100,Kern,/incidents/2011/9/4/canyon-fire/
-756ad033-959a-4277-bc7b-6993031407c9,Eagle Fire,2011-07-21T22:40:00Z,14100,100,San Diego,/incidents/2011/7/21/eagle-fire/
-428fd528-450c-4542-9692-58bfa084164c,Keene Complex Fires,2011-09-10T02:30:00Z,10470,100,Kern,/incidents/2011/9/10/keene-complex-fires/
-d074d5e6-5ea6-4d1e-be5b-84e4f7252c88,John Fire,2011-09-13T13:54:00Z,5353,100,Inyo,/incidents/2011/9/13/john-fire/
-20779f37-5cf2-4df3-ad04-1f20838110f0,Motor Fire,2011-08-25T12:00:00Z,5231,100,Mariposa,/incidents/2011/8/25/motor-fire/
-96dbcbd4-4958-4799-8801-e1970d758616,Antelope Fire,2011-06-19T10:15:00Z,5196,100,Kern,/incidents/2011/6/19/antelope-fire/
-96dbcbd4-4958-4799-8801-e1970d758616,Antelope Fire,2011-06-19T10:15:00Z,5196,100,San Luis Obispo,/incidents/2011/6/19/antelope-fire/
-68576615-b3af-4afa-b1e6-2aac11b6c859,Quinn Fire,2011-06-21T12:15:00Z,3147,100,Kern,/incidents/2011/6/21/quinn-fire/
-43240199-a5d0-46ca-a4b3-76d2f8d92677,Scorpion Complex,2011-07-15T18:45:00Z,2945,100,Modoc,/incidents/2011/7/15/scorpion-complex/
-b4128bec-27cf-4a01-aa16-4e4033c0f51e,Ken Fire,2011-08-22T13:03:00Z,2507,100,San Bernardino,/incidents/2011/8/22/ken-fire/
-88e2464e-fcdd-4389-bd3f-a42a9b6ce4f1,Annie Fire,2011-08-18T11:00:00Z,2491,100,Modoc,/incidents/2011/8/18/annie-fire/
-963fd60a-30c5-4d18-bfe5-3ef7f582be97,Kern County Lightning Fires,2011-09-23T17:00:00Z,2470,100,Kern,/incidents/2011/9/23/kern-county-lightning-fires/
-c3f9a170-afca-4c47-8c43-3f2b5824c546,Great Fire,2011-10-01T12:53:00Z,2135,100,San Diego,/incidents/2011/10/1/great-fire/
-ff13a744-b110-4773-9b88-71bca60c1fe8,Spanish Fire,2011-07-01T20:52:00Z,2011,100,Humboldt,/incidents/2011/7/1/spanish-fire/
-0e4490a2-bd1a-4b76-bd15-80a904acc757,Canyon Fire,2011-06-20T16:07:00Z,2011,100,Trinity,/incidents/2011/6/20/canyon-fire/
-fc9bc438-ac1a-42c9-b2e9-eca0bd9cb137,Cougar  Fire,2011-06-08T15:00:00Z,2000,100,Modoc,/incidents/2011/6/8/cougar-fire/
-e1b5a52c-d446-403f-b710-801bd3c4213e,Ruth Fire,2011-09-23T12:00:00Z,1460,100,Trinity,/incidents/2011/9/23/ruth-fire/
-9f0933c0-d267-4559-b0e0-2cf336724eb8,Soda Fire,2011-09-03T14:57:00Z,1300,100,San Luis Obispo,/incidents/2011/9/3/soda-fire/
-736f80b5-e55d-4270-bddd-b433023ec7ff,Stage Fire,2011-06-27T13:44:00Z,1213,100,Tulare,/incidents/2011/6/27/stage-fire/
-736f80b5-e55d-4270-bddd-b433023ec7ff,Stage Fire,2011-06-27T13:44:00Z,1213,100,Kern,/incidents/2011/6/27/stage-fire/
-6583e040-9f77-48f4-9f46-f7eeffcf3fa3,Hill Fire,2011-09-02T13:00:00Z,1158,100,San Bernardino,/incidents/2011/9/2/hill-fire/
-48de98d3-15fb-42e3-b8e7-d2fae03f1e75,TCU September Lightning,2011-09-09T07:33:00Z,1135,100,Calaveras,/incidents/2011/9/9/tcu-september-lightning/
-beb51fb2-7a23-4b33-94a0-d0c77c9b2e8e,Cove Fire,2011-05-27T12:30:00Z,1122,100,Kern,/incidents/2011/5/27/cove-fire/
-91eab2fd-6e29-4bef-89f2-9bae0b2dc47b,Milton Fire,2011-09-09T19:00:00Z,1112,100,Stanislaus,/incidents/2011/9/9/milton-fire/
-c1e7b2c5-bc40-410e-9103-22fe89d1dd5c,Buckeye Fire,2011-09-25T11:00:00Z,1040,100,Mono,/incidents/2011/9/25/buckeye-fire/
-e68165d0-5025-4700-a96c-976263b94364,Gilman Fire,2011-08-06T16:01:00Z,945,100,Riverside,/incidents/2011/8/6/gilman-fire/
-7fe9b77d-2e64-4b32-baca-08ac4e910757,Center Fire,2011-03-18T15:18:00Z,850,100,Inyo,/incidents/2011/3/18/center-fire/
-fc4a7da8-0375-4918-b55b-9a476bf9724c,Granite Fire,2011-07-09T15:49:00Z,832,100,Tulare,/incidents/2011/7/9/granite-fire/
-fd90df1f-62d9-4668-b9cf-e2d7fd1942b8,Metz Fire,2011-05-12T18:18:00Z,832,100,Monterey,/incidents/2011/5/12/metz-fire/
-c844bcae-2945-469f-8ba4-2a0cf0f71d33,Tuolumne-Calaveras Wind Event,2011-12-01T07:08:00Z,781,100,Tuolumne,/incidents/2011/12/1/tuolumne-calaveras-wind-event/
-c844bcae-2945-469f-8ba4-2a0cf0f71d33,Tuolumne-Calaveras Wind Event,2011-12-01T07:08:00Z,781,100,Calaveras,/incidents/2011/12/1/tuolumne-calaveras-wind-event/
-da76dc2e-f17b-498a-aeed-1d6a3843a520,Beacon Fire,2011-08-27T17:50:00Z,715,100,Solano,/incidents/2011/8/27/beacon-fire/
-1e2b1ca4-d77c-42cd-a6fa-e51496b24d75,Figueroa Fire,2011-09-03T13:00:00Z,698,100,Santa Barbara,/incidents/2011/9/3/figueroa-fire/
-2ac89454-1525-4f0a-97e6-81217e7da125,Mint Fire,2011-09-17T08:00:00Z,634,100,Los Angeles,/incidents/2011/9/17/mint-fire/
-c1c1c8a0-0172-4d83-84e3-cd62dc915cc1,Pass Fire,2011-08-03T12:03:00Z,617,100,Mendocino,/incidents/2011/8/3/pass-fire/
-16240be7-cdf4-44fe-8757-63a0a7c4130a,Rest Fire,2011-06-26T12:12:00Z,576,100,Merced,/incidents/2011/6/26/rest-fire/
-061d5c12-c3c7-43c4-89a1-df78e637d5f2,Windy Point Fire,2011-09-24T18:53:00Z,541,100,Riverside,/incidents/2011/9/24/windy-point-fire/
-c14539c1-4cfd-45dc-8c02-cc7ea9d89d3e,Flynn Fire,2011-07-21T21:32:00Z,517,100,Alameda,/incidents/2011/7/21/flynn-fire/
-8c2193f5-aa3e-44b8-b402-ed166c0fb407,Knoxville Fire,2011-08-13T14:45:00Z,508,100,Napa,/incidents/2011/8/13/knoxville-fire/
-09965958-2293-45d7-baba-d660f52ff14f,Romero Fire,2011-07-23T08:43:00Z,489,100,Merced,/incidents/2011/7/23/romero-fire/
-1fb04452-67a6-4adf-a94c-71f63551f685,Keller Fire,2011-08-29T13:01:00Z,458,100,Riverside,/incidents/2011/8/29/keller-fire/
-494a4dc1-246d-4b26-ab77-2bddcffdd101,Highway Fire,2011-06-24T15:20:00Z,438,100,San Luis Obispo,/incidents/2011/6/24/highway-fire/
-277c7ff6-b577-4fe5-b7f5-0a8cf99f021e,South Lightning (Tennessee Fire),2011-09-11T12:00:00Z,407,100,Tulare,/incidents/2011/9/11/south-lightning-tennessee-fire/
-e6151dce-34cd-41d1-b97f-2fb259e7c6a6,Tulare County Lightning Fires,2011-09-23T21:45:00Z,400,100,Tulare,/incidents/2011/9/23/tulare-county-lightning-fires/
-cb1ef177-51ea-48d9-acbe-f4b6c43fd57a,Flynn Fire,2011-07-14T13:15:00Z,400,100,Alameda,/incidents/2011/7/14/flynn-fire/
-3b616329-38da-4c3d-98cb-d7ed4928fa8a,Chrisman Fire,2011-07-05T16:37:00Z,400,100,San Joaquin,/incidents/2011/7/5/chrisman-fire/
-3acc8556-713f-4dc6-beaf-7f86fbed1bf5,Cattleman Fire,2011-05-29T15:53:00Z,384,100,Monterey,/incidents/2011/5/29/cattleman-fire/
-570e1ed0-0b99-49f8-985e-e61a378bbed9,Border 9 FIre,2011-06-21T06:30:00Z,380,100,San Diego,/incidents/2011/6/21/border-9-fire/
-3926cf58-789c-400d-a718-a622ec5fb870,Oasis Fire,2011-08-27T13:44:00Z,355,100,Los Angeles,/incidents/2011/8/27/oasis-fire/
-98b0a918-cbd0-4d10-bc1f-e81b62aaa346,Krista Fire,2011-07-09T16:06:00Z,350,100,Yuba,/incidents/2011/7/9/krista-fire/
-695c9285-2e46-4f9e-a0e7-a7e2c404ad69,Wagon Wheel Fire,2011-09-05T12:54:00Z,345,100,Los Angeles,/incidents/2011/9/5/wagon-wheel-fire/
-6dab3a26-d407-4975-85bd-35fe79413228,Roadrunner Fire,2011-09-04T13:42:00Z,335,100,Tulare,/incidents/2011/9/4/roadrunner-fire/
-b6adb6bf-cb8c-4529-9b43-72323a376510,Eastman Fire,2011-06-24T13:50:00Z,300,100,Stanislaus,/incidents/2011/6/24/eastman-fire/
-05c03217-e63f-4230-9c0b-1f452ebe936a,Bowen Fire,2011-06-09T18:39:00Z,295,100,San Bernardino,/incidents/2011/6/9/bowen-fire/
-14c84a93-e18a-4aa1-8382-48de4f8aeaf7,Eastman Fire,2011-07-21T20:02:00Z,292,100,Madera,/incidents/2011/7/21/eastman-fire/
-c2637a14-efd7-4360-a212-79550a549969,Hurricane Complex (Previously Santa Lucia Lighting Complex),2011-09-10T11:00:00Z,262,100,Santa Barbara,/incidents/2011/9/10/hurricane-complex-previously-santa-lucia-lighting-complex/
-a578e719-baa1-46d9-a32e-29789e0adeb0,Eastman Fire,2011-06-11T17:53:00Z,257,100,Stanislaus,/incidents/2011/6/11/eastman-fire/
-bc1bc3ec-b403-4d55-b855-d826c16d9579,Pala Fire,2011-08-29T10:30:00Z,223,100,San Diego,/incidents/2011/8/29/pala-fire/
-62e7ec26-278d-493f-8018-5c927506b1ba,Reliz Fire,2011-08-16T15:30:00Z,214,100,Monterey,/incidents/2011/8/16/reliz-fire/
-58794d04-5c98-4ca2-9e20-982f5f254066,Cobblestone Fire,2011-06-24T14:30:00Z,206,100,Stanislaus,/incidents/2011/6/24/cobblestone-fire/
-24107039-295a-4661-ab25-3ccddac662cc,Argyle Fire,2011-08-27T13:51:00Z,200,100,Monterey,/incidents/2011/8/27/argyle-fire/
-77de1446-4d28-4bc3-8b62-e55ea0575557,Collier Fire,2011-12-01T18:05:00Z,198,100,Contra Costa,/incidents/2011/12/1/collier-fire/
-7966a8b2-7228-415f-ba43-793c42e239ab,Garza Fire,2011-08-22T14:32:00Z,189,100,Riverside,/incidents/2011/8/22/garza-fire/
-9dae1bc1-aa3e-40a1-b132-8a82ed85d17f,Bitterwater Fire,2011-05-02T13:01:00Z,187,100,San Luis Obispo,/incidents/2011/5/2/bitterwater-fire/
-9150f3cb-db67-4e36-be27-d6a19b17b86c,Grant Fire,2011-06-14T22:20:00Z,175,100,Alameda,/incidents/2011/6/14/grant-fire/
-e6154b25-49ad-47c7-982a-196eff524035,Trilogy Fire,2011-06-02T12:22:00Z,160,100,Riverside,/incidents/2011/6/2/trilogy-fire/
-3a2346b6-06d1-4c28-b2e1-dd62fb33a904,Key Fire,2011-06-05T18:36:00Z,151,100,Kern,/incidents/2011/6/5/key-fire/
-40466799-222b-4cdd-ab2c-c9ec93035226,Ridge Fire,2011-08-28T14:29:00Z,150,100,San Diego,/incidents/2011/8/28/ridge-fire/
-119e54ec-2600-48bb-b60e-eeba430bfb1f,Patterson Fire,2011-08-23T12:13:00Z,147,100,Alameda,/incidents/2011/8/23/patterson-fire/
-19e6e2bb-b8f4-4fb0-be2d-089c62a22fd7,Round Up Fire,2011-06-01T08:54:00Z,144,100,San Bernardino,/incidents/2011/6/1/round-up-fire/
-20372e9b-2585-4cd9-89df-efb25c00a745,Yeager Fire,2011-08-11T15:55:00Z,140,100,Yuba,/incidents/2011/8/11/yeager-fire/
-e8ed640e-8bc7-404b-ad89-881b5d1854fc,Billy Fire,2011-06-23T14:41:00Z,140,100,Merced,/incidents/2011/6/23/billy-fire/
-1664d363-6cf5-44c1-8fde-c112cb0d3f0e,Sage Fire,2011-06-24T12:55:00Z,134,100,Riverside,/incidents/2011/6/24/sage-fire/
-a66bba24-ec54-4752-aba7-82fc79641ae8,Canyon Fire,2011-06-19T20:15:00Z,133,100,Fresno,/incidents/2011/6/19/canyon-fire/
-37e69a7e-bdee-4918-9c95-f83554f9ce13,El Dorado Complex,2011-12-01T11:00:00Z,132,100,El Dorado,/incidents/2011/12/1/el-dorado-complex/
-9b74ec54-0b7b-4c4b-86e5-a64d30aca165,MMU Lightning Complex,2011-07-31T12:40:00Z,129,100,Madera,/incidents/2011/7/31/mmu-lightning-complex/
-9b74ec54-0b7b-4c4b-86e5-a64d30aca165,MMU Lightning Complex,2011-07-31T12:40:00Z,129,100,Mariposa,/incidents/2011/7/31/mmu-lightning-complex/
-c3ccf1a9-082d-4c19-a441-c9838f83cdc5,Red Fire,2011-09-03T17:00:00Z,121,100,Tuolumne,/incidents/2011/9/3/red-fire/
-a2063440-a9ff-4d5a-9cd3-9352a2c3b167,Hawkinsville Fire ,2011-09-01T16:05:00Z,120,100,Siskiyou,/incidents/2011/9/1/hawkinsville-fire/
-352836ae-203e-466b-81e1-fcb646767e46,Deep Fire,2011-07-03T16:05:00Z,119,100,San Bernardino,/incidents/2011/7/3/deep-fire/
-dec43813-3006-41d9-8e29-23e2f616afcb,Southridge Fire,2011-07-27T15:40:00Z,112,100,Sutter,/incidents/2011/7/27/southridge-fire/
-8652e1c0-b8b0-43bd-b5bf-1fad4bbb4b40,Middle Fire,2011-07-22T16:48:00Z,100,100,Calaveras,/incidents/2011/7/22/middle-fire/
-52192cc2-74db-4c1f-8ded-d8254b8548a7,Hughes Fire,2011-06-23T11:00:00Z,100,100,Los Angeles,/incidents/2011/6/23/hughes-fire/
-e999374c-81e3-4b35-852f-031376b48367,Bee Fire,2011-06-05T15:42:00Z,100,100,San Diego,/incidents/2011/6/5/bee-fire/
-56eac02f-91f6-4e66-b83b-5b5bb3a0a5a6,Barrett Fire,2011-08-27T13:04:00Z,95,100,San Diego,/incidents/2011/8/27/barrett-fire/
-b67d8e96-86df-4adf-933e-9bf5cf1b3bf9,Ardo Fire,2011-08-12T15:54:00Z,94,100,Monterey,/incidents/2011/8/12/ardo-fire/
-a5351497-e999-484b-a8bb-6512fac8e3bc,Loma Fire,2011-11-01T21:05:00Z,90,100,Napa,/incidents/2011/11/1/loma-fire/
-ad3ffb6a-4043-4fc7-b8c6-89a1a3d91c05,Yosemite Fire,2011-08-28T16:27:00Z,85,100,San Luis Obispo,/incidents/2011/8/28/yosemite-fire/
-fa6e4bb4-6110-48b2-ab76-ce6b6a8f769b,Murray Fire,2011-07-25T13:44:00Z,83,100,Calaveras,/incidents/2011/7/25/murray-fire/
-31db8d05-7aed-4030-991a-882d6a628c1a,San Tim Fire,2011-07-20T13:58:00Z,80,100,Riverside,/incidents/2011/7/20/san-tim-fire/
-c52a1d4e-9f24-4105-94cb-e5f548591553,Hahn Fire,2011-07-19T15:57:00Z,80,100,Colusa,/incidents/2011/7/19/hahn-fire/
-6362e2fb-fff1-40b1-999c-e0a03b218bf8,Whitewater Fire,2011-07-19T10:28:00Z,80,100,Riverside,/incidents/2011/7/19/whitewater-fire/
-f8f7d8b8-15d5-48d7-8efd-84c216a4a817,198 Fire,2011-11-30T21:35:00Z,75,100,Monterey,/incidents/2011/11/30/198-fire/
-d1f7143e-350b-446d-b021-88a2b7162660,Watts Fire,2011-08-29T13:00:00Z,75,100,Fresno,/incidents/2011/8/29/watts-fire/
-130a4c9c-18c7-43d2-95a5-5d830b4692ba,Rosa Fire,2011-08-06T15:00:00Z,73,100,San Benito,/incidents/2011/8/6/rosa-fire/
-093600e0-2280-413b-9abf-66d530ab9e12,Honey Fire,2011-09-24T14:00:00Z,70,100,Butte,/incidents/2011/9/24/honey-fire/
-d34e97fe-1d3e-46cd-9fd1-aa4c9f617e60,Seven Fire,2011-05-14T13:45:00Z,70,100,San Luis Obispo,/incidents/2011/5/14/seven-fire/
-5a854fcd-265c-42ef-8771-31b7f6c71d69,Florida Fire,2011-08-28T11:41:00Z,67,100,San Bernardino,/incidents/2011/8/28/florida-fire/
-74a3948c-6430-40da-9dc5-6f3ae66eef29,Yager Fire,2011-11-10T11:08:00Z,60,100,Humboldt,/incidents/2011/11/10/yager-fire/
-fd652478-7229-4cd9-83aa-6d30958cd0e8,Wildcat Fire,2011-08-29T15:07:00Z,60,100,San Diego,/incidents/2011/8/29/wildcat-fire/
-f7e66575-72d1-4858-bbff-21757351d3fc,Freccero Fire,2011-09-07T16:23:00Z,57,100,Calaveras,/incidents/2011/9/7/freccero-fire/
-a3380213-c592-4ced-84ac-012d25db0e78,San Diego County Lightning Fires,2011-09-30T14:33:00Z,56,100,San Diego,/incidents/2011/9/30/san-diego-county-lightning-fires/
-7069ce1c-5726-45b1-bce9-225ed6dd274d,Banning Fire,2011-09-07T13:59:00Z,55,100,Riverside,/incidents/2011/9/7/banning-fire/
-1d232192-9c79-4e49-b5f4-6d5b4bca444e,Sites Fire,2011-08-03T21:42:00Z,55,100,Colusa,/incidents/2011/8/3/sites-fire/
-51d5973e-b4bd-4201-8c51-f3125c319157,Canyon Fire,2011-06-11T15:26:00Z,55,100,Riverside,/incidents/2011/6/11/canyon-fire/
-4e83b013-c626-47bf-9081-80054827117c,Mill Fire,2011-10-21T14:27:00Z,42,100,San Bernardino,/incidents/2011/10/21/mill-fire/
-c7e0622f-8fd2-4324-bb3a-d9e1d1eac48f,West Fire,2011-09-23T14:30:00Z,40,100,Fresno,/incidents/2011/9/23/west-fire/
-3babbd3f-53ec-4ddb-a61e-ada09d8d7842,Branch 2 Fire,2011-09-09T16:39:00Z,40,100,Mariposa,/incidents/2011/9/9/branch-2-fire/
-1af1847e-2aa0-4220-861d-b37556f2398c,School Fire,2011-07-13T14:04:00Z,40,100,Riverside,/incidents/2011/7/13/school-fire/
-0806934b-7304-41d4-838c-7dd1a67c52c0,Barn Fire,2011-08-06T14:30:00Z,36,100,San Benito,/incidents/2011/8/6/barn-fire/
-0806934b-7304-41d4-838c-7dd1a67c52c0,Barn Fire,2011-08-06T14:30:00Z,36,100,Monterey,/incidents/2011/8/6/barn-fire/
-91c24c4c-d84e-49f2-8bf6-196d5ae810e8,Pony Fire,2011-07-21T12:25:00Z,35,100,Riverside,/incidents/2011/7/21/pony-fire/
-502cfc51-7eba-47ee-a2f6-1efcc4d331d2,Wheelabrator Fire,2011-06-27T16:45:00Z,35,100,Shasta,/incidents/2011/6/27/wheelabrator-fire/
-0df8d22d-19f1-4d6c-bbd2-ef39a90175ff,Revis Fire,2011-07-24T13:00:00Z,30,100,Madera,/incidents/2011/7/24/revis-fire/
-7befe99b-25d9-4d49-aff7-e3bf1d3779f7,White Fire,2011-07-14T14:07:00Z,30,100,Sacramento,/incidents/2011/7/14/white-fire/
-ee3f64c1-7df4-48da-a825-abef6ecff543,McDonald Fire,2011-07-21T16:50:00Z,27,100,Santa Clara,/incidents/2011/7/21/mcdonald-fire/
-9e4c0ae7-22d9-4481-bc62-bfaf9485314e,Buffalo Fire,2011-07-15T15:22:00Z,26,100,San Diego,/incidents/2011/7/15/buffalo-fire/
-96c7aa1d-9238-40ed-8ef2-5d1ce96abc5e,Tyler 3,2011-07-30T17:37:00Z,25,100,Tulare,/incidents/2011/7/30/tyler-3/
-fe6f3af9-d381-4e06-b1b3-66b26bd5cb63,Lago Fire,2011-06-27T11:13:00Z,25,100,Riverside,/incidents/2011/6/27/lago-fire/
-56826196-aa67-4028-848b-d65f4f8fb952,Telegraph Fire,2011-06-24T16:00:00Z,25,100,Calaveras,/incidents/2011/6/24/telegraph-fire/
-a6737fd1-3a82-4f1e-a3ef-3b64cfca3751,Chalk Fire,2011-12-01T14:54:00Z,20,100,Nevada,/incidents/2011/12/1/chalk-fire/
-cb87d54f-b85b-48e1-883f-30d1ede00670,Hornitos Fire,2011-06-27T12:28:00Z,19,100,Mariposa,/incidents/2011/6/27/hornitos-fire/
-359b9971-ce29-4a18-ace9-4bad23d784e4,Lion Fire,2011-07-31T14:43:00Z,0,100,Tulare,/incidents/2011/7/31/lion-fire/
-73fd641f-96e2-4408-8aad-3363cf02e6b4,Highland Flooding Incident,2010-12-22T05:30:00Z,0,100,San Bernardino,/incidents/2011/12/22/highland-flooding-incident/
+UniqueId,Name,Started,AcresBurned,PercentContained,Counties,CanonicalUrl,ExternalIncidentLink
+881c8c4f-2fc9-4272-9009-9ada334cedf3,Comanche Fire Complex,2011-09-10T04:00:00Z,29338,100,Kern,/incidents/2011/9/10/comanche-fire-complex/,NA
+7ee515ca-4ce1-41da-9f2c-e1b2f541c89d,Breckenridge Complex,2011-09-10T10:55:00Z,25213,100,Kern,/incidents/2011/9/10/breckenridge-complex/,NA
+4bb50617-0e74-40d2-a8b4-3c290802e743,Canyon Fire,2011-09-04T11:30:00Z,14585,100,Kern,/incidents/2011/9/4/canyon-fire/,NA
+756ad033-959a-4277-bc7b-6993031407c9,Eagle Fire,2011-07-21T22:40:00Z,14100,100,San Diego,/incidents/2011/7/21/eagle-fire/,NA
+428fd528-450c-4542-9692-58bfa084164c,Keene Complex Fires,2011-09-10T02:30:00Z,10470,100,Kern,/incidents/2011/9/10/keene-complex-fires/,NA
+d074d5e6-5ea6-4d1e-be5b-84e4f7252c88,John Fire,2011-09-13T13:54:00Z,5353,100,Inyo,/incidents/2011/9/13/john-fire/,NA
+20779f37-5cf2-4df3-ad04-1f20838110f0,Motor Fire,2011-08-25T12:00:00Z,5231,100,Mariposa,/incidents/2011/8/25/motor-fire/,NA
+96dbcbd4-4958-4799-8801-e1970d758616,Antelope Fire,2011-06-19T10:15:00Z,5196,100,Kern,/incidents/2011/6/19/antelope-fire/,NA
+96dbcbd4-4958-4799-8801-e1970d758616,Antelope Fire,2011-06-19T10:15:00Z,5196,100,San Luis Obispo,/incidents/2011/6/19/antelope-fire/,NA
+68576615-b3af-4afa-b1e6-2aac11b6c859,Quinn Fire,2011-06-21T12:15:00Z,3147,100,Kern,/incidents/2011/6/21/quinn-fire/,NA
+43240199-a5d0-46ca-a4b3-76d2f8d92677,Scorpion Complex,2011-07-15T18:45:00Z,2945,100,Modoc,/incidents/2011/7/15/scorpion-complex/,NA
+b4128bec-27cf-4a01-aa16-4e4033c0f51e,Ken Fire,2011-08-22T13:03:00Z,2507,100,San Bernardino,/incidents/2011/8/22/ken-fire/,NA
+88e2464e-fcdd-4389-bd3f-a42a9b6ce4f1,Annie Fire,2011-08-18T11:00:00Z,2491,100,Modoc,/incidents/2011/8/18/annie-fire/,NA
+963fd60a-30c5-4d18-bfe5-3ef7f582be97,Kern County Lightning Fires,2011-09-23T17:00:00Z,2470,100,Kern,/incidents/2011/9/23/kern-county-lightning-fires/,NA
+c3f9a170-afca-4c47-8c43-3f2b5824c546,Great Fire,2011-10-01T12:53:00Z,2135,100,San Diego,/incidents/2011/10/1/great-fire/,NA
+ff13a744-b110-4773-9b88-71bca60c1fe8,Spanish Fire,2011-07-01T20:52:00Z,2011,100,Humboldt,/incidents/2011/7/1/spanish-fire/,NA
+0e4490a2-bd1a-4b76-bd15-80a904acc757,Canyon Fire,2011-06-20T16:07:00Z,2011,100,Trinity,/incidents/2011/6/20/canyon-fire/,NA
+fc9bc438-ac1a-42c9-b2e9-eca0bd9cb137,Cougar  Fire,2011-06-08T15:00:00Z,2000,100,Modoc,/incidents/2011/6/8/cougar-fire/,NA
+e1b5a52c-d446-403f-b710-801bd3c4213e,Ruth Fire,2011-09-23T12:00:00Z,1460,100,Trinity,/incidents/2011/9/23/ruth-fire/,NA
+9f0933c0-d267-4559-b0e0-2cf336724eb8,Soda Fire,2011-09-03T14:57:00Z,1300,100,San Luis Obispo,/incidents/2011/9/3/soda-fire/,NA
+736f80b5-e55d-4270-bddd-b433023ec7ff,Stage Fire,2011-06-27T13:44:00Z,1213,100,Tulare,/incidents/2011/6/27/stage-fire/,NA
+736f80b5-e55d-4270-bddd-b433023ec7ff,Stage Fire,2011-06-27T13:44:00Z,1213,100,Kern,/incidents/2011/6/27/stage-fire/,NA
+6583e040-9f77-48f4-9f46-f7eeffcf3fa3,Hill Fire,2011-09-02T13:00:00Z,1158,100,San Bernardino,/incidents/2011/9/2/hill-fire/,NA
+48de98d3-15fb-42e3-b8e7-d2fae03f1e75,TCU September Lightning,2011-09-09T07:33:00Z,1135,100,Calaveras,/incidents/2011/9/9/tcu-september-lightning/,NA
+beb51fb2-7a23-4b33-94a0-d0c77c9b2e8e,Cove Fire,2011-05-27T12:30:00Z,1122,100,Kern,/incidents/2011/5/27/cove-fire/,NA
+91eab2fd-6e29-4bef-89f2-9bae0b2dc47b,Milton Fire,2011-09-09T19:00:00Z,1112,100,Stanislaus,/incidents/2011/9/9/milton-fire/,NA
+c1e7b2c5-bc40-410e-9103-22fe89d1dd5c,Buckeye Fire,2011-09-25T11:00:00Z,1040,100,Mono,/incidents/2011/9/25/buckeye-fire/,NA
+e68165d0-5025-4700-a96c-976263b94364,Gilman Fire,2011-08-06T16:01:00Z,945,100,Riverside,/incidents/2011/8/6/gilman-fire/,NA
+7fe9b77d-2e64-4b32-baca-08ac4e910757,Center Fire,2011-03-18T15:18:00Z,850,100,Inyo,/incidents/2011/3/18/center-fire/,NA
+fc4a7da8-0375-4918-b55b-9a476bf9724c,Granite Fire,2011-07-09T15:49:00Z,832,100,Tulare,/incidents/2011/7/9/granite-fire/,NA
+fd90df1f-62d9-4668-b9cf-e2d7fd1942b8,Metz Fire,2011-05-12T18:18:00Z,832,100,Monterey,/incidents/2011/5/12/metz-fire/,NA
+c844bcae-2945-469f-8ba4-2a0cf0f71d33,Tuolumne-Calaveras Wind Event,2011-12-01T07:08:00Z,781,100,Tuolumne,/incidents/2011/12/1/tuolumne-calaveras-wind-event/,NA
+c844bcae-2945-469f-8ba4-2a0cf0f71d33,Tuolumne-Calaveras Wind Event,2011-12-01T07:08:00Z,781,100,Calaveras,/incidents/2011/12/1/tuolumne-calaveras-wind-event/,NA
+da76dc2e-f17b-498a-aeed-1d6a3843a520,Beacon Fire,2011-08-27T17:50:00Z,715,100,Solano,/incidents/2011/8/27/beacon-fire/,NA
+1e2b1ca4-d77c-42cd-a6fa-e51496b24d75,Figueroa Fire,2011-09-03T13:00:00Z,698,100,Santa Barbara,/incidents/2011/9/3/figueroa-fire/,NA
+2ac89454-1525-4f0a-97e6-81217e7da125,Mint Fire,2011-09-17T08:00:00Z,634,100,Los Angeles,/incidents/2011/9/17/mint-fire/,NA
+c1c1c8a0-0172-4d83-84e3-cd62dc915cc1,Pass Fire,2011-08-03T12:03:00Z,617,100,Mendocino,/incidents/2011/8/3/pass-fire/,NA
+16240be7-cdf4-44fe-8757-63a0a7c4130a,Rest Fire,2011-06-26T12:12:00Z,576,100,Merced,/incidents/2011/6/26/rest-fire/,NA
+061d5c12-c3c7-43c4-89a1-df78e637d5f2,Windy Point Fire,2011-09-24T18:53:00Z,541,100,Riverside,/incidents/2011/9/24/windy-point-fire/,NA
+c14539c1-4cfd-45dc-8c02-cc7ea9d89d3e,Flynn Fire,2011-07-21T21:32:00Z,517,100,Alameda,/incidents/2011/7/21/flynn-fire/,NA
+8c2193f5-aa3e-44b8-b402-ed166c0fb407,Knoxville Fire,2011-08-13T14:45:00Z,508,100,Napa,/incidents/2011/8/13/knoxville-fire/,NA
+09965958-2293-45d7-baba-d660f52ff14f,Romero Fire,2011-07-23T08:43:00Z,489,100,Merced,/incidents/2011/7/23/romero-fire/,NA
+1fb04452-67a6-4adf-a94c-71f63551f685,Keller Fire,2011-08-29T13:01:00Z,458,100,Riverside,/incidents/2011/8/29/keller-fire/,NA
+494a4dc1-246d-4b26-ab77-2bddcffdd101,Highway Fire,2011-06-24T15:20:00Z,438,100,San Luis Obispo,/incidents/2011/6/24/highway-fire/,NA
+277c7ff6-b577-4fe5-b7f5-0a8cf99f021e,South Lightning (Tennessee Fire),2011-09-11T12:00:00Z,407,100,Tulare,/incidents/2011/9/11/south-lightning-tennessee-fire/,NA
+e6151dce-34cd-41d1-b97f-2fb259e7c6a6,Tulare County Lightning Fires,2011-09-23T21:45:00Z,400,100,Tulare,/incidents/2011/9/23/tulare-county-lightning-fires/,NA
+cb1ef177-51ea-48d9-acbe-f4b6c43fd57a,Flynn Fire,2011-07-14T13:15:00Z,400,100,Alameda,/incidents/2011/7/14/flynn-fire/,NA
+3b616329-38da-4c3d-98cb-d7ed4928fa8a,Chrisman Fire,2011-07-05T16:37:00Z,400,100,San Joaquin,/incidents/2011/7/5/chrisman-fire/,NA
+3acc8556-713f-4dc6-beaf-7f86fbed1bf5,Cattleman Fire,2011-05-29T15:53:00Z,384,100,Monterey,/incidents/2011/5/29/cattleman-fire/,NA
+570e1ed0-0b99-49f8-985e-e61a378bbed9,Border 9 FIre,2011-06-21T06:30:00Z,380,100,San Diego,/incidents/2011/6/21/border-9-fire/,NA
+3926cf58-789c-400d-a718-a622ec5fb870,Oasis Fire,2011-08-27T13:44:00Z,355,100,Los Angeles,/incidents/2011/8/27/oasis-fire/,NA
+98b0a918-cbd0-4d10-bc1f-e81b62aaa346,Krista Fire,2011-07-09T16:06:00Z,350,100,Yuba,/incidents/2011/7/9/krista-fire/,NA
+695c9285-2e46-4f9e-a0e7-a7e2c404ad69,Wagon Wheel Fire,2011-09-05T12:54:00Z,345,100,Los Angeles,/incidents/2011/9/5/wagon-wheel-fire/,NA
+6dab3a26-d407-4975-85bd-35fe79413228,Roadrunner Fire,2011-09-04T13:42:00Z,335,100,Tulare,/incidents/2011/9/4/roadrunner-fire/,NA
+b6adb6bf-cb8c-4529-9b43-72323a376510,Eastman Fire,2011-06-24T13:50:00Z,300,100,Stanislaus,/incidents/2011/6/24/eastman-fire/,NA
+05c03217-e63f-4230-9c0b-1f452ebe936a,Bowen Fire,2011-06-09T18:39:00Z,295,100,San Bernardino,/incidents/2011/6/9/bowen-fire/,NA
+14c84a93-e18a-4aa1-8382-48de4f8aeaf7,Eastman Fire,2011-07-21T20:02:00Z,292,100,Madera,/incidents/2011/7/21/eastman-fire/,NA
+c2637a14-efd7-4360-a212-79550a549969,Hurricane Complex (Previously Santa Lucia Lighting Complex),2011-09-10T11:00:00Z,262,100,Santa Barbara,/incidents/2011/9/10/hurricane-complex-previously-santa-lucia-lighting-complex/,NA
+a578e719-baa1-46d9-a32e-29789e0adeb0,Eastman Fire,2011-06-11T17:53:00Z,257,100,Stanislaus,/incidents/2011/6/11/eastman-fire/,NA
+bc1bc3ec-b403-4d55-b855-d826c16d9579,Pala Fire,2011-08-29T10:30:00Z,223,100,San Diego,/incidents/2011/8/29/pala-fire/,NA
+62e7ec26-278d-493f-8018-5c927506b1ba,Reliz Fire,2011-08-16T15:30:00Z,214,100,Monterey,/incidents/2011/8/16/reliz-fire/,NA
+58794d04-5c98-4ca2-9e20-982f5f254066,Cobblestone Fire,2011-06-24T14:30:00Z,206,100,Stanislaus,/incidents/2011/6/24/cobblestone-fire/,NA
+24107039-295a-4661-ab25-3ccddac662cc,Argyle Fire,2011-08-27T13:51:00Z,200,100,Monterey,/incidents/2011/8/27/argyle-fire/,NA
+77de1446-4d28-4bc3-8b62-e55ea0575557,Collier Fire,2011-12-01T18:05:00Z,198,100,Contra Costa,/incidents/2011/12/1/collier-fire/,NA
+7966a8b2-7228-415f-ba43-793c42e239ab,Garza Fire,2011-08-22T14:32:00Z,189,100,Riverside,/incidents/2011/8/22/garza-fire/,NA
+9dae1bc1-aa3e-40a1-b132-8a82ed85d17f,Bitterwater Fire,2011-05-02T13:01:00Z,187,100,San Luis Obispo,/incidents/2011/5/2/bitterwater-fire/,NA
+9150f3cb-db67-4e36-be27-d6a19b17b86c,Grant Fire,2011-06-14T22:20:00Z,175,100,Alameda,/incidents/2011/6/14/grant-fire/,NA
+e6154b25-49ad-47c7-982a-196eff524035,Trilogy Fire,2011-06-02T12:22:00Z,160,100,Riverside,/incidents/2011/6/2/trilogy-fire/,NA
+3a2346b6-06d1-4c28-b2e1-dd62fb33a904,Key Fire,2011-06-05T18:36:00Z,151,100,Kern,/incidents/2011/6/5/key-fire/,NA
+40466799-222b-4cdd-ab2c-c9ec93035226,Ridge Fire,2011-08-28T14:29:00Z,150,100,San Diego,/incidents/2011/8/28/ridge-fire/,NA
+119e54ec-2600-48bb-b60e-eeba430bfb1f,Patterson Fire,2011-08-23T12:13:00Z,147,100,Alameda,/incidents/2011/8/23/patterson-fire/,NA
+19e6e2bb-b8f4-4fb0-be2d-089c62a22fd7,Round Up Fire,2011-06-01T08:54:00Z,144,100,San Bernardino,/incidents/2011/6/1/round-up-fire/,NA
+20372e9b-2585-4cd9-89df-efb25c00a745,Yeager Fire,2011-08-11T15:55:00Z,140,100,Yuba,/incidents/2011/8/11/yeager-fire/,NA
+e8ed640e-8bc7-404b-ad89-881b5d1854fc,Billy Fire,2011-06-23T14:41:00Z,140,100,Merced,/incidents/2011/6/23/billy-fire/,NA
+1664d363-6cf5-44c1-8fde-c112cb0d3f0e,Sage Fire,2011-06-24T12:55:00Z,134,100,Riverside,/incidents/2011/6/24/sage-fire/,NA
+a66bba24-ec54-4752-aba7-82fc79641ae8,Canyon Fire,2011-06-19T20:15:00Z,133,100,Fresno,/incidents/2011/6/19/canyon-fire/,NA
+37e69a7e-bdee-4918-9c95-f83554f9ce13,El Dorado Complex,2011-12-01T11:00:00Z,132,100,El Dorado,/incidents/2011/12/1/el-dorado-complex/,NA
+9b74ec54-0b7b-4c4b-86e5-a64d30aca165,MMU Lightning Complex,2011-07-31T12:40:00Z,129,100,Madera,/incidents/2011/7/31/mmu-lightning-complex/,NA
+9b74ec54-0b7b-4c4b-86e5-a64d30aca165,MMU Lightning Complex,2011-07-31T12:40:00Z,129,100,Mariposa,/incidents/2011/7/31/mmu-lightning-complex/,NA
+c3ccf1a9-082d-4c19-a441-c9838f83cdc5,Red Fire,2011-09-03T17:00:00Z,121,100,Tuolumne,/incidents/2011/9/3/red-fire/,NA
+a2063440-a9ff-4d5a-9cd3-9352a2c3b167,Hawkinsville Fire ,2011-09-01T16:05:00Z,120,100,Siskiyou,/incidents/2011/9/1/hawkinsville-fire/,NA
+352836ae-203e-466b-81e1-fcb646767e46,Deep Fire,2011-07-03T16:05:00Z,119,100,San Bernardino,/incidents/2011/7/3/deep-fire/,NA
+dec43813-3006-41d9-8e29-23e2f616afcb,Southridge Fire,2011-07-27T15:40:00Z,112,100,Sutter,/incidents/2011/7/27/southridge-fire/,NA
+8652e1c0-b8b0-43bd-b5bf-1fad4bbb4b40,Middle Fire,2011-07-22T16:48:00Z,100,100,Calaveras,/incidents/2011/7/22/middle-fire/,NA
+52192cc2-74db-4c1f-8ded-d8254b8548a7,Hughes Fire,2011-06-23T11:00:00Z,100,100,Los Angeles,/incidents/2011/6/23/hughes-fire/,NA
+e999374c-81e3-4b35-852f-031376b48367,Bee Fire,2011-06-05T15:42:00Z,100,100,San Diego,/incidents/2011/6/5/bee-fire/,NA
+56eac02f-91f6-4e66-b83b-5b5bb3a0a5a6,Barrett Fire,2011-08-27T13:04:00Z,95,100,San Diego,/incidents/2011/8/27/barrett-fire/,NA
+b67d8e96-86df-4adf-933e-9bf5cf1b3bf9,Ardo Fire,2011-08-12T15:54:00Z,94,100,Monterey,/incidents/2011/8/12/ardo-fire/,NA
+a5351497-e999-484b-a8bb-6512fac8e3bc,Loma Fire,2011-11-01T21:05:00Z,90,100,Napa,/incidents/2011/11/1/loma-fire/,NA
+ad3ffb6a-4043-4fc7-b8c6-89a1a3d91c05,Yosemite Fire,2011-08-28T16:27:00Z,85,100,San Luis Obispo,/incidents/2011/8/28/yosemite-fire/,NA
+fa6e4bb4-6110-48b2-ab76-ce6b6a8f769b,Murray Fire,2011-07-25T13:44:00Z,83,100,Calaveras,/incidents/2011/7/25/murray-fire/,NA
+31db8d05-7aed-4030-991a-882d6a628c1a,San Tim Fire,2011-07-20T13:58:00Z,80,100,Riverside,/incidents/2011/7/20/san-tim-fire/,NA
+c52a1d4e-9f24-4105-94cb-e5f548591553,Hahn Fire,2011-07-19T15:57:00Z,80,100,Colusa,/incidents/2011/7/19/hahn-fire/,NA
+6362e2fb-fff1-40b1-999c-e0a03b218bf8,Whitewater Fire,2011-07-19T10:28:00Z,80,100,Riverside,/incidents/2011/7/19/whitewater-fire/,NA
+f8f7d8b8-15d5-48d7-8efd-84c216a4a817,198 Fire,2011-11-30T21:35:00Z,75,100,Monterey,/incidents/2011/11/30/198-fire/,NA
+d1f7143e-350b-446d-b021-88a2b7162660,Watts Fire,2011-08-29T13:00:00Z,75,100,Fresno,/incidents/2011/8/29/watts-fire/,NA
+130a4c9c-18c7-43d2-95a5-5d830b4692ba,Rosa Fire,2011-08-06T15:00:00Z,73,100,San Benito,/incidents/2011/8/6/rosa-fire/,NA
+093600e0-2280-413b-9abf-66d530ab9e12,Honey Fire,2011-09-24T14:00:00Z,70,100,Butte,/incidents/2011/9/24/honey-fire/,NA
+d34e97fe-1d3e-46cd-9fd1-aa4c9f617e60,Seven Fire,2011-05-14T13:45:00Z,70,100,San Luis Obispo,/incidents/2011/5/14/seven-fire/,NA
+5a854fcd-265c-42ef-8771-31b7f6c71d69,Florida Fire,2011-08-28T11:41:00Z,67,100,San Bernardino,/incidents/2011/8/28/florida-fire/,NA
+74a3948c-6430-40da-9dc5-6f3ae66eef29,Yager Fire,2011-11-10T11:08:00Z,60,100,Humboldt,/incidents/2011/11/10/yager-fire/,NA
+fd652478-7229-4cd9-83aa-6d30958cd0e8,Wildcat Fire,2011-08-29T15:07:00Z,60,100,San Diego,/incidents/2011/8/29/wildcat-fire/,NA
+f7e66575-72d1-4858-bbff-21757351d3fc,Freccero Fire,2011-09-07T16:23:00Z,57,100,Calaveras,/incidents/2011/9/7/freccero-fire/,NA
+a3380213-c592-4ced-84ac-012d25db0e78,San Diego County Lightning Fires,2011-09-30T14:33:00Z,56,100,San Diego,/incidents/2011/9/30/san-diego-county-lightning-fires/,NA
+7069ce1c-5726-45b1-bce9-225ed6dd274d,Banning Fire,2011-09-07T13:59:00Z,55,100,Riverside,/incidents/2011/9/7/banning-fire/,NA
+1d232192-9c79-4e49-b5f4-6d5b4bca444e,Sites Fire,2011-08-03T21:42:00Z,55,100,Colusa,/incidents/2011/8/3/sites-fire/,NA
+51d5973e-b4bd-4201-8c51-f3125c319157,Canyon Fire,2011-06-11T15:26:00Z,55,100,Riverside,/incidents/2011/6/11/canyon-fire/,NA
+4e83b013-c626-47bf-9081-80054827117c,Mill Fire,2011-10-21T14:27:00Z,42,100,San Bernardino,/incidents/2011/10/21/mill-fire/,NA
+c7e0622f-8fd2-4324-bb3a-d9e1d1eac48f,West Fire,2011-09-23T14:30:00Z,40,100,Fresno,/incidents/2011/9/23/west-fire/,NA
+3babbd3f-53ec-4ddb-a61e-ada09d8d7842,Branch 2 Fire,2011-09-09T16:39:00Z,40,100,Mariposa,/incidents/2011/9/9/branch-2-fire/,NA
+1af1847e-2aa0-4220-861d-b37556f2398c,School Fire,2011-07-13T14:04:00Z,40,100,Riverside,/incidents/2011/7/13/school-fire/,NA
+0806934b-7304-41d4-838c-7dd1a67c52c0,Barn Fire,2011-08-06T14:30:00Z,36,100,San Benito,/incidents/2011/8/6/barn-fire/,NA
+0806934b-7304-41d4-838c-7dd1a67c52c0,Barn Fire,2011-08-06T14:30:00Z,36,100,Monterey,/incidents/2011/8/6/barn-fire/,NA
+91c24c4c-d84e-49f2-8bf6-196d5ae810e8,Pony Fire,2011-07-21T12:25:00Z,35,100,Riverside,/incidents/2011/7/21/pony-fire/,NA
+502cfc51-7eba-47ee-a2f6-1efcc4d331d2,Wheelabrator Fire,2011-06-27T16:45:00Z,35,100,Shasta,/incidents/2011/6/27/wheelabrator-fire/,NA
+0df8d22d-19f1-4d6c-bbd2-ef39a90175ff,Revis Fire,2011-07-24T13:00:00Z,30,100,Madera,/incidents/2011/7/24/revis-fire/,NA
+7befe99b-25d9-4d49-aff7-e3bf1d3779f7,White Fire,2011-07-14T14:07:00Z,30,100,Sacramento,/incidents/2011/7/14/white-fire/,NA
+ee3f64c1-7df4-48da-a825-abef6ecff543,McDonald Fire,2011-07-21T16:50:00Z,27,100,Santa Clara,/incidents/2011/7/21/mcdonald-fire/,NA
+9e4c0ae7-22d9-4481-bc62-bfaf9485314e,Buffalo Fire,2011-07-15T15:22:00Z,26,100,San Diego,/incidents/2011/7/15/buffalo-fire/,NA
+96c7aa1d-9238-40ed-8ef2-5d1ce96abc5e,Tyler 3,2011-07-30T17:37:00Z,25,100,Tulare,/incidents/2011/7/30/tyler-3/,NA
+fe6f3af9-d381-4e06-b1b3-66b26bd5cb63,Lago Fire,2011-06-27T11:13:00Z,25,100,Riverside,/incidents/2011/6/27/lago-fire/,NA
+56826196-aa67-4028-848b-d65f4f8fb952,Telegraph Fire,2011-06-24T16:00:00Z,25,100,Calaveras,/incidents/2011/6/24/telegraph-fire/,NA
+a6737fd1-3a82-4f1e-a3ef-3b64cfca3751,Chalk Fire,2011-12-01T14:54:00Z,20,100,Nevada,/incidents/2011/12/1/chalk-fire/,NA
+cb87d54f-b85b-48e1-883f-30d1ede00670,Hornitos Fire,2011-06-27T12:28:00Z,19,100,Mariposa,/incidents/2011/6/27/hornitos-fire/,NA
+359b9971-ce29-4a18-ace9-4bad23d784e4,Lion Fire,2011-07-31T14:43:00Z,0,100,Tulare,/incidents/2011/7/31/lion-fire/,NA
+73fd641f-96e2-4408-8aad-3363cf02e6b4,Highland Flooding Incident,2010-12-22T05:30:00Z,0,100,San Bernardino,/incidents/2011/12/22/highland-flooding-incident/,NA

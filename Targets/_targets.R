@@ -4,7 +4,7 @@ options(tidyverse.quiet = TRUE)
 list(
   tar_target(
     years,
-    command = years<-c(2010:2020)
+    command = years<-c(2010:2021)
   ),
   tar_target(
     clean_data,
@@ -19,3 +19,12 @@ list(
   )
 )
 
+
+## For making master
+library(data.table)  
+files <- list.files(path = "../Data",pattern = ".csv")
+setwd("/Users/gpstraus/Dropbox/Summer 1 Projects/california-fire-tracking/Data")
+All <- lapply(files,function(i){
+  read_csv(i)
+}) %>% bind_rows()
+write_csv(All, "Master_CA_Tracking.csv")
